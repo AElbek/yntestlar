@@ -4,11 +4,9 @@ import asyncio
 import os
 from dotenv import load_dotenv
 from telegram.constants import ParseMode
-from telegram import (
-    Update, Poll, InlineKeyboardMarkup, InlineKeyboardButton
-)
+from telegram import Update, Poll, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import (
-    Application, CommandHandler, PollAnswerHandler,
+    ApplicationBuilder, CommandHandler, PollAnswerHandler,
     MessageHandler, filters, ContextTypes, CallbackQueryHandler
 )
 
@@ -41,14 +39,13 @@ load_files()
 poll_data = {}
 user_stats = {}
 user_states = {}
-
-# ➕ Fanlar bo‘yicha test ishlatilish hisoblagichi
 fan_usage_counts = {}
 
 # 🟢 /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
-    state = user_states.get(user_id, {})
+    user_states.setdefault(user_id, {"active": False, "selected_file": None})
+    state = user_states[user_id]
 
     if not state.get("selected_file"):
         await topics(update, context)
@@ -64,9 +61,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("❗ Test savollari topilmadi.")
         return
 
-    # --- Yangi qator: fan foydalanish hisoblagichi ---
     fan_usage_counts[selected_file] = fan_usage_counts.get(selected_file, 0) + 1
-
     random.shuffle(all_questions)
     delay = test_delays.get(selected_file, 15)
     user_states[user_id] = {
@@ -83,15 +78,12 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # ⛔ /stop
 async def stop(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
-    state = user_states.get(user_id, {})
-
-    if not state.get("active"):
+    if user_id not in user_states or not user_states[user_id].get("active"):
         await update.message.reply_text("⛔ Faol test yo‘q.")
         return
 
     user_states[user_id]["active"] = False
     stat = user_stats.pop(user_id, None)
-
     if not stat:
         await update.message.reply_text("⚠️ Test statistikasi yo‘q.")
         return
@@ -108,17 +100,13 @@ async def topics(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("❗ Hech qanday test fayli topilmadi.")
         return
 
-    buttons = [
-        [InlineKeyboardButton(fname.replace(".json", ""), callback_data=f"select:{fname}")]
-        for fname in test_files
-    ]
+    buttons = [[InlineKeyboardButton(fname.replace(".json", ""), callback_data=f"select:{fname}")] for fname in test_files]
     markup = InlineKeyboardMarkup(buttons)
     await update.message.reply_text("📚 Fanni tanlang:", reply_markup=markup)
 
 # 🔁 /reload
 async def reload_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    if user_id not in ADMIN_IDS:
+    if update.effective_user.id not in ADMIN_IDS:
         await update.message.reply_text("⛔ Siz admin emassiz.")
         return
 
@@ -130,6 +118,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
     user_id = query.from_user.id
+    user_states.setdefault(user_id, {"active": False, "selected_file": None})
     data = query.data
 
     if data.startswith("select:"):
@@ -154,7 +143,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await query.edit_message_text("⛔ Test to‘xtatildi.")
             user_states[user_id]["active"] = False
 
-# 📤 Savol yuborish (variantlar random tartibda)
+# 📤 Savol yuborish
 async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     state = user_states.get(user_id)
     if not state or not state.get("active"):
@@ -168,8 +157,6 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
         return
 
     question = questions[index]
-
-    # 🔀 Variantlarni random tartibda aralashtirish
     original_options = question["options"]
     correct_index = question["correct_index"]
     correct_answer = original_options[correct_index]
@@ -178,7 +165,6 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     random.shuffle(shuffled_options)
     new_correct_index = shuffled_options.index(correct_answer)
 
-    # 🔐 To‘g‘ri javob indeksini poll_data ga saqlash (optional, agar kerak bo‘lsa)
     msg = await context.bot.send_poll(
         chat_id=chat_id,
         question=f"[{index+1}/{len(questions)}] {question['question'][:300]}",
@@ -193,15 +179,16 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
         "chat_id": chat_id,
         "user_id": user_id,
         "answered_users": set(),
-        "correct_index": new_correct_index  # foydali bo'lishi mumkin
+        "correct_index": new_correct_index
     }
 
     delay = test_delays.get(state["selected_file"], 15)
-    context.job_queue.run_once(
-        send_next_question_auto,
-        delay,
-        data={"poll_id": msg.poll.id, "chat_id": chat_id, "user_id": user_id}
-    )
+    if context.job_queue:
+        context.job_queue.run_once(
+            send_next_question_auto,
+            delay,
+            data={"poll_id": msg.poll.id, "chat_id": chat_id, "user_id": user_id}
+        )
 
 # ⏭️ Avto-yuborish
 async def send_next_question_auto(context: ContextTypes.DEFAULT_TYPE):
@@ -230,20 +217,16 @@ async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE
     user_id = update.poll_answer.user.id
     option_ids = update.poll_answer.option_ids
 
-    # Agar poll ma'lumotlar ro'yxatida bo'lmasa, chiqib ketamiz
     if poll_id not in poll_data:
         return
 
     data = poll_data[poll_id]
 
-    # Agar foydalanuvchi allaqachon javob bergan bo'lsa, chiqib ketamiz
     if user_id in data["answered_users"]:
         return
 
-    # Foydalanuvchini "javob berdi" deb belgilaymiz
     data["answered_users"].add(user_id)
 
-    # 🔐 Foydalanuvchi statistikasi mavjud emasligini tekshirish va yaratish
     if user_id not in user_stats:
         user_stats[user_id] = {
             "name": update.poll_answer.user.full_name,
@@ -251,11 +234,9 @@ async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE
             "total": 0
         }
 
-    # ✅ To‘g‘ri javob bo‘lsa, "correct"ni oshiramiz
-    if option_ids and option_ids[0] == data["question"]["correct_index"]:
+    if option_ids and option_ids[0] == data["correct_index"]:
         user_stats[user_id]["correct"] += 1
 
-    # Har holda "total" savollar sonini oshiramiz
     user_stats[user_id]["total"] += 1
 
 # 📈 /stat
@@ -286,7 +267,7 @@ async def show_statistics(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # 🟢 Botni ishga tushurish
 def main():
-    app = Application.builder().token(BOT_TOKEN).build()
+    app = ApplicationBuilder().token(BOT_TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("stop", stop))
