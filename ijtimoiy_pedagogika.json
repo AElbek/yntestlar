@@ -1,0 +1,2231 @@
+[
+  {
+    "question": "“Eng ilg’or g’oyalar va ilmiy konsepsilar bilan boyitilgan davr desak to’g’ri bo’ladi” ijtimoiy pedagogika rivojining qaysi davri?",
+    "options": [
+      "XVII XIX asrlar ijtimoiy pedagogika rivojining 2 davri",
+      "ijtimoiy pedagogika rivojining antik davri",
+      "ijtimoiy pedagogika rivojining 3 davri",
+      "ijtimoiy pedagogika rivoji davrlarga ajratilmagan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’z tengdoshlaridan o’qishda ortda qoladilar, chunki ularda xotira, tafakkur va tasavvur xislari yaxshi rivojlanmagan …",
+    "options": [
+      "Tarbiyasi og’ir o’smirlar,o’spirinlar",
+      "Giyohvand o’smirlar",
+      "Tarbiyasi og’ir bolalar",
+      "Ijtimoiy og’ishgan o’spirinlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ichki faktor o'z ichiga nimani qamrab oladi?",
+    "options": [
+      "fanning turli sohalarini qamrab oladi",
+      "siyosiy va geologik omillarni qamrab oladi",
+      "biologik va irsiy omillarni qamrab oladi",
+      "ijtimoiy va biologik muhitni qamrab oladi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qaysi jarayonda  tarbiyalanuvchilarning shaxsiga muntazam sistemali ta'sir ko'rsatish imkoniyati mavjud?",
+    "options": [
+      "tarbiya",
+      "dars",
+      "ijtimoiylashuv",
+      "tabiiy,biologik faktorlarda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy omillar necha guruxga bo'linadi?",
+    "options": [
+      "2 ta",
+      "3 ta",
+      "5 ta",
+      "7 ta"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Tarixan vujudga kelgan ijtimoiy hodisa bu...?",
+    "options": [
+      "axloq",
+      "intizom",
+      "tarbiya",
+      "Ijtimoiylashuv"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Insonlarning qarami dinidandur, muruvvati aqlidandir, nasabi ahloqdandur...\" ushbu fikr muallifini taniqlang?",
+    "options": [
+      "Rasuli Akrom s.a.v",
+      "A.Avloniy",
+      "Ibrohim a.s.",
+      "Forobiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "L.I.Bojovich tomonidan ilgari surilgan fikrni belgilang?",
+    "options": [
+      "shaxsni maqsadga muvofiq takomillashtiruvchi uyushgan pedagogik jarayonlar",
+      "odam shaxs bolishi uchun u psixik jihatdan rivojlanishi,o'zini bir inson deb his qilishi kerak",
+      "atrof muhitda bo'ladigan hodisalarga fikr bildirishi",
+      "pedagogikaning turli tarmoqlarida inson o'zini sinab korishi kerak"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy maqomning qanday turlari mavjud?",
+    "options": [
+      "tabiiy va biologik",
+      "tug'ma va orttirilgan",
+      "muntazam va sistemali",
+      "uzluksiz"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"Har bir inson yashash va yuksaklikka erishish uchun ko'p narsalarga muhtoj bo'ladi.Buni u o'zi qila olmaydi va insonlar jamoasiga ehtiyoj sezadi...\"- ushbu fikr muallifini belgilang.",
+    "options": [
+      "A.Avloniy",
+      "Bojovich",
+      "Akram s.a.v",
+      "Forobiy"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Progmatik yo'nalishda ijod qilganlar kimlar?",
+    "options": [
+      "D.Dyui va A.Kombslar",
+      "E.Trondyak va T.Edisson",
+      "B.Dekart va D.Dyui",
+      "A.Kombslar va Bojovich"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiylashuvning samaradorligini bildiruvchi omillarning eng muhim korsatkichi bu...?",
+    "options": [
+      "ta'lim va tarbiya",
+      "ijtimoiy harakatchanlik va tarbiya",
+      "ijtimoiy faollik va harakatchanlik",
+      "tarbiya va tasavvuf"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Preforizm oqimi nechanchi asrda vujudga kelgan?",
+    "options": [
+      "XV asrda",
+      "XVII asrda",
+      "XIV asrda",
+      "XVIII asrda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Preforizm oqimi qaysi fan negizida vujudga kelgan?",
+    "options": [
+      "sotsiologiya",
+      "tarix",
+      "falsafa",
+      "falakkiyot"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qaysi oqim \"Ijtimoiy muhit va tarbiyaning rolini chegaralab qo'yadi\"?",
+    "options": [
+      "Bixevorizm",
+      "progmatik",
+      "diniy oqim",
+      "preforizm"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "\"Imkoniyati cheklangan shaxs tushunchasi qaysi davlatlarda bor?",
+    "options": [
+      "g'arb davlatlarida",
+      "sharq mamlakatlarida",
+      "Osiyoda",
+      "Janubiy Amerikada"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oilaning…ijtimoiy maqomli turi bor?",
+    "options": [
+      "2 ta",
+      "4 ta",
+      "7 ta",
+      "3 ta"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Deviant xulq atvor qaysi javobda berilgan?",
+    "options": [
+      "Namoyish,Agressiya, Chaqiruv,O`qishdan qochish va daydilik",
+      "Xo'rlash",
+      "Haqoratlash",
+      "ta'magirlik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O'smirlar ichida ichkillikka berilishni qaysi guruhga kiritamiz?",
+    "options": [
+      "Delinkvent",
+      "Reproduktiv",
+      "Deviant",
+      "Kriminogen"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nima shaxs tarbiyasida eng muhim vazifani bajaradi?",
+    "options": [
+      "Tarbiya",
+      "Oila",
+      "Maktab",
+      "Axloq"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oilada qanday xususiyatlar shakllanadi?",
+    "options": [
+      "individual qobiliyatlar, shaxsiy, kasbiy qiziqishlar, axloqiy me'yorlar",
+      "Ijodiy imkoniyatlar, zakovat, aqliy salohiyat",
+      "Ma'naviy tarbiya, jismoniy sog'lik, namuna",
+      "Aqliy va ruhiy salomatlik, tarbiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning fan sifatida  rivojlanishining birinchi bosqichi qaysi davrlarni o'z ichiga oladi?",
+    "options": [
+      "qadimgi davrdan XVII asrgacha",
+      "qadimdan XII asrgacha",
+      "qadimgi davrdan XVIII asrgacha",
+      "qadimdan  X asrgacha"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"...“ bola tarbiyasini yoshligidan boshlamoq kerak\" - ushbu fikr kimga tegishli?",
+    "options": [
+      "Aflotun",
+      "Demokrit",
+      "Arastu",
+      "M.Fabiy"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "XV-XVI asrlarda kapitalistik munosabatlar qaysi davlatlarda rivoj topa boshladi?",
+    "options": [
+      "Ispaniya va Osiyo davlatlarida",
+      "Kanada va Yevropada",
+      "Italiya va Yevropaning boshqa davlatlarida",
+      "Aqsh va Yevropada"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Quvonch uyi\" nomli internat maktabi kim tomonidan yaratilgan?",
+    "options": [
+      "Aflotun",
+      "M.Fabiy",
+      "Kesariy",
+      "Vitorine de Gentre"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ilk tarbiya uyiga kim qachon asos solgan?",
+    "options": [
+      "IV asr Kesariy",
+      "IV asr M.Fabiy",
+      "III asr J.Russo",
+      "VII asr Gelvetsiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Parijda ochilgan tarbiya uyiga kim tomonidan asos solingan?",
+    "options": [
+      "A.Gelvetsiy",
+      "V.Depolen",
+      "V.Lomonosov",
+      "I.Pestalotsi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"... ning fikriga ko'ra tarbiya davlatning eng muhim vazifasi...\"-ushbu fikr kimga tegishli?",
+    "options": [
+      "Demokrit",
+      "Diogen",
+      "Aflotun",
+      "Arastu"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ingliz faylasufi Gerbert Spenser qanday mazmundagi asarlar yaratgan?",
+    "options": [
+      "oilaning shaxs shakllanishidagi o'rni haqidagi ijtimoiy pedagogik asarlar",
+      "diniy maruzalarning mazmun mohiyati keng yoritilgan asarlar",
+      "Dunyo tillari pedagogikasi haqida",
+      "tarbiya uylari haqida"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"Pedalogiya\" qaysi asrdan rivojlana boshladi?",
+    "options": [
+      "VII asrdan",
+      "XV asrdan",
+      "XX asrdan",
+      "XXI asrdan"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Pedalogiya\" qanday fan?",
+    "options": [
+      "bolani har tomonlama o'rganish haqida",
+      "bolaga diniy ta'lim berish haqida",
+      "bolaga dunyoviy bilim berish haqida",
+      "bolani sportga yo'naltirish haqida"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"As-sahih” asarini tahlil qilgan olim kim?",
+    "options": [
+      "Rouzental",
+      "Russo",
+      "Aflotun",
+      "Pestalotsi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Parijda mashhur bo'lgan tarbiya uyi qachon ochilgan?",
+    "options": [
+      "1640-yilda",
+      "1641-yilda",
+      "1956-yilda",
+      "1950-yilda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Davlat va tarbiyaning o'zaro munosabati g'oyasini kim ilgari surgan?",
+    "options": [
+      "Aflotun",
+      "Russo",
+      "Boymer",
+      "Mudrik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Xusravning quyidagi gaplarini davom ettiring \"Munofiq kekkaygan do'stdan ko'ra-...\"",
+    "options": [
+      "dushman afzal",
+      "boshqa do'st top",
+      "sen sodiq itni afzal kor",
+      "doim yoningda bo'ladigan do'st izla"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qaysi faktorlar buzilishi tufayli shizofreniya va qon kasalliklari kelib chiqadi?",
+    "options": [
+      "ekologik xamda biologik",
+      "mezo",
+      "makro",
+      "biologik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "pedagogikaning asosiy  mezoni nima?",
+    "options": [
+      "ta’lim,tarbiya",
+      "Ta‘lim ,ko’nikma",
+      "O‘qish ,bilim",
+      "BILIM ,istedot"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Deviant xatti harakat nima?",
+    "options": [
+      "Pisixologik sag‘lom shaxslar tamonidan meyoriy qoidalarni buzish.",
+      "Ijtimoiy pedagogik muomo",
+      "aqliy o‘sish",
+      "Imkoniyati cheklangan shaxs"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "5ta asosga tayanadigan din qaysi?",
+    "options": [
+      "Islom dini.",
+      "Xristian dini.",
+      "Zardushtiylik.",
+      "Xamma javoblar togri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Davlat va tarbiyaning ozaro munosabati goyasini ilgari surgan olim kim?",
+    "options": [
+      "Aflotun.",
+      "Russo.",
+      "Boymer.",
+      "Demokrit."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Tarbiya goyalarini ilgari surgan olim?",
+    "options": [
+      "Russo.",
+      "Demokrit.",
+      "Boymer.",
+      "Mudrik."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy tarbiya muammolari togrisida tadqiqot olib borgan olim?",
+    "options": [
+      "Filova.",
+      "Russo.",
+      "Aflotun.",
+      "Lomonosov."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Kim shaxs rivojlanishini biologik omil deb hisoblaydi?",
+    "options": [
+      "A.Kombslar",
+      "U.Cherchill",
+      "D.Dyui",
+      "Trondyak"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Identifikatsiya bu",
+    "options": [
+      "Jarayonida tarbiyalanuvchi hayolan o’zini o’rtoqlari bilan qiyoslaydi.",
+      "Ob’ekti nafaqat real insonlar, balki tasavvurlardagi insonlar ham bo’lishi mumkin",
+      "Muayyan g’oya, fikr, xohish, istaklarni ongdan chiqarib tashlashdan iborat",
+      "Oʻzgalarga yordam ko’rsatish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bola ijtimoyillashuvida kosmos, planeta, dunyo, demografik, ijtimoiy siyosiy, ekologik, planetar jarayonlarning ta’siri bu",
+    "options": [
+      "Mega omillar",
+      "Mikro omillar",
+      "Mezo omillar",
+      "Makro omillar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Psixik sog`lom shaxslar tomonidan me'yoriy qoidalarni buzish hollari bu",
+    "options": [
+      "Deviant hatti harakat",
+      "Ruhiy og’ishish",
+      "Jismoniy og’ishish",
+      "Ijtimoiy ogishish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bola shaxsining huquqi, huquqiy statusi, soqligi, ishga layoqatsizligini tiklashga qaratilgan kompleks, ko`p darajali, bosqichli va dinamik tizim bu",
+    "options": [
+      "Reabilitatsiya",
+      "Profilaktika",
+      "Korreksiya",
+      "Dezadaptatsiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogik profilaktika bu",
+    "options": [
+      "Bolada turli faollik turlarining namoyon bo’lishiga va bolalarning optimal ijtimoiy rivojlanishiga shart-sharoitlar yaratishga qaratilgan ijtimoiy tarbiya chora-tadbirlar tizimi",
+      "Sotsium a'zosi sifatida insonning ijtimoiylashuvi jarayonidagi faoliyati",
+      "Reabilitatsiya tizimidagi shaxsning rivojlanishidagi u yoki bu chekinishlarni yo`qotishga shart sharoitlar yaratishga qaratilgan tadbirlardir",
+      "Hayotiy chekinishlarga uchragan bolalar va o`smirlar bilan olib boriladigan aniq faoliyat hisoblanadi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogning funksiyalari",
+    "options": [
+      "Bashorat qilish, tashxis, korreksiya, Vositachilik, prognoz, Ximoya qilish,oldini olish",
+      "Jamiyat ichiga qaytarish, oilasiga qaytarish",
+      "Me’yordan og’ishgan bolani diagnoz qilish",
+      "Shart sharoitlar yaratish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’zbekiston Respublikasida OITS kasalligini oldini olish to’g’risidagi qonun nechanchi yil qabul qilingan",
+    "options": [
+      "1999 yil 19 avgust",
+      "1998 yil18 iyun",
+      "2000 yil10 avgust",
+      "2001 yil 19 avgust"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogning reabilitatsion funksiyasi bu",
+    "options": [
+      "Jamiyat ichiga qaytarish, oilasiga qaytarish",
+      "Bolaning ma’lumotlarini mahalladan huquq targ’ibot organlaridan kerakli ma’lumotlarni olish",
+      "Me’yoridan og’ishgan bolalarni yomon yo’lga kirib ketishidan bolani himoya qilish.",
+      "Me’yordan og’ishgan bolani diagnoz qilish."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qanday oilalar vazifalarini a’lo darajada bajaradilar, ijtimoiy pedagogga ixtiyoji yo’q",
+    "options": [
+      "Tinch ,baxtli oilalar",
+      "Tahlikali oila",
+      "Nosog’lom oila",
+      "Asotsial oila"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila, ta’lim muassasalari, tengdoshlar guruhi",
+    "options": [
+      "Mikro faktorlar",
+      "Ijtimoiy faktorlar",
+      "Makro faktorlar",
+      "Mezo faktorlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Noosfera bu",
+    "options": [
+      "Noosfera insonning ongli faoliyati global muammolarning paydo bo’lishi va hal etilis]higa ta’siri",
+      "O’zini borliq fuqarosi deb sezishini",
+      "Tarbiyaning tabiat bilan uyg’unligi tamoyilining zamonaviy ta’rifi",
+      "Tabiiy va ijtimoiy jarayonlarning o’zaro aloqasi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Inson xarakterini tuzishni yangi instituti”ni ishchilarning turmush darajasini yaxshilash uchun yaratib, u amaliyotda ishlab chiqarish ta’limini madaniyat bilan bog’lagan ingliz faylasufi",
+    "options": [
+      "Robert Ouen",
+      "Gebert Spenser",
+      "G.Kirshenshteyner",
+      "J.J.Russo"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogikani yangi g’oyalar va tarbiya usullari bilan boyitgan pedagogika arboblari",
+    "options": [
+      "Georg Kirshenshteyner (1854 1932 y)Germaniya, Jon Dyui (1859 1952 y) AQSH, Vilgelm Layni (1862 1926 y) Germaniya",
+      "Gebert Spenser (18201903 y) Angliya, Georg Kirshenshteyner (1854 1932 y)Germaniya, Jon Dyui (18591952 y)AQSH",
+      "Iogann Genrix Pestalotssi (1746 1827 y) Shvetsariya, Germaniya, Jon Dyui (18591952 y)AQSH, Vilgelm Layni (18621926 y)Germaniya.",
+      "Gebert Spenser (1820 1903 y) Angliya, Georg Kirshenshteyner (18541932 y) Germaniya, Jon Dyui (1859 1952 y)AQSH"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’zbekistondagi demokratik pedagogik g’oyaning taraqqiyparvar yo’nalishining yirik vakillaridan biri 1878- 1934 yillarda yashab ijod etgan mutafakkir",
+    "options": [
+      "A.Avloniy",
+      "Abu Nosir Farobiy",
+      "Saidahmad Siddiqiy",
+      "Al Farg`oiy, alBuxoriy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Ijtimoiy pedagogikaning asosiy yo’nalishlarining aniq faoliyatda amalga oshishi sodir bo`lishi",
+    "options": [
+      "XVIII- XIX asrlar",
+      "XVII XI asrlar",
+      "XVIII X asrlar",
+      "XVI XIX asrlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning nazariy asoslarini ishlab chiqishlgan davri qachon?",
+    "options": [
+      "XIX asr",
+      "Antik davr",
+      "XVII asr",
+      "XV asr"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "XIX asrning 60 -70 yillarida ijtimoiy qonunchilik tizimlari yaratilgan davlatlari qaysilar?",
+    "options": [
+      "Germaniya, Angliya, AQSH",
+      "AQSh, Italiya",
+      "Rossiya, Angliya",
+      "Germaniya, Italiya, Yaponiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Maktab bolalarining sust qabul qilishidan, faol harakatdagi ehtiyojlarini amalga oshirishga ”ijodga ko’ra isloh qilish” g’oyasiga asoslangan, olim nomi kim?",
+    "options": [
+      "G.Kirshenshteyner",
+      "Vilgelm Lay",
+      "Jon Dyui",
+      "J.J.Russo"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Falsafa, sotsiologiya va pedagogikada ……………..shaxs ijtimoiy individligini shakllantirish usuli nima deyiladi?",
+    "options": [
+      "Ijtimoiy institutlar",
+      "Faoliyat, ta’lim muassasalari",
+      "Muloqot, oila",
+      "Muloqot o’yin"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nechanchi asrga kelib Insonning muammolari, uning tarbiyasi va ta’limi uchun ijtimoiy sharoitlarni yaratish zamonning eng global muammosiga qachon aylanadi?",
+    "options": [
+      "XX asr",
+      "XIX asr",
+      "XXI asr",
+      "Inson tarbiyasi muammolari doim global muammo bo`lgan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’z tengdoshlaridan o’qishda ortda qoladilar, chunki ularda xotira, tafakkur va tasavvur xislari yaxshi rivojlanmagan …",
+    "options": [
+      "Tarbiyasi og’ir o’smirlar",
+      "Giyohvand o’smirlar",
+      "Tarbiyasi og’ir o’spirinlar",
+      "Ijtimoiy og’ishgan o’spirinlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogika shaxsni ijtimoiylashuvi qonuniyatlarini o’rganish, jamiyatning ijtimoiy muammolarini hal qilish maqsadida  ijtimoiy pedagogik texnologiyalarini ishlab chiqish va ularni qo’llashga qaratilgan pedagogika sohasi deb ta’kidlagan olim…",
+    "options": [
+      "V. YU.N.Galaguzova",
+      "YU.V.Vasilkova",
+      "V.D.Semenov",
+      "A.V.Mudrik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning fan sifatida rivojlanishining birinchi bosqichi…",
+    "options": [
+      "XVII",
+      "XVIII",
+      "XIX",
+      "XX"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "YUNESKO ning “Bolalar huquqini himoya qilish konvensiyasi” necha yoshgacha bola xisoblanadi…",
+    "options": [
+      "18 yoshgacha",
+      "12 yoshgacha",
+      "20 yoshgacha",
+      "24 yoshgacha"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Sotsialogiya” va “Pedagogikani” qo’shilishi",
+    "options": [
+      "Fanlarning integratsiyasi",
+      "Ijtimoiylashuv",
+      "Ijtimoiy muhit",
+      "Diferensiatsiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Islomiy tarbiyada o’g’il va qizlar tarbiyasining o’ziga xos xususiyati necha yoshdan",
+    "options": [
+      "9-12 yoshdan",
+      "8-10 yoshdan",
+      "17-18 yoshdan",
+      "6-7 yoshdan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Sharqning quldorlik davlatlarida ijtimoiy pedogogik g`oyalar bir nechta mualliflar tomonidan shakllantirilgan va odatda mukaddas kitoblar shaklida butun xalq mulkiga aylangan Hindistonda…, Misrda… hudosi kitoblari, O`rta Osiyoda….",
+    "options": [
+      "Veda, Tot, Avesto",
+      "Alpomish, Avesto, Tot",
+      "Kultegin, Avesto, Veda",
+      "Miflar, Afsonalar, Asotirlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "IX-XI asr ma’rifatparvar olimlaridan kimlarning falsafiy va pedagogik konsepsiyalari keyingi davrlarning yetakchi ta’limotlarini rivojlantirish uchun asos bo`ldi…",
+    "options": [
+      "Farobiy, Ibn Sino",
+      "Burxoniddin Zarnujiy, Ahmad Yugnakiy",
+      "Ahmad Yugnakiy, Yusuf Xos Xojib",
+      "Burxoniddin Zarnujiy, Ibn Sino"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’z ta’limotida tarbiyada bola tabiatini hisobga olish tamoyilini asoslab bergan olim",
+    "options": [
+      "Demokrit",
+      "Aflotun",
+      "Platon",
+      "T Mor"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning asosiy kategoriyalari",
+    "options": [
+      "Ijtimoiy ta'lim, o`qitishning ijtimoiy jihatlari, ijtimoiy tarbiya,ijtimoiy pedagogik faoliyat, ijtimoiylashuv, ijtimoiy instituti, ijtimoiy adaptatsiya, ijtimoiy reabilitatsiya",
+      "Ta'lim, o`qitish,tarbiya, pedagogik faoliyat",
+      "Ta'lim, o`qitish,tarbiya, pedagogik faoliyat, ijtimoiy adaptatsiya, ijtimoiy reabilitatsiya",
+      "Ijtimoiy institutlar: oila, mahalla, ta’lim muassasalari, din va madaniyat"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiylashuv mexanizmlari",
+    "options": [
+      "Bostirish, ajratish, o’z o’zini cheklash, loyihalash, identifikatsiya, introyeksiya, empatiya, intellektuallashuv",
+      "Ijtimoyillashuv mexanizmlari , ijtimoiy ta’lim, ijtimoiy tarbiya, ijtimoiy adaptatsiya",
+      "Ota ona, akauka, opasingillar, qarindoshlari, tengdoshlari, qo’shnilar",
+      "Bolani ijtimoyillashuvida mexanizmlar faoliyat ko`rsatmayd"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiylashuvga tasir etuvchi  omillar",
+    "options": [
+      "Megaomillar, makroomillar, mezoomillar, biologik",
+      "Tabiatga bog’liqlik, oilaga bog’liqlik, ijtimoiy bog’liqlik",
+      "Biologik omillar, oila, kosmos, ta’lim muassasasi",
+      "Texnogen, biologic, jismoniy, ijtimoiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Deviatsiyaning salbiy turlari",
+    "options": [
+      "aroqxo’rlik, toksikomaniya, giyohvandlik, fohishabozlik, o’z joniga qasd qilish, huquqbuzarlik va jinoyatchilik",
+      "Reablitatsiya, profilaktika ijtimoiy og’ishish",
+      "Dilikvent, kriminal, deviatsiyaning o’zi",
+      "Jismoniy, pedagogic, ijtimoiy, psixologik og’ishishlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’smirlarning deviant xulq-atvori sabablari",
+    "options": [
+      "Biologik omillar, Psixologik omillar, Ijtimoiy-pedagogik omillar, Ijtimoiy-iqtisodiy omillar, Axloqiy omillar",
+      "Mega omillar, iqtisodiy omillar",
+      "Meza omillar,siyosiy omillar",
+      "Makro omillar,ekologik omillar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "1920 yillarda “Nihol” to’garagi eng kambag’al aholiga qancha nihol hadya etdi",
+    "options": [
+      "6000",
+      "5400",
+      "8000",
+      "3200"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Volga bo’yidagi och bolalar uchun Go’daklar uyi qachon tashkil qilindi",
+    "options": [
+      "1924 yil",
+      "1985 yil",
+      "1990 yil",
+      "1989 yil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "«Beshikdan – qabrgacha» ta’lim berish kerak degan g`oyaning muallifi kim",
+    "options": [
+      "Platon",
+      "Arastu",
+      "Spinoza",
+      "T Mor"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "1962 yilda maktab internatlar soni qanchaga ko’paydi",
+    "options": [
+      "119",
+      "118",
+      "120",
+      "116"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O`zbekistonda Bog’chalarni himoyalash Kengashi faoliyati boshlangan yil qachon",
+    "options": [
+      "1919 yil",
+      "1916 yil",
+      "1920yil",
+      "1921 yil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nechinchi yilga kelib maktabgacha ta’lim muassasalarida (jami 40 ta) 2000 ga yaqin bolalar bo’lgan.",
+    "options": [
+      "1926 yil",
+      "1925 yil",
+      "1929 yil",
+      "1927 yil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Islom dini nechta asosga tayanadi",
+    "options": [
+      "5",
+      "8",
+      "3",
+      "10"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qur’on 780000 so’zdan iboratligini inobatga olsak, “ilm” so’zi kitobning nechta qismini tashkil qiladi.",
+    "options": [
+      "1\\105",
+      "1\\104",
+      "1\\108",
+      "1\\107"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qur’onda “ilm” so’zi nechchi marta uchraydi",
+    "options": [
+      "750",
+      "780",
+      "730",
+      "790"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qur’on inson bilimlarini nechchiga ajratadi",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "5"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Imom Buxoriyning “as-Sahih” asarini to’liq hajmda tahlil qilib chiqqan olim kim",
+    "options": [
+      "F.Rouzental",
+      "A.Tolstoy",
+      "V.F.Lubensov",
+      "J.J.Russo"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Shaxs yoki ijtimoiy guruhning dunyoni muayyan obrazda qabul qilish, his qilish va unda tafakkur yuritishini ichiga oluvchi individual va jamoa ongining darajasi nima deyiladi",
+    "options": [
+      "Mentalitet",
+      "Mafkura",
+      "Milliy psixika",
+      "milliy g`oya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Aholining kam ta’minlangan qatlamlarini ijtimoiy himoyasini kuchaytirish chora tadbirlari” haqidagi farmon qachon qabul qilingan",
+    "options": [
+      "1994 yil 23 avgust",
+      "1927 yil 28 avgust",
+      "1925 yil 22 avgust",
+      "1925 yil 23 avgust"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Fuqarolarning o’z o’zini boshqarish organlari haqida”gi yangi taxrirdagi qonuni",
+    "options": [
+      "1999 yil 24 aprelda",
+      "1927 yil 28 avgust",
+      "1925 yil 22 avgust",
+      "1999 yil 14 aprelda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Pansofiya”so`zinining ma’nosi",
+    "options": [
+      "hammani hamma narsani bilishi",
+      "Yakka holatda fikr yuritish",
+      "Olamni sevish",
+      "Muammoli model"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Dezadaptatsiya nechchiga bo`linadi",
+    "options": [
+      "3 ga",
+      "5 ga",
+      "2 ga",
+      "4 ga"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "BMT bosh Assambiliyasi tomonidan qachon narkotik moddalarni ayri boshlash va ist’mol qilishga qarshi kun",
+    "options": [
+      "1987 yil 26 iyun",
+      "1988 yil 26 iyun",
+      "1989 yil 26 iyun",
+      "1990 yil 26 iyun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Pedagogikada qaysi tushuncha insonning ijtimoiy xususiyatlarini anglatadi?",
+    "options": [
+      "shaxs",
+      "pedagog",
+      "bola",
+      "delinkvent"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bolaning jamiyatga kirishida yordam beruvchi kasbiy faoliyat turi bu...?",
+    "options": [
+      "bolaning sotsiumda rivojlanishi",
+      "ijtimoiy pedagogik faoliyat",
+      "ijtimoiy madaniy tajriba",
+      "dasturli ta'lim"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tashqi faktorlarga nimalar kiradi?",
+    "options": [
+      "ijtimoiy,biologik,siyosiy muhit",
+      "siyosiy muhit",
+      "biologik muhit",
+      "tabiiy va ijtimoiy muhit"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "D.Dyui qaysi pedagogik sohaning asoschisi?",
+    "options": [
+      "Progmatik",
+      "ijtimoiy",
+      "Bixevorizm",
+      "siyosiy pedagogika"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Kreminal xatti-harakat nima?",
+    "options": [
+      "Huquqbuzarlik",
+      "Ruhiy kasallik",
+      "Jinoiy javobgarlikka tortishga yoshi yetgan shaxsning huquqlarga zid harakati",
+      "Voyaga yetmagan shaxs"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Deviatsiya o‘z ichiga qaysilarnii oladi?",
+    "options": [
+      "Deviant . Delinkvent, kreminal xatti -xarakat",
+      "Deviant",
+      "Kreminal",
+      "Delinkvent"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nechanchi yilda umumjahon sog‘liqni saqlash tashkiloti cheklangan imkoniyatlarini 3 bog‘ini shakllanishining britancha variantini  qabul qildi?",
+    "options": [
+      "1980",
+      "1970",
+      "2010",
+      "1990"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Hayotiy chekinishlarga uchragan bolalar va o‘smirlar bilan olib boradigan aniq faoliyat turi?",
+    "options": [
+      "Korreksiya",
+      "Adabtatsiya",
+      "Profilaktika",
+      "Reablitatsiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Meyordan chetga chiqishni necha guruhini ajratsak bo‘ladi?",
+    "options": [
+      "jismoniy, ruhiy,  pedagogik, ijtimoiy",
+      "Ruhiy jismoniy",
+      "Aqliy",
+      "pisixologik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Deviatsiya konsepisyasida qanday masalalar o‘rganiladi ?",
+    "options": [
+      "Biologik va pisixologik",
+      "Manaviy axloqiy ijtimoiy",
+      "Meyor va meyordan og‘ish",
+      "Reabilitatasiya profilaktika korreksiya"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Umumjahon sog‘liqni saqlash tashkiloti 1980 yilda cheklangan imkoniyatkarning necha bog‘in shkalasini britancha variantini qabul qildi",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Pedagogikada qaysi tushuncha  insonning ijtimoiy xususiyatlarni  anglatadi?",
+    "options": [
+      "Inson",
+      "Shaxs",
+      "Manaviyat",
+      "Ijtimoiy"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "preforizm oqimi qachon falsafada vujudga keldi?",
+    "options": [
+      "XV",
+      "XVI",
+      "XVII",
+      "XVIII"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Debat so‘zi qaysi tildan olingan?",
+    "options": [
+      "Fransuz",
+      "Nemis",
+      "Yunon",
+      "lotin"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Odam shaxs bo‘lishi uchun u psixik jixatdan rivojlanishi o‘zini bir butun inson deb his qilmog‘i o‘z hususiyatlari bilan boshqalardan farq qilmog‘i kerak deb kim aytgan?",
+    "options": [
+      "Ushenskiy",
+      "Bojovich",
+      "Avloniy",
+      "Kol"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Bolani ijtimoiylashtirish jarayonida hisobga olish kerak bo‘lgan ijtimoiy faktor qaysi?",
+    "options": [
+      "Pedagogik omillar",
+      "Ijtimoiy faktorlar",
+      "Iqtisodiy faktor",
+      "Axloqiy omillar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Xazrati insonning xurmat ehtiromga sazovor ekanligini tan olmagan, har kim ma‘lumdir  ushbu fikrn kimniki?",
+    "options": [
+      "Mirzo Bedil",
+      "G‘ G‘ulom",
+      "Avloniy",
+      "Kol"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Amerikaning progmatik pedogokikasing atoqli vakili kim?",
+    "options": [
+      "D Dyui",
+      "Kol",
+      "Ushinskiy",
+      "Kamslr"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Inson shaxsi va uning xulq atvorining rivojlanishiga naslning ro‘lini yuksak baholagan oqim qaysi?",
+    "options": [
+      "Progmatik",
+      "Sufiylik",
+      "Bixevarizm",
+      "Gumanizm"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiy pedagogikaga,uning obyekti va predmetini aniqlash orqali ta'rif bermoqchi bo'lgan ijodkor kim?",
+    "options": [
+      "M.A.Galaguzova",
+      "V.Vasilkova",
+      "D.Smenov",
+      "D.Dyui"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy tarbiya nazariyasini ishlab chiqishda nimalar inobatga olinadi?",
+    "options": [
+      "makro va mikroomillar",
+      "mezo va biofaktorlar",
+      "etnografiya va etnopsixalogiya",
+      "metodologiya va predmet"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Avesto\"dagi ezgu va yovuz fikr haqida qaysi tadqiqotchi fikr bildirgan?",
+    "options": [
+      "A.O.Torndayk",
+      "A.O.Makovelskiy",
+      "B.Bebbij",
+      "A.Disterverg"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"Avesto\" dagi Ako mana so'zining tarjimasi  nima?",
+    "options": [
+      "yaxshi ish",
+      "yaxshi fikr",
+      "yovuz fikr",
+      "odob-axloq"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "XX asr 20-30-yillarida ishlagan ijtimoiy pedagoglar kimlar?",
+    "options": [
+      "M.Abdurashidxonov,A. Avloniy  F.Lubinsov, P.Argemskiy",
+      "O.Sharafiddinov, M.Behbudiy,  B.Bebbij, D.Dyui",
+      "E.Voxidov, M.Qori  Makovelskiy, Trondyak",
+      "Zulfiya Galaguz,ova  Behbudiy, Shakuriy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi davlatda ijtimoiy pedagogikaning rivojlanish tarixi 100 yildan ortiqroq?",
+    "options": [
+      "Norvegiya",
+      "Germaniya",
+      "Venetsiya",
+      "Fransiya"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"Ijtimoiy pedagogika termini kim tomonidan tarbiya haqidagi munozaraga kiritilgan?",
+    "options": [
+      "Bebbij",
+      "Komenskiy",
+      "Magger",
+      "Leontov"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Ijtimoiy pedagogika\"termini kim tomonidan tarqatilgan?",
+    "options": [
+      "B.Leontov,Komenskiy",
+      "D.Dyui,J.Russo",
+      "K.Mager,D.Dyui",
+      "K.Mager,A.Disterverg"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning birinchi talqini kimlarning nomi bilan bog'liq?",
+    "options": [
+      "K.Mager va A.Disterverg",
+      "Y.Komenskiy va D.Dyui",
+      "A.Disterverg va Leontov",
+      "Leontov va K.Mager"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiy pedagogning 3 ta asosiy vazifasini kim ko'rsatib o'tgan?",
+    "options": [
+      "P.Natorn",
+      "Y.Komenskiy",
+      "D.Dyui",
+      "K.Magger"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "German Nol ijtimoiy pedagogika haqida qanday fikr bildirgan?",
+    "options": [
+      "zarur bo'ladigan shoshilinch tez yordam",
+      "xayriya faoliyati ko'rsatish, bilim berishni shakllantiruvchi faoliyat",
+      "bilim berishni shakllantiruvchi faoliyat",
+      "ijtimoiy pedagogikani bolalarga yordam berish voyaga yetmagan huquq buzarlar profilaktikasi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Demokrit o'z g'oyalarida nimani asoslab bergan?",
+    "options": [
+      "insonda barcha yovuzlikni yo'qotish",
+      "tarbiyada bola tabiatini hisobga olish tamoyili",
+      "notiqlik san'ati",
+      "inson manfaatlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "..... tarbiyaning muhim g'oyalari,ta'lim metodikasi haqida so'z boradi,ijodkor o'z asarida o'z menini saqlab qolish,o'z ustidan hukmronlikka erishish g'oyalari uning asosiy g'oyasi bo'lgan\" kim haqida so'z boryapti?",
+    "options": [
+      "Demokrit",
+      "Diogen",
+      "Arastu",
+      "Kvintilian"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Arastuga tegishli g'oyalarni toping?",
+    "options": [
+      "shaxsning jamoa bilan uyg'un rivojlanishi; tarbiyaning  to'liq nazariyasi.",
+      "notiqning tarbiyasi; bola tarbiyasini yoshlikdan boshlash",
+      "tarbiya davlatning eng muhim vazifasi; o'z menini saqlab qolish",
+      "qayta tug'ilish; insonning hamma ehtiyojlari uning o'ziga bog'liq"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "XIX asr 60-70-yillarida qaysi davlatlarda ijtimoiy qonunchilik tizimi yaratildi?",
+    "options": [
+      "Shvetsiya, Norvegiya, Daniya",
+      "AQSh, Angliya, Germaniya",
+      "Rossiya, Yappniya, Xitoy",
+      "Koreya, Turkiya, Angliya"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "U o'z faoliyatida nazariya va amaliyotni birlashtirib,o'z mablag'lari hisobidan yetimlar uyi ochgan... gap kim haqida ekanini belgilang?",
+    "options": [
+      "R.Ouen",
+      "G.Spenser",
+      "I.G.Pestalotsi",
+      "V.Kesari"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Amalda ijtimoiy hodim atamasi nechanchi yildan qo'llanila boshladi?",
+    "options": [
+      "1970-ildan",
+      "1980-yildan",
+      "1965-yilgan",
+      "1986-yildan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"Ijtimoiy hodim odamlarni kambag'allikdan halos etish bilan shug'ullanmaydi,u kambag'allikni bartaraf etish uchun nima qilish haqida o'ylaydi\" - ushbu jumla qaysi asarda yozilgan?",
+    "options": [
+      "\"Ijtimoiy suhbat\"",
+      "\"Ijtimoiy hodim\"",
+      "''Pedagogik muhit\"",
+      "\"Ijtimoiy yondashuv\""
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy ishni metodologik asoslashga bag'ishlangan ilk yirik asar qachon yozilgan?",
+    "options": [
+      "1905",
+      "1916",
+      "1931",
+      "1938"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiy ish mavzusiga doir \"Ijtimoiy suhbat\" kitobi qachon yaratilgan?",
+    "options": [
+      "1963",
+      "1964",
+      "1903",
+      "1917"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ijtimoiy pedagogika kim tamonidan tarbiya haqidagi ochiq ilmiy munozaraga kiritilgan ?",
+    "options": [
+      "Mager",
+      "Disterveng",
+      "Kol",
+      "Shliper"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Britaniyada imkoniyati cheklangan shaxslar 3 bog‘inli shklasi qaysi",
+    "options": [
+      "xursandlik,baxtiyorlik,xushchaqchaqlik",
+      "Me'yordan og‘ish",
+      "nuqsonli, aqlan zaif ,pisixik kasl",
+      "kasallik, cheklangan imkoniyati va nogironlik"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "kim tarbiyasi og‘ir o‘smirlarning tarbiyasiga bosqichma-bosqich  yondashuvini ilgari surdi?",
+    "options": [
+      "V.Vasilkova",
+      "Usheniskiy",
+      "Magar",
+      "Agona"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bolaning iltimoiy  rivojlanishi qaysi yo‘nalishlarda sodir bo‘ladi?",
+    "options": [
+      "ijtimoiylashuv va individullashuv",
+      "negativlik va agresivlik",
+      "ijtimoiy falollik",
+      "ijtimoiy integratsiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "profilaktika so‘zi qanday ma‘noni anglatadi?",
+    "options": [
+      "O‘rinni to‘ldiruvchi",
+      "Noxush oqibatni oldini olish",
+      "Bola xuquqlari",
+      "kasallikni oldini olish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy meyorlar 2 ta katta guruhga bo‘linadi qaysilar?",
+    "options": [
+      "Aqliy va jisminiy",
+      "Ruhiy va ijtimoiy",
+      "Umiversal va hususiy meyorlari",
+      "hamma javob  to‘g‘ri"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "”Buyuk  Didaktika” asari mualifi kim?",
+    "options": [
+      "Y .A Komeniskiy",
+      "Vasilkova.",
+      "Magar",
+      "Usheniskiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "o‘sib kelayotgan yosh avlodni ta’lim va tarbiyasi xaqidagi fan?",
+    "options": [
+      "Pedagogika",
+      "Sotsiologiya",
+      "Psixologiya",
+      "didaktika"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "”Ijtimoiy pedagogika ijtimoiy muhitning shaxsni shakillanrirshga va ijtimoiy tarbiyalab ketishiga, muommolariga ta’sir qonuniyatlarini o‘rganuvchi fandir”ushbu fikr kimga tegishli?",
+    "options": [
+      "Usheniskiy",
+      "Kol",
+      "Galaguza",
+      "I P Podlasiy"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Xotirada saqlash?",
+    "options": [
+      "Imprinting",
+      "refleks",
+      "taqlid",
+      "Tadqiqot"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "”Ijtimoiy suxbat” asari muallifi kim?",
+    "options": [
+      "Mery Richamand",
+      "A Avloniy",
+      "Komoneskiy",
+      "A.Kon"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Pisixik sog‘lom shaxslar tomonidan meyoriy qoidalarni buzish?",
+    "options": [
+      "deviatsiya",
+      "Delikvent",
+      "kreminal",
+      "deviant xulq"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Bexiviorizm qaysi asrda keng tarqalgan?",
+    "options": [
+      "XVII",
+      "XVIII",
+      "XX",
+      "XIX"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ijtimoiy faollik nima?",
+    "options": [
+      "Shaxsning ijtimoiy jarayonlarida ongli ravishda qatnashishi",
+      "Ijtimoilashuv jarayonda",
+      "Pedagogik faloyiat",
+      "Hamma javob to`g`ri"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning asosiy tamoyillari qaysi?",
+    "options": [
+      "Tabiat bilan uygun bolishi.",
+      "Madaniyatli bilan uyg’un bolishi,Insonparvarlik",
+      "Bolani axloqiy sifatlarini organish.",
+      "A va B javob togri."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Birinchi Internat maktab nechanchi yilda ochilgan?",
+    "options": [
+      "1956-yil.",
+      "1950-yil.",
+      "1960-yil.",
+      "1958-yil."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedagogika fanining asosiy maqsadi",
+    "options": [
+      "Bo’lajak pedagog kadrni hayotimizning barcha jabhalariga «pedagogik ko`z» bilan qarash, o`rganish, reabilitatsiya qilish yo`llarini aniqlash va ma'lum xulosalar chiqarishga o`rgatishdan iborat",
+      "Bo`lajak pedagog kadrni jamiyat a’zolari bilan hamfikr bo’lib ishlashga o’rgatishdan iborat.",
+      "Insonlarga yordam berish mexanizmalirini ishlab chiqish",
+      "Pedagogik kategoriyalarni o`rgatish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“O’z faoliyatida ijtimoiy pedagogik nazariyani va amaliyotni birlashtirgan va o’z mablag’lari evaziga yetimlar uchun uylar ochgan”. Shvetsariyalik buyuk pedagog",
+    "options": [
+      "Iogann Genrix Pestalotsi (1746 1827 y)",
+      "M.V.Lomonosov (1711 1765 y)",
+      "Klod Adriana Gelvetsiy (1715 1771 y)",
+      "M.V.Lomonosov (1711 1765 y)"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“U tabiiy huquq, din va tabiiy rivojlanish asosiga qurilgan tabiatan shakllangan tarbiya hamda ijtimoiy pedagogik “g’oyalarning ilgari surgan, fransuz faylasufi",
+    "options": [
+      "J.J.Russo (1712 1778 y)",
+      "M.V.Lomonosov (1711 1765 y)",
+      "Klod Adriana Gelvetsiy (1715 1771 y)",
+      "Iogann Genrix Pestalotssi (1746 1827 y)"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "1913 yilda Toshkentda “Turon” nomli teatr truppasini tashkil qilgan marifatparvar pedagog",
+    "options": [
+      "A.Avloniy",
+      "Abu Nosir Farobiy",
+      "Saidahmad Siddiqiy",
+      "Al Farg`oiy, alBuxoriy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“ Ijtimoiy” tushunchasinig mazmuni?",
+    "options": [
+      "Ijtimoiy tushunchasi insonlarning birgalikdagi xayoti bilan bog’liq bo’lib, ularning muomala va bir- biriga ta’sirining turli xil shakllari birlashtiradi.",
+      "ijtimoiy tushunchasi odamlarning gurux bo’lib birgalikda yashash va o’zaro munosabatlarini anglatadi.",
+      "ijtimoiy tushunchasi insonlarning o’zaro muloqot jarayonida  bir-   birlariga ijtimoillashishidir.",
+      "barcha javoblar to’g’ri"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogika - ……, jamiyatning  ijtimoiy muammolarini xal qilish maqsadida ijtimoiy pedagogik faoliyatning samarali usullari texnologiyalarini ishlab chiqish va ularni qo’llashga qaratilgan pedagogika soxasi insonlararo mun",
+    "options": [
+      "osabatlarni o’rganadi",
+      "shaxsni ijtimoillashuvi qonuniyatlarini o’rganadi",
+      "tarbiyasi qiyin bolalarni ijtimoillashuv qonuniyatlarini o’rganish",
+      "barcha javoblar to’g’ri"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning predmeti ……..?",
+    "options": [
+      "bolani ijtimoillashish qonuniyatlari xisoblanadi",
+      "bolani tarbiyalash qonuniyatlari xisoblanadi.",
+      "bolaga ta’lim berish jarayonidir",
+      "barchasi to’g’ri"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy institutlar to’g’ri ko’rsatilgan javobni belgilang?",
+    "options": [
+      "ta’lim, din, madaniyat",
+      "din, madaniyat, maxalla",
+      "oila, ta’lim,madaniyat, din",
+      "maxalla, oila"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiy pedagogika terminini kim tomonidan tarbiya xaqidagi ochiq ilmiy munozara sifatida fanga kiritilgan ?",
+    "options": [
+      "K.Magger  1844-yil",
+      "A.Disterverg  1854-yil",
+      "K.D.Ushinskiy  1874-yil",
+      "Kiddings  1887-yil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogika fan soxasi sifatida bir qator vazifalarga ega deb   A.B.Mudrik bu vazifalarni  ………  guruxga ajratadi?",
+    "options": [
+      "nazariy, amaliy, insonparvar  (3ta)",
+      "nazariy, amaliy, insonparvar, tarbiyaviy  (4ta)",
+      "amaliy, insonparvar  (2ta)",
+      "insonparvar, madaniyatga uyg’unlik.  (2ta)"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Yu.V.Vasilkova ijtimoiy pedagogikaning vazifalarini qaysi tartibda izoxlagan?",
+    "options": [
+      "Tarbiyaviy vazifa, xuquqiy vazifa",
+      "tarbiyaviy vazifa, ijtimoiy xuquqiy vazifa, ijtimoiy reabilitatsion    vazifa",
+      "ijtimoillashtiruvchi vazifa",
+      "xammasi to’g’ri"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy moslashuv deganda ………?",
+    "options": [
+      "shaxsning ijtimoiy muxit sharoitlariga ko’nikishi tushuniladi.",
+      "insonlarning bir-birlariga moslashishi tushuniladi.",
+      "bolaning oilaga moslashishi tushuniladi.",
+      "oilalarning jamiyatga moslashishi tushunialdi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "………  xisoblanadi Ijtimoillashuv tushunchasi atamasi birinchi bo’lib insonlarga nisbatan qo’llagan amerikalik sotsiolog?",
+    "options": [
+      "K.Magger",
+      "F.G.Keddings",
+      "I.P.Podlasiy",
+      "A.Natori"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "………. Bolaning muvaffaqiyatli ijtimoiylashuvining sharti va natijasi xisoblanadi?",
+    "options": [
+      "Ijtimoiy moslashuv",
+      "Reabilitatsiya",
+      "Relaksatsiya",
+      "Adaptatsiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedogogikaning asosiy kategoriyalari qaysi qatorda to’g’ri ko’rsatilgan ?",
+    "options": [
+      "Ijtimoiy pedogogik faoliyat",
+      "Ijtimoiy ta’lim",
+      "Ijtimoiy tarbiya",
+      "Barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tarbiyaning insonparvarlik tamoyilini dastlab ilgari surgan pedagogni aniqlang?",
+    "options": [
+      "Yan Amos  Komenskiy",
+      "J J Russo. L Tolstoy.",
+      "A.Avloniy",
+      "A Disterberg."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy tarbiyaning maqsadi qaysi qatorda to’g’ri ko’rsatilgan?",
+    "options": [
+      "Insonni ijobiy rivojlanishiga qaratilgan sharoitlar yaratish jarayonigayo’naltirishdir.",
+      "Individual va guruhiy sub’ektlarning  o’zaro bog’liqligini yaratish",
+      "Bolalar, o’smirlar, o’spirinlar ijtimoiy tajribasini tashkil etish",
+      "jamiyatga  Insonning o’z qadrini bilishi, o’z-o’zini anglash, oila, guruh, mansubligini his qilish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Tarbiyaning tabiat bilan uyg’unligi tamoyili qaysi pedogog tomonidan birinchi bo’lib fanga kiritilgan?",
+    "options": [
+      "Ya A Komenskiy",
+      "Arastu",
+      "Demokrit",
+      "Aflotun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy tarbiyaning jamoaviylik tamoyiliga asosan bolaning ijtimoiylashuvi qaysi mikro omillar ta’sirida amalga oshiriladi?",
+    "options": [
+      "Ijtimoiy muxit",
+      "qarndoshlar",
+      "Mintaqaviy tashkilotlar",
+      "Oila, tengdoshlar,mikrojamiyat, ta’lim muassasalari, tarbiya tashkilotlari"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ijtimoiy tarbiyaning birgalikdagi faoliyat tamoyili qadimda qayerda paydo bo’lgan?",
+    "options": [
+      "Afinada",
+      "Elladada",
+      "Rimda",
+      "Italiyada"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Bilim, iroda va insonning rivojlanish jarayonidagi maqsadga intiluvchanligi, atrof- muhit ta’siri, axloqiy muhit ta’siri, axloqiy va mehnat tarbiyasi, muomala san’ati, bolalarni jamoada o’qitish haqidagi g’oyalarni qaysi alloma ilgari surgan?",
+    "options": [
+      "Abu Rayhon Beruniy",
+      "Abu Ali Ibn Sino",
+      "Farobiy"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ma’rifatparvarlik va demokratik g’oyalar asosan nechanchi asrda avj olgan?",
+    "options": [
+      "XIV-XV ASR",
+      "XVII-XVIII ASR",
+      "XIX-XX ASR",
+      "XII-XII ASR"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "“ To’g’ri” g’oyalarni kengaytirib va “ noto’g’ri” g’oyalarni bartaraf qilibgina yovuzlikni yo’qotish mumkin. Bu qaysi pedogogning fikri?",
+    "options": [
+      "Makarenko",
+      "Avloniy",
+      "Demokrit",
+      "Kventelian"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "XX asr boshlarida o’zbek pedogogik g’oyasida nechta asosiy yo’nalish ajratildi?",
+    "options": [
+      "7 ta",
+      "3 ta",
+      "5 ta",
+      "2 ta"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“ Dorul ojiziya” nomli maktabning asoschisi kim?",
+    "options": [
+      "Miskin",
+      "Avloniy",
+      "Hamza",
+      "Saidaxmad Siddiqiy"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oilaning asosiy funksiyalarini aniqlang.",
+    "options": [
+      "Reproduktiv funksiya, iqtisodiy funksiya",
+      "Ijtimoiylashuv funksiya, xo’jalik maishiy funksiya",
+      "Tarbiyaviy funsiya, psixoterapevtik funksiya",
+      "Barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oila tipologiyasi ijtimoiy moslashuv darajasi bo’yicha farq qiluvchi necha asosiy kategoriya asosida shakllanadi?",
+    "options": [
+      "3 ta",
+      "4 ta",
+      "6 ta",
+      "2 ta"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedogog oila bilan ish yuritishda asosiy rollarni bajaradi, qaysi qatorda asosiy rollar aniq ko’rsatilgan?",
+    "options": [
+      "Maslahatchi, konsultant, himoyachi",
+      "Konsultant, tarbiyachi, maslahatchi",
+      "Himoyachi, o’qituvchi, maslahatchi",
+      "Tarbiyachi, himoyachi, konsultant"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedogogik yordamning vositachilik yo’nalishi 3 komponentdan tashkil topgan. Ular qaysi qatorda to’g’ri ko’rsatilgan?",
+    "options": [
+      "Tashkil qilish, tartibga solish ,  axborot berish.",
+      "Emotsional tarzdagi yordam, axborot berishga yordam, ijtimoiy himoya masalalari bo’yicha yordam",
+      "Stress holatini yumshatishga yordam, tartibga solishga yordam, axborot berishga yordam",
+      "Maishiy masalalar bo’yicha yordam, emotsional tarzdagi yordam, tartibga solishga yordam"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Asosan xorij amaliyotida qo’llaniladigan uzoq muddatli ish shakllari............   asoslanadi va to’rt oydan ortiqvaqtni talab etadi. Jumlani to’ldiring.",
+    "options": [
+      "Ijtimoiy pedogogik yondashuv",
+      "Ijtimoiy psixologik yondashuv",
+      "Muammolarni ijobiy yechishga yondashuv",
+      "Konsultativ suhbatga yondashuv"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Biror kimsani himoya etish, tarafini olish qanday tushuncha?",
+    "options": [
+      "Vasiylik",
+      "Homiylik",
+      "Asrab olish",
+      "Vaqtinchalik qabul qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedogogik faoliyat bosqichlari qaysi qatorda to’g’ri ko’rsatilgan?",
+    "options": [
+      "Bola asrab oluvchi oilani qidirish, bo’lg’usi qabul qiluvchi ota-onalarni o’rganish",
+      "Bola bo’lgan muassasa va oilalarga tashrif buyurish, bo’lg’usi bola qabul qiluvchi oilani o’rganish",
+      "Boshlabg’ich ta’lim: ma’ruza, hikoya, suhbat, videofilm,bolani oilaga joylashtirish, ota-onalarga chuqur ta’lim berish",
+      "Barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Go’daklar uylarida bolalar tarbiyasi tizimining effektivligini belgilab beruvchi asosiy omil tarbiyachining qaysi faoliyat turi?",
+    "options": [
+      "Xushmuomalalik",
+      "Insoniyligi",
+      "Bolajonligi",
+      "Mexribonligi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedogogning vazifasi bu-....................",
+    "options": [
+      "Bola bilan ko’proq shaxsan aloqa qilish",
+      "Bolaning stress holatini keltirib chiqargan yurish turish buzilishlarini to’g’ri anglab yetish",
+      "Bolaga har qanday og’ir sinovni yengishga harakat qilish",
+      "Barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Me’yordan og’ishganlikning M.A.Galaguzova belgilagan tasnifini ko’rsating?",
+    "options": [
+      "jismoniy, fiziologik, psixologik",
+      "jismoniy, ruxiy, pedagogik, sotsiologik.",
+      "Ruxiy, pedagogik, sotsiologik, fiziologik.",
+      "Barchasi noto’g’ri."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Deviatsiya turlarini aniqlang?",
+    "options": [
+      "deviant, delinkivent, kriminal xatti xarakat",
+      "deviant, kriminal",
+      "delinkivent, kriminal, deviatsiya",
+      "assotsial, kriminal, deviant"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Deviatsiya atamasi ……. ma’nosini anglatadi?",
+    "options": [
+      "xulqsizlik",
+      "Og’ish",
+      "Aqli noraso",
+      "Jismoniy noraso"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Assotsial- takroriy xarakatlar, og’ish (deviatsiyaning) qaysi turiga mansub?",
+    "options": [
+      "Delinkivent",
+      "Deviant",
+      "Kriminal",
+      "Xammasi noto’g’ri"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "……..  – bu xolatda o’qishga, maktab jamoasiga qiziqishi batamom so’nadi, giyoxvandlik, spirtli ichimliklarga qiziqishi kuchayadi?",
+    "options": [
+      "Degradatsiya",
+      "Adaptatsiya",
+      "Ijtimoiy dezadaptatsiya",
+      "maktab dezadaptatsiya"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "……….O’qish jarayonidagi qiyinchiliklar bilan bir qatorda o’qituvchilar, sinfdoshlar bilan nizolashishda namoyon bo’ladigan, hulq atvor buzilishi bilan xarakterlanadigan bola xolati?",
+    "options": [
+      "ijtimoiy dezadaptatsiya",
+      "Degradatsiya",
+      "maktab dezadaptatsiya",
+      "Adaptatsiya."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Reabilitatsiyaning asosiy tamoyillari?",
+    "options": [
+      "mintaqaviy xususiyatlarni mintaqadagi ijtimoiy-madaniy va iqtisodiy xolatni inobatga olish;sheriklik; reabilitatsion chora tadbirlarning keng qamrovligi; ketma-ketligi;individual insoniy yondashuv.",
+      "individual –insoniy yondashuv; sheriklik tamoyili, iqtisodiylik",
+      "ketma-ketlik,keng qamrovlilik.",
+      "barchasi to’g’ri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bolalarning spirtli ichimliklarga ko’nikishlari asosan 3 davrda  …………  jadal kechadi?",
+    "options": [
+      "go’daklik,  o’smirlik",
+      "bolalikning ilk davri,maktabgacha va kichik maktab yoshi,  o’smirlik va o’spirinlik davri.",
+      "bolalikning ilk davri, maktabgacha va kichik maktab yoshi, o’smirlik,yoshlik",
+      "B va C."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Eyforiya bu ………?",
+    "options": [
+      "Ko’tarinki kayfiyat.",
+      "Ko’tarinki muloqot",
+      "Alkogolga berilish darajasi",
+      "Xaqiqiy Axvolga mos kelmagan xolda kayfiyatning ko’tarinki bo’lishi xolatidir."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Maktabda ijtimoiy pedagogning asosiy vazifasi  ………..?",
+    "options": [
+      "Narkamaniyaga moyil bolalarni topish",
+      "Narkamaniya profilaktikasidir",
+      "Narkomaniyaga qarshi korreksion ishlar olib borish",
+      "B va A javob to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "………… yondashuvi tarbiyalanuvchining o’zini giyoxvandlikka qarshi faoliyatga jalb qilish orqali giyoxvandlikka qarshi kurash yuritishni nazarda tutadi?",
+    "options": [
+      "Axborot-faoliyat.",
+      "Informatsion-emotsional.",
+      "Axborot-faoliyat, informatsion emotsional.",
+      "Mantiqiy."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "…………  Yondashuvda axborot bilan bir qatorda ijtimoiy psixologik treningga xam katta e’tibor qaratiladi?",
+    "options": [
+      "Axborot faoliyat",
+      "Informatsion emotsional",
+      "Mantiqiy",
+      "A.B.C javoblar ro’g’ri"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Jinoyat kodeksiga binoan, tarbiyalash kaloniyalarida ozodlikdan mahrum etishga  xukm etilganlar,  ……….  Yoshdan  …….. yoshigacha bo’lgan balog’atga yetmaganlar xamda ular  ………..  yoshga yetguncha tarbiyalash kaloniyalarida qoldirishga xukm etilgan jazo o’taydilar?",
+    "options": [
+      "18, 21, 23",
+      "14, 18, 21",
+      "14, 16, 17",
+      "14, 17, 18"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Jinoyat sodir etish motivlari?",
+    "options": [
+      "sotib olishga qurbi yetmagan narsaga ega bo’lish istagi",
+      "o’g’il bolaligini ko’rsatib qo’yish, guruxda obro’ga ega bo’lish",
+      "jinoyat sodir etayotganligini yaxshi tushunib yetmaslik",
+      "barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Jinoyatchilikning profilaktik metodlari?",
+    "options": [
+      "ma’naviy ongini ishlab chiqish",
+      "Pozitiv xulqi ko’nikma va odatlarini shakllantirish",
+      "Jamoatchilik tartibiga zid ta’sirlariga qarshi tura olishga imkon beruvchi irodaviy kuchlarini tarbiyalash, mikro muxitni ijtimoiy sog’lomlashtirish",
+      "barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Redsedivist  atamasi izoxini toping?",
+    "options": [
+      "xuquqbuzar",
+      "takroriy jinoyat sodir etish",
+      "jinoyatchi",
+      "barcha javoblar  to’g’ri"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": ",,Sog’lom avlod uchun” xalqaro nodavlat hayriya jamg’armasi qachon tashkil topgan?",
+    "options": [
+      "1993 y 23 aprel.",
+      "1994 y 5 may.",
+      "1995 y 27 iyun.",
+      "1996 y 29 iyul"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ",,Ona va bola skrining“ Dasturi doirasida qanday harakatlar tashkil etiladi?",
+    "options": [
+      "Axolini tibbiy madaniyatini oshirish.",
+      "Onalik va bolalikni muhofaza qilish.",
+      "Nogironlik, tug’ma kasalliklar  bilan dunyoga keluvchi bolalikni barvaqt  tashxis qilish.",
+      "Oilalarda sog’lom avlodning tug’ulishi va tarbiyalanishi uchun yuksak masulyat psihologiyasini shakllantirish."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Shaxsiy gigiena tushunchasi qaysi qatorda to’g’ri ko’rsatilgan?",
+    "options": [
+      "Sanitariya muhofazasi qoidalariga amal qilish.",
+      "Bo’sh vaqtni ko’ngilli tashkil etish.",
+      "Jinsiy hayotning to’g’ri yo’lga qo’yilishiga erishish.",
+      "Inson salomatligini saqlash uning mustahkamlanishini ta’minlovchi tozalik va ozodalikka rioya qilish."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "IJTIMOIY tushunchasining ta’rifi qaysi javobda to’g’ri ko’rsatilgan?",
+    "options": [
+      "“Ijtimoiy” (lotinchada socialis-umumiy) tushunchasi ostida insonlar                                    orasidagi o’zaro munosabatlarning turli shakllari bilan bog’liq barcha jarayonlar tushuniladi.",
+      "“Ijtimoiy tushuncasi” insonlarning o’zaro madaniy xayotga moslashish        jarayonidir.",
+      "“Ijtimoiy”  tushunchasi jamiyat va insonlarning qonun –qoida va me’yor",
+      "“Ijtimoiy ” tushunchasi  insonlarning  shaxslararo muloqot jarayoniga       moslashish jarayonidir."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy pedagogika fanining predmetini aniqlang ?",
+    "options": [
+      "Ijtimoiy pedagogika faninig predmeti bolani ijtimoyillashtirish qonuniyatlai hisoblanadi.",
+      "Bolani tarbiyalash qonuniyatlari hisoblanadi.",
+      "Ijtimoiy pedagogika fanining predmeti jamiyatni yuksaltirishdir.",
+      "Barcha javoblar to’gri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“ Ijtimoiy pedagogika  ” alohida shaxs yoki guruhni tarbiyalash , o’qitish nazariyasi va amaliyotidir”deb takidlagan Rossiyalik olimni aniqlang.",
+    "options": [
+      "A.V.Mudrik.",
+      "V. Vasilkova.",
+      "D. Semenov.",
+      "A. Galaguzova."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedagogika fanining ob’ektini aniqlang?",
+    "options": [
+      "Jamiyat.",
+      "Ijtimoiylashuvga muhtoj bola.",
+      "Oila, ta’lim , din.",
+      "Qariyalar."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Ijtimoiylashuv” atamasini birinchi bo’lib insonlarga nisbatan qo’llagan",
+    "options": [
+      "A.Disterverg.",
+      "K. Magger.",
+      "F. G. Keddings.",
+      "I. G.Pestolotsi."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiy ish tushunchasini izohlang.",
+    "options": [
+      "Ijtimoiy ish insonlarning bir- biriga insoniy munosabatining nomoyon    bo’lishini bildiruvchi iboradir",
+      "Ijtimoiy ish insonning jamiuatga muvafaqiyatli moslashish jarayonidir.",
+      "Ijtimoiy ish o’zaro jamiyat talablari asosida yuzaga keladigan jarayondir.",
+      "Javoblarning hech biri to’g’ri emas."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy faoliyat -.....................",
+    "options": [
+      "insonning jamiyatga muvaffaqiyatli moslashuvini osonlashtirishga qaratilgan tizimli chora tadbirlar tizimidir.",
+      "muddatli yordam ko’rsatishdir.",
+      "Keksalarga tizimli yordam korsatish jarayonidir.",
+      "Nogironlarga tizimli yordam ko’rsatish va himoyalash jarayonidir."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bola ijtimoiylashuvining etakchi vositalari: ...........",
+    "options": [
+      "Sport, gigena,mehnat.",
+      "O’yin,o’qish, mehnat.",
+      "Alla, ertak, Muloqot, oyin ,o’qish, ijod, sport.",
+      "ijod, sport, gigena,mexnat"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "................................................ijtimoiy maqom deyiladi.",
+    "options": [
+      "Insonning jamiyatda tutgan o’rni.",
+      "Insonning  millati, tug’ilgan joyi , familiyasi.",
+      "Insonni jamiyatda nimalarga mustaqil erishishi",
+      "Insonning jamiyatdagi  muayyan huquq va majburiyatlar bilan      xarakterlanadigan mavqei"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ijtimoiy pedagogikaning rivojlanish bosqichlarini ko’rsating?",
+    "options": [
+      "Qadimgi davrdan  XVII, XVII-XIX,XX asr vaundan keyingi davr.",
+      "XII, XVIII,XIX,XX asrlar",
+      "Qadimgi davrdan XVIII vaXXasr",
+      "Hammasi noto’gri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Etim bolalarga vasiylik ikki yo’l bilan amalga oshiriladi.........................",
+    "options": [
+      "Asrab olish va vasiylik.",
+      "Asrab olish yoki davlat qaramog’iga olish.",
+      "Vasiylik va qaramog’iga olish.",
+      "Barchasi noto’g’ri."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy me’yorlar  ikki katta guruhga bo’linadi:...........................",
+    "options": [
+      "Universal va xususiy.",
+      "Ayrim millatlarga xos va xususiy.",
+      "Ayrim millatlarga xos va universal.",
+      "Barchasi noto’g’ri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ".....................bu bolani faol xayotga,jamiyatga va ijtimoiy foydali mehnatga qaytarish maqsadini ko’zda tutuvci chora –tadbirlar tizimidir.",
+    "options": [
+      "Adaptatsiya.",
+      "Dezadaptatsiya.",
+      "Reabilitatsiya.",
+      "Degradatsiya."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": ".....................doimiy yomonlashish,og’irlashish,tushish, harakatning orqaga ketishi.",
+    "options": [
+      "Degradatsiya.",
+      "Dezadaptatsiya.",
+      "Reabilitatsiya.",
+      "Adaptatsiya."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila tipalogiyasi to’g’ri ko’rsatilgan javobni toping.",
+    "options": [
+      "Tinch oilalar, havfi bor oilalar, notinch oilalar,asotsial oilalar",
+      "Baxtli oilalar, asotsial oila, notinch oila.",
+      "Asotsial oilalar, hotinch oilalar,",
+      "Maslahatchi  oilalar , havfi bor oilala."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila bilan ish olib borishning ……………..inqirozli holatda bevosita yordam ko’rsatishni ko’zda tutadi.",
+    "options": [
+      "Muammoli modeli.",
+      "Intervent modeli.",
+      "Uzoq muddatli model.",
+      "Qisqa muddatli moael."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy pedagogning oila bilan ish yuritishning 4 oydan oshmaydigan ish    modeli",
+    "options": [
+      "Intervent modeli.",
+      "Uzoq muddatli model.",
+      "Muammoli model.",
+      "Qisqa mudatli model"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiy etim  -……………………………",
+    "options": [
+      "biologik ota –onalari bor, biroq ular turli sabablar bilan uning tarbiyasi bilan  shug’illanmaydigan bolalar.",
+      "Ota-onasi vafot etganlar.",
+      "Ota-onasining biri yoki ikkinchisi vafot etganlar.",
+      "barcha javoblar to’g’ri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Etimlikning asosiy uchta sababini ko’rsating",
+    "options": [
+      "Ota-onalarning o’z voyaga etmagan bolasidan voz kechishi.",
+      "Ota –onalik huquqidan mahrum etilganlarning farzandlari.",
+      "Turli sabablar  bilan ota-onalarning vafot rtishi.",
+      "Barcha javoblar  to’g’ri."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Vasiyning vazifalariga ............................................... kiradi  .",
+    "options": [
+      "Boiani tarbiyalash va hunarli  qilish .",
+      "Bolani tarbiyalash va rivojlantirish, uning huquqlarini himoya qilish.",
+      "Bolani tarbiyalash va rivojlantirish, hunarli bo’lishini ta’minlash.",
+      "Bolani tarbiyalash va rivojlahtirish, moil-mulkini himoya qilish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Giyohvandlikning oqibatlari uch turga ajratiladi:..........................",
+    "options": [
+      "Moddiy, maishiy,jismoniy.",
+      "Biologik, ijtimoiy psixologik,  jinoiy.",
+      "Moddiy, jinoiy,  ijtimoiy psixologik.",
+      "To’g’ri javob yo’q"
+    ],
+    "correct_index": 1
+  }
+]

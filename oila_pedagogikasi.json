@@ -1,0 +1,2622 @@
+[
+  {
+    "question": "O‘zbekiston Respublikasi Konstitutsiyasining nechanchi bobi oilaga bag‘ishlangan?",
+    "options": [
+      "14 bob;",
+      "4 bob;",
+      "15 bob;",
+      "17 bob;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O`zbekistonda nechanchi yili “Oila” yili deb e’lon qilindi?",
+    "options": [
+      "1999",
+      "2000",
+      "1998",
+      "2001"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "“Oila Kodeksi” qachon qabul qilingan?",
+    "options": [
+      "1997 yil 29 avgustda",
+      "1998 yil 30 aprelda;",
+      "1999 yil 1 aprelda",
+      "1998 yil 2 fevralda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ma’naviy-axloqiy barkamol insonni shakllantirishga oid g‘oyalar, fikrlar aks etgan “Tadbiri al-manozil” asari muallifi kim?",
+    "options": [
+      "Beruniy;",
+      "Al Farobiy",
+      "Ahmad Yugnakiy",
+      "Ibn Sino"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oila pedagogikasining maqsadi - … .",
+    "options": [
+      "Oila tarbiyasiga doir muammolarning holati, qonuniyatlarini o‘rganish;",
+      "Oilaning ijtimoiy holati va muammolarini o‘rganish;",
+      "Ijtimoiy sharoitda oilaning tutgan o‘rnini belgilash;",
+      "Jamiyatda oila maqomini belgilash;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O`zbek oilalarining milliy va diniy tuyg‘ularini aks ettiruvchi bayramlar qaysi qatorda to‘g‘ri berilgan?",
+    "options": [
+      "Mustaqillik bayrami;",
+      "“Ramazon” va “Qurbon hayiti”;",
+      "“Navro‘z” va “Mehrjon”;",
+      "“Gul bayrami” va “Qushlar bayrami”"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oila a’zolarining oylik ish haqi hisobidan to‘planib, daromad va xarajatlar yig‘indisi qanday nomlanadi?",
+    "options": [
+      "Oila budjeti",
+      "Katta xarajat;",
+      "Takrorlanuvchi xarajat;",
+      "Soliq;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila ikki ustundan iborat. Bular qaysi qatorda berilgan?",
+    "options": [
+      "Birinchisi – Ota, ikkinchisi – ona;",
+      "Birinchisi- madaniyat, ikkinchisi- xarajatlar;",
+      "Birinchisi- iqtisod, ikkinchisi- ma`naviyat;",
+      "Birinchisi - ta`lim, ikkinchisi - tarbiya;"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Fitrat oilaning ijtimoiy vazifalarini qanday qismlarga ajratgan?",
+    "options": [
+      "“Axloqiy tarbiya”, “Fikriy tarbiya”,  “ Avlod tarbiyasi”;",
+      "“Ta`limiy tarbiya”, “Aqliy tarbiya”, “Jismoniy tarbiya”;",
+      "“Axloqiy tarbiya”,  “Ta`limiy tarbiya”, “Avlod tarbiyasi”;",
+      "“Fikriy tarbiya”, “Aqliy tarbiya”, “ Avlod tarbiyasi”;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Uy-joy, avtomobil, zamonaviy texnika, an’anaviy tadbirlar kabilarga sarflanadigan mablag‘ qanday nomlanadi?",
+    "options": [
+      "Kichik xarajatlar;",
+      "Doimiy xarajatlar;",
+      "Takrorlanuvchi xarajatlar;",
+      "Katta xarajatlar;"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qaysi moddada «Nikoh tomonlarning ixtiyoriy roziligi va teng huquqliligiga asoslanadi\" deb aytib oʻtilgan?",
+    "options": [
+      "64-modda",
+      "76-modda",
+      "17- modda",
+      "56-modda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "1989-yilda nechta nikoh qayd etilgan?",
+    "options": [
+      "200 ming 661 ta",
+      "200 ming 651 ta",
+      "200 ming 641 ta",
+      "200 ming 671 ta"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Kimning asarida «Tarbiyali xotin ota-onasini, eri hamda bolasini, butun oila ahlini oilaga munosabati bo‘lgan do‘st-u qo‘shnilarini, xodim-u xodimalarini xulqi bilan mamnun qilur», — deyiladi.",
+    "options": [
+      "Ibn Sino",
+      "Xorazmiy",
+      "Buxoriy",
+      "Rizouddin ibn Faxriddin"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "«Inson huquqlari Umumjahon Deklaratsiyasi»ning nechanchi moddasida shunday bandlar mavjud:",
+    "options": [
+      "17- modda",
+      "63-modda",
+      "16-modda",
+      "64-modda"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "O‘zbekiston birinchi Prezidenti Islom Karimovning qaysi asarida «Bizning davlatimizni ham katta bir oila deb tushunish mumkin va lozim\" jumlalari keltirilgan?",
+    "options": [
+      "«O‘zbekistonning o‘z istiqlol va taraqqiyot yo‘li»",
+      "Yuksak maʼnaviyat yengilmas kuch",
+      "Bizdan ozod va obod vatan qolsin",
+      "Vatan sajdagoh kabi muqaddasdur"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qachon Toshkentda «Ayol va jamiyat» instituti tashkil topgan?",
+    "options": [
+      "1996",
+      "1995",
+      "1997",
+      "1998"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Eramizdan avvalgi 528-529 yillar orasida yaratilgan odob-axloq qoidalari ilgari surilgan asar nomini ko‘rsating.",
+    "options": [
+      "Zarbulmasal",
+      "Avesto",
+      "Temur tuzuklari",
+      "Devonu lug`ot-it turk"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Oila – jamiyatning asosiy bo‘g‘inidir hamda jamiyat davlat muhofazasida bo‘lish huquqiga ega” yuqoridagi jumlalar O‘zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida ko‘rsatib o‘tilgan?",
+    "options": [
+      "64-moddasida;",
+      "65-moddasida;",
+      "66-moddasida;",
+      "76-moddasida;"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "….. - kishilarning xulq-atvor normalari va qoidalarini, ularning o‘z-o‘ziga va boshqa kishilarga, mehnatga, jamiyatga munosabati kabi axloqiy tushunchalarni o‘z ichiga oluvchi ijtimoiy ongning shakllaridan biridir. Ushbu ta’rif nima haqida?",
+    "options": [
+      "Tarbiya",
+      "Ta’lim",
+      "Axloq",
+      "Xulq"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Bolalar tarbiyasida asosiy kuch-qudrat bu nima?",
+    "options": [
+      "Maktab",
+      "Ona",
+      "Ota",
+      "Bog’cha"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oilada shaxsni axloqiy shakllantirish qachondan boshlanadi?",
+    "options": [
+      "Bog’cha yoshidan",
+      "Maktab davridan",
+      "O‘spirinlik davridan",
+      "Bola tug’ilishidan"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oilada bolalarni axloqiy tarbiyalashning usullarini qaysi manbalardan o‘rganishimiz lozim bo‘ladi?",
+    "options": [
+      "Oila pedagogikasidan",
+      "Xalq pedagogikasidan",
+      "Ijtimoiy pedagogikadan",
+      "Umumiy pedagogikadan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oilaning muhim bo‘lgan vazifalaridan reproduktiv vazifasi qanday vazifani bajaradi?",
+    "options": [
+      "jamiyatning biologik uzluksizligini ta’minlash, bolalarni dunyoga keltirsh inson zotini davom ettirish.",
+      "bolaning jismoniy psixik va ijtimoiy  rivojlanishiga ta’sir ko‘rsatish.",
+      "ovqat tayorlash kir yuvish uy tozalash kiyim tikish va boshqalar",
+      "Ota-onalarning shahsiy ibratlari-bolaning tarbiyasiga ta’sir ko‘rsatish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Koʻp jamiyatlarda qayer bolalar ijtimoiylashuvi uchun asosiy va birinchi institut vazifasini oʻtaydi?",
+    "options": [
+      "Mahalla",
+      "Oila",
+      "Maktab",
+      "Bolalar bogʻchasi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Bolaning qayerdan olgan tajribasi bolaning atrof-odamlarga nisbatan yagona o‘lchov belgisi bo‘lib qoladi?",
+    "options": [
+      "Maktabda olgan tajribasi",
+      "Doʻstlari davrasida olgan tajribasi",
+      "Hayot tajribasi",
+      "Oilada olgan tajribasi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Insoniyat to‘plagan ijtimoiy tajribalariga, u tug‘ilib o‘sayotgan mamlakat madaniyatiga, uning ma’naviy-axloqiy qoidalariga, xalq an’analariga bolani orgatishi ota-onalarning qaysi vazifasi hisoblanadi?",
+    "options": [
+      "Tarbiyaviy vazifasi",
+      "Rekreativ va psixoterapevtik  vazifasi",
+      "Boshlang‘ich ijtimoiylashtirish  vazifasi",
+      "Reproduktiv vazifasi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oilaning qaysi vazifasi jismoniy  moddiy ma’naviy va psixologik yordam ko‘satish  bir-birini salomatligini mustahkamlash, oila azolarining dam olishini tashkil etish demakdir?",
+    "options": [
+      "Rekreativ va psixoterapevtik vazifasi",
+      "Reproduktiv vazifasi",
+      "Boshlang‘ich  ijtimoiylashtirish  vazifasi",
+      "Tarbiyaviy vazifasi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy institut bo‘lib unda odamlar o‘rtasida o‘zaro munosabatlar barqaror mustahkam shaklda bo‘ladi. Ana shu o‘zaro munosabatlar doirasida odamlarning kundalik hayoti asosiy qismi amalga oshiriladi. Nimaga taʼrif berilgan?",
+    "options": [
+      "Oila",
+      "Mahalla",
+      "Jamiyat",
+      "Maktab"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oilaviy munosabatlar nisbatan mustaqil hodisa sanalsa-da, jamiyatdagi mavjud ... munosabatlar bilan belgilanadi va ular taʼsirida oʻzgarib boradi. Nuqtalar oʻrniga toʻgʻri javobni qoʻying?",
+    "options": [
+      "iqtisodiy",
+      "ijtimoiy",
+      "Barcha javoblar toʻgʻri",
+      "mafkuraviy"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Boshlang‘ich ijtimoiylashtirish vazifasi qanday?",
+    "options": [
+      "Jismoniy  moddiy ma’naviy va psihologik yordam ko‘satish  bir-birini salomatligini mustahkamlash, oila azolarining  dam olishini tashkil etish",
+      "Moddiy ma’naviy va psihologik yordam ko‘satish bir-birini salomatligini mustahkamlash.",
+      "Insoniyat to‘plagan ijtimoiy tajribalariga, u tug‘ilib o‘sayotgan mamlakat madaniyatiga, uning ma’naviy-axloqiy qoidalariga, xalq an’analariga bolani orgatish.",
+      "Inson zotini davom ettirish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Kishilarning turmushiga singib ketgan ma'lum muddatga takrorlanib turuvchi xatti-harakat, kopchilik tomonidan qabul qilingan xulq-atvor qoidalar konikmasi nima deyiladi?",
+    "options": [
+      "Urf-odat",
+      "Marosim",
+      "An'ana",
+      "To‘y"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O‘zbek nikoh to‘ylari necha bosqichli jarayonni o‘z ichiga oladi?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Birinchi prezidentimiz I.A.Karimovning nechanchi yildagi farmoni to‘y hashamlar, oilaviy tantanalar, ma‘raka va marosimlarni o‘tkazishni tartibga solishga bag‘ishlangan?",
+    "options": [
+      "2000-yil 28 - oktabr",
+      "1998-yil 28-oktabr",
+      "1991-yil 28 -noyabr",
+      "2001-yil 28-noyabr"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": ",,O‘g'illarim, nabiralarim va yaqinlarimni uylantirmoq tashvishida kelin izlamoqqa e'tibor berdim. Bu ishni davlat yumushlari bilan teng ko‘rdim'', - deya kim aytgan?",
+    "options": [
+      "A. Avloniy",
+      "J. Manguberdi",
+      "Farobiy",
+      "A. Temur"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nechanchi yildan boshlab xatna foydali deb tan olingan?",
+    "options": [
+      "1988-yildan",
+      "1999-yildan",
+      "2000-yildan",
+      "1992-yildan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Amaldagi Oila Kodeksi Oʻzbekiston Respublikasi Oliy Majlisining 1998-yil 30-apreldagi qarori bilan tasdiqlanib, qachondan boshlab amalga kiritildi?",
+    "options": [
+      "1999-yilning 1- yanvaridan",
+      "ushbu yilning 1-sentabridan",
+      "1998-yilning 30-aprelidan",
+      "1998-yilning 1-mayidan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": ",,Yosh oshdi'' tantanasi hisoblangan bayramni ko'rsating?",
+    "options": [
+      "Navro’z",
+      "Mehrjon",
+      "Hayit",
+      "Tug'ilgan kun."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Toshkentda ,,Aqiqa'' degan Marosim farzand necha kunlik davrida o’tkaziladi?",
+    "options": [
+      "7,11,15,33 kunlik",
+      "7,9,11,13 kunlik",
+      "7,14,21,28 kunlik",
+      "7,21,40 kunlik"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Inson hayotidagi muhim voqealarni nishonlashga qaratilgan rasmiy va ruhiy ko’tarinkilik vaziyatida o‘tadigan tartib qoidalarga amal qilinadigan tadbirni ko'rsating?",
+    "options": [
+      "Marosim",
+      "An'ana",
+      "Urf-odat",
+      "To‘y"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qadimiy odatlarni o‘rganishda qaysi kitob qadimiy manba hisoblanadi?",
+    "options": [
+      "Qur'on",
+      "Qobusnoma",
+      "Turkiy guliston yuxud axloq",
+      "Avesto"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oilaviy tartibotning tashqi ko‘rinishi - o’zboshimchalik bilan ish tutish ham, g'azab ham, baqiriq-chaqiriq ham, iltijo ham, yolvorishlar ham emas, balki osoyishtalik,  Ushbu fikr kimga taalluqli?",
+    "options": [
+      "J. Santayana",
+      "A.S.Makarenko",
+      "Lev Tolstoy",
+      "Shekspir"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oilaviy-huquqiy munosabatlarni tartibga solib, oila aʼzolari (yaʼni, er-xotinlar, ota-onalar, bolalar, shuningdek, farzandlikka oluvchilar va ) oʻrtasidagi shaxsiy va mulkiy munosabatlarni tartibga soluvchi va mustahkamlovchi qonun hujjati bu…?",
+    "options": [
+      "Konstitutsiya",
+      "Bola huquqlari konvensiyasi",
+      "Oliy majlis hamda Vazirlar Mahkamasining Oila va mahalla to‘g‘risidagi bir qator hujjati",
+      "Oila kodeksi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Kishilar o‘rtasidagi o‘zaro muloqot qanday fanlarning asosiy kategoriyalaridan biri hisoblanadi?",
+    "options": [
+      "Ijtimoiy - pedagogik",
+      "Pedagogik–psixologik",
+      "Ijtimoiy – psixologik",
+      "Umumiy psixologik"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oila huquqi fani bo‘yicha o‘zbek tilida birinchi ilk bor nashr etilgan darslik?",
+    "options": [
+      "Konstitutsiyaning Oilaga bag’ishlangan bobi",
+      "Konvensiya",
+      ",,Yuksak ma’naviyat – yengilmas kuch” kitobi",
+      "Oila kodeksi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Bolalar huquqlari to‘g‘risidagi Konvensiya qachon, qaysi tashkilot tomonidan qabul qilingan?",
+    "options": [
+      "BMT 43-Bosh Assambleyasi tomonidan 1989-yil 20-noyabrda",
+      "YuNESKOning 43-Bosh Assambleyasi tomonidan 1989-yil 20-noyabrda",
+      "Jeneva, XMT tomonidan 1952-yil 28-iyunda",
+      "XMT Bosh Konferensiyasining 34-sessiyasida 1951-yil 29-iyunda qabul qilingan)"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Inson qaysi jarayonda ijtimoiy tajriba, ta’lim-tarbiya, turli munosabatlar, axloqiy me’yorlar g‘oya va mafkura omillari ta’sirida yashab ijtimoiylashadi va shaxs sifatida kamolotga yetadi?",
+    "options": [
+      "Muloqot jarayonida",
+      "Mehnat jarayonida",
+      "Pedagogik faoliyat jarayonida",
+      "Ta’lim-tarbiya jarayonida"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ikki yoki undan ortiq kishilarning so‘zlashuvida paydo bo‘ladi jarayon bu - … .",
+    "options": [
+      "Pedagogik faoliyat",
+      "Mehnat faoliyati",
+      "Muloqot",
+      "Ijtimoiylashuv"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "To‘g‘ri hukmni toping.",
+    "options": [
+      "Yoshlarning tarbiyasiga odobiga qarab biz uning oilaviy budjetiga baho berishimiz mumkin bo‘ladi.",
+      "Farzand tarbiyasini rivojalantirishda farzand bilan muloqot yetakchi o‘rinda turadi.",
+      "Oilaviy nizolar bolada turli nuqsonlarni yengib o‘tishiga sabab bo‘lishi mumkin.",
+      "Pedagogika fanida muomala kategoriyasi keng ma’noda tushuniladi hamda hamkorlik faoliyatining ichki aloqasini mujassamlashtirib, o‘zaro ta’sir va o‘zaro munosabatni aks ettiradi va ijtimoiy protsessual faoliyatni ifodalaydi."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogik muloqot bu - ?",
+    "options": [
+      "o‘quvchilarning yashirin qobiliyatlarini rivojlantirish",
+      "o‘quvchilarni faollikka, erkin fikrlashga, o‘z fikr mulohazalarini cho‘chimasdan bayon qilib unga tayanishga o‘rgatish",
+      "o‘qituvchining o‘quvchilarga ta’sir o‘tkazish asosida o‘zaro munosabatini faol tashkil qilishi, muayyan bir maqsadni dastur asosida amalga oshirishning rejalashtirilgan funksiyasini bajarishidir",
+      "o‘qituvchining o‘quvchilar bilan darsda va darsdan tashqari faoliyatda eng qulay psixologik muhitni vujudga keltirib, ijobiy ruhiy iqlimni yaratishi uchun imkoniyat beruvchi kasbiy munosabatidir"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": ",,O‘qituvchi muloqoti hurmat va talabchanlikka asoslangan munosabat shaklida bo‘lishi lozim.” Ushbu fikr qaysi olimga tegishli?",
+    "options": [
+      "Pestalotsi",
+      "Makarenko",
+      "Ushinskiy",
+      "Disterveg"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Noto’g’ri hukmni toping.",
+    "options": [
+      "O‘qituvchilarning o‘zaro axborot almashishi bilan bog‘liq xususiyatlari, uning sinf jamoasiga singib keta olish qobiliyati bilan bog‘liq.",
+      "Suxomlinskiyning fikricha, o‘qituvchining har bir so‘zi nafaqat o‘quvchi qulog‘iga aytiladi, balki uning qalbiga ham qaratilgan bo‘lishi shart.",
+      "Ilg‘or o‘qituvchilarning fikricha, ta’lim va tarbiya faqat o‘qituvchi va o‘quvchining o‘zaro hamkorlik pozitsiyasi asosidagi muloqot jarayonida quriladi.",
+      "Muloqot jarayonida o‘quvchi qisqa muddatda o‘zining psixologik bilimlariga tayanib o‘quvchilarning psixik xususiyatlarini mukammal bilishga harakat qilishi lozim."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "O‘qituvchining to‘g‘ri tashkil etilgan muloqoti o‘quvchining qaysi funksiyasini takomillashtiradi?",
+    "options": [
+      "Ijtimoiylashish funksiyasini",
+      "O‘zligini anglash funksiyasini",
+      "Muloqot qila olish funksiyasini",
+      "Mehnat qilish funksiyasini"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagog olimlar o‘qituvchining o‘quvchilar bilan muloqotiga ko‘plab tavsiflarni ilmiy asarlarida bayon etsalarda, muloqot avvalo, o‘qituvchining qanday xususiyati sifatida namoyon bo‘ladi?",
+    "options": [
+      "Pedagogik xususiyati",
+      "Shaxsiy-psixologik xususiyati",
+      "Pedagogik-psixologik xususiyati",
+      "Ijtimoiy-psixologik xususiyati"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Rus pedagogi V.A.Kan-Kalikning fikricha, o‘qituvchining pedagogik muloqoti tuzilishi nechta yo‘nalishlarda amalga oshiriladi?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ushbu bosqichda auditoriyaning barcha andozalarga javob berishi, har bir o‘quvchining psixologik xususiyatlarini o‘rganishi, ta’lim-tarbiyaviy  Yuqoridagi ta’rif pedagogik muloqotning qaysi bosqichiga berilgan?",
+    "options": [
+      "Modellashtirish bosqichiga",
+      "Kommunikativ aloqa bosqichiga",
+      "Pedagogik jarayon bosqichiga",
+      "Natijalar tahlili bosqichiga"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi muloqot prinsipida bir tomonlama axborot uzatiladi?",
+    "options": [
+      "Interaktiv muloqotda",
+      "Perseptiv muloqotda",
+      "Pedagogik muloqotda",
+      "Kommunikativ muloqotda"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Interaktiv muloqotning muhim jihati bu - … .",
+    "options": [
+      "Ikki tomonlama bir-biriga ta’sir etish",
+      "O‘qituvchi va o‘quvchilar jamoasi o‘zaro bir-birlarini idrok qilishi, anglashi",
+      "Bir tomonlama axborot uzatish",
+      "O‘qituvchi va o‘quvchi bir - birlari bilan muloqotga kirishishi jarayonida muloqotning muhim vositalari bo‘lmish til va nutq faoliyati bevosita muhim ahamiyat kasb etishi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Pedagog va psixolog olimlarning ko‘p yillik ilmiy izlanishlari, kuzatishlari va ilmiy tajribalariga asoslangan holda o‘qituvchilarning rahbar sifatida sinf jamoasini boshqarishida qo‘llaydigan muloqot uslublari necha turda tavsiflanadi?",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "4"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "- o‘zi yakka holda guruh faoliyatining yo‘nalishlarini belgilaydi;",
+    "options": [
+      "Demokratik uslubda",
+      "Avtoritar uslubda",
+      "Tolerant uslub",
+      "Liberal uslub"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Demokratik uslubda muloqotni tashkil etuvchi o‘qituvchi hozirgi zamon talablariga, ta’lim sohasida olib borilayotgan islohotlardan kutilayotgan maqsadlarga javob bera oladi.",
+    "options": [
+      "Demokratik uslubda",
+      "Avtoritar uslubda",
+      "Tolerant uslub",
+      "Liberal uslub"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Toshkentda chilla davrida qanday marosim o‘tkaziladi?",
+    "options": [
+      "Aqiqa",
+      "Beshik tóy",
+      "Kichik chilla",
+      "Katta chilla"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Tug‘ilgan kunni nishonlash o‘zbeklar uchun yangi odat. Ammo ? yosh – muchal to‘yini, ? yosh – “payg‘ambar yoshi”ni nishonlash an’anasi qadimdan mavjud.",
+    "options": [
+      "12, 63",
+      "11, 60",
+      "16, 50",
+      "18, 70"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "...........– inson hayotidagi muhim voqealarni nishonlashga qaratilgan, rasmiy va ruhiy ko‘tarinkilik vaziyatida o‘tadigan,  Masalan: ism qo‘yish, nikohdan o‘tish, dafn qilish, xotiralash, urug‘ qadash marosimlari.",
+    "options": [
+      "Marosim",
+      "Bayram",
+      "Urf-odat",
+      "An'ana"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila tarbiyasi deganda nima tushuniladi?",
+    "options": [
+      "ota-ona oiladagi katta kishilar, buva buvilar, aka opalar tomonidan bolalarning to‘g‘ri milliy axloq-odob normalari asosida tarbiyalanishi",
+      "katta mas'uliyat birinchi navbatda ota va ona zimmasiga tushishi",
+      "bola tug‘ilgan kundan boshlab, oila muhitida yashashi",
+      "oilaga xos qadriyatlar va an'analar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ota-onani hurmatlash, aka-uka, qarindosh-urug‘ini e’zozlash kabi g’oyalar ilgari surilgan “Oila a’zolari” nomli darslikning mullifi kim?",
+    "options": [
+      "Munavvarqori",
+      "Abdurauf Fitrat",
+      "Abdulla Avloniy",
+      "Muhammad Sodiq Qoshg‘ariy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Oila Kodeksi”ning 23-moddasi aks etgan javobni belgilang.",
+    "options": [
+      "“Nikoh tuzish vaqtidan er va xotin o‘z xohishi bilan eri yoki xotinning familiya qilib tanlaydi yoki ularning har biri nikohgacha bo‘lgan o‘z familiyasini saqlab qoladi”.",
+      "“Nikoh davlat ro‘yxatiga olingunga qadar tuzilgan nikoh shartnomasi nikoh davlat ro‘yxatiga olingan kundan boshlab kuchga kiradi”.",
+      "“Er va xotinning nikoh davomida orttirgan mol-mulklari, shuningdek, nikoh qayd etilgunga qadar, bo‘lajak er-xotinning umumiy mablag‘lari hisobiga olingan  shartnomasida boshqacha hol ko‘rsatilmagan bo‘lsa, ularning birgalikdagi umumiy mulki hisoblanadi”.",
+      "Er va xotinning har biri mashg‘ulot turi, kasb va turish hamda yashash joyini tanlashda erklidir."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Tarixiy taraqqiyot jarayonida va ijtimoiy ehtiyojlar orasida vujudga keladigan, avloddan-avlodga meros bo‘lib o‘tadigan, kishilar ma’naviy hayotiga ta’sir ko‘rsatadigan madaniy hodisa – bu … .",
+    "options": [
+      "Urf-odat",
+      "Marosim",
+      "Tantana",
+      "An’ana;"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Hozirgi kunda yoshlarni o‘z hohishlariga binoan tibbiy ko‘rikdan o‘tkazish “Oila kodeksi”ning nechanchi moddasida ta`kidlab o‘tilgan?",
+    "options": [
+      "16-moddasida",
+      "17-moddasida",
+      "18-moddasida",
+      "19-moddasida"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Odob as-solihin” asarining muallifi kim?",
+    "options": [
+      "Muhammad Sodiq Qoshg`ariy",
+      "Yusuf Hos Hojib",
+      "Abdulla Avloniy",
+      "Jaloliddin Davoniy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Abdurauf Fitratning 1916 yilda yozilgan, oilaviy hayotni islohotidan bahs yuritilgan va najot yo‘llarini axtarib xalqlarning umuminsoniy qardoshlik g‘oyasi targ‘ib etgan asari berilgan javobni belgilang.",
+    "options": [
+      "“Fozil odamlar shahri”",
+      "“Oila”",
+      "“Inson qadri”",
+      "“Oila a`zolari”"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oziq-ovqat mahsulotlari uchun, oilaga qo‘shimcha daromad keltiruvchi, xo‘jalikka yo‘naltirilgan sarflar hamda kundalik ehtiyojlar uchun ajratiladigan mablag‘lar qanday nomlanadi?",
+    "options": [
+      "Doimiy xarajatlar;",
+      "Kichik xarajatlar;",
+      "Katta  xarajatlar;",
+      "Takrorlanuvchi xarajatlar;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Oila Kodeksi” ning 30-moddasida aks etgan to‘g‘ri javobni belgilang.",
+    "options": [
+      "“Nikoh tuzish vaqtidan er va xotin o‘z xohishi bilan eri yoki xotinning familiya qilib tanlaydi yoki ularning har biri nikohgacha bo‘lgan o‘z familiyasini saqlab qoladi”.",
+      "“Er va xotinning nikoh davomida orttirgan mol-mulklari, shuningdek, nikoh qayd etilgunga qadar, bo‘lajak er-xotinning umumiy mablag‘lari hisobiga olingan mol-mulklari,  boshqacha hol ko‘rsatilmagan bo‘lsa, ularning birgalikdagi umumiy mulki hisoblanadi”.",
+      "“Nikoh davlat ro‘yxatiga olingunga qadar tuzilgan nikoh shartnomasi nikoh davlat ro’yxatiga olingan kundan boshlab kuchga kiradi”.",
+      "“Oila jamiyatning bo‘g‘inidir hamda jamiyat va davlat muhofazasida bo‘lish huquqiga ega. Nikoh tomonlarning o‘z ixtiyoriy roziligi vat eng huquqligiga asoslanadi”."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "O‘zbekiston Prezidentining “Ro‘za hayitini dam olish kuni deb e’lon qilish to‘g‘risida”gi Farmoni qachon e’lon qilindi?",
+    "options": [
+      "1991 yil 3 yanvarda;",
+      "1992 yil 27 martda;",
+      "1990 yil 25 aprelda;",
+      "1992 yil 2 martda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Rejasi borning - … bor”. Nuqtalar o‘rniga mos tushadigan javobni belgilang.",
+    "options": [
+      "ertasi;",
+      "kelajagi",
+      "egasi",
+      "bilimi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oilalar soni o‘sib borishida  respublikamiz hududidagi qaysi viloyatlar alohida o‘rin tutadi?",
+    "options": [
+      "Namangan, Xorazm, Jizzax, Qashqadaryo;",
+      "Farg‘ona, Buxoro, Jizzax, Surxondaryo;",
+      "Farg‘ona, Samarqand, Toshkent, Andijon;",
+      "Samarqand, Buxoro, Samarqand, Surxondaryo;"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oila pedagogikasi fanining tadqiqot ob’yekti nima?",
+    "options": [
+      "Ota-onalar, kattalar hamda  bola orasidagi pedagogik munosabat;",
+      "Malaka, ko‘nikma, tajriba bilan yoshlarni, ota-onalarni, oila a’zolarini qurollantirish;",
+      "Oiladagi uzluksiz ta’lim-tarbiya jarayoni;",
+      "Oiladagi muammolar;"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "XV Butunjahon xotin-qizlar konferensiyasi qachon qayerda bo‘lib o‘tgan?",
+    "options": [
+      "1995 yil Pekinda;",
+      "1996 yil Moskvada;",
+      "1997 yil Toshkentda;",
+      "1998 yil Londonda;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oilada yoshlarning kasb-hunar egallashlari, mehnatsevar bo‘lib tarbiyalanishlarida nimalarga rioya etish lozim?",
+    "options": [
+      "Bolaga beriladigan boshlang‘ich tarbiyaga;",
+      "Jismoniy tarbiyaga va mehnatga;",
+      "O‘zi ma`qul ko‘rgan kasbga qiziqishiga;",
+      "Ustoz-shogird an’analariga;"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Sohibqiron Amir Temur jismoniy tarbiyani otasiga xizmat qilgan maxsus navkar-murabbiylardan olgan bo‘lsa, ruhiy tarbiyani kimning dargohida egallagan?",
+    "options": [
+      "Sharafiddin Yazdiy;",
+      "Otasining otboqari;",
+      "Shayx Shamsiddin Kulol;",
+      "Ibn Batuta;"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oila munosabatlari turlaridan biri “avtoritar” – yana qanday munosabat deb ataladi?",
+    "options": [
+      "“yetakchi”;",
+      "“obro‘talab”;",
+      "“qiziq”",
+      "“ijtimoiy”"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Mustaqil O`zbekiston davlatimizning birinchi ordeni nima deb ataladi?",
+    "options": [
+      "“Mustaqillik”;",
+      "“Sog‘lom avlod uchun”;",
+      "“Buyuk xizmatlari uchun”;",
+      "“Shuhrat”"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Bu o‘yinda bola oila va boshqa joylarda bo‘layotgan voqelikni aks ettiradi. Bunda bolalar buva-buvi, ota-ona, ota-ona, aka-ukalarining  so‘zlashish madaniyatiga taqlid qiladilar, ota-ona rolini ijro etadilar. Bunday o‘yinlar qanday nomlanadi?",
+    "options": [
+      "Ijtimoiy o‘yinlar;",
+      "Harakatli o‘yinlar;",
+      "Maishiy o‘yinlar;",
+      "Didaktik o‘yinlar;"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "1993 yildan e’tiboran bola tug‘ilgach, qancha vaqtdan so‘ng chaqaloq onaga bolaning qornini to‘ydirish uchun berilmoqda?",
+    "options": [
+      "yarim soatdan so‘ng;",
+      "bir kundan so‘ng;",
+      "o‘n besh-yigirma daqiqadan so‘ng;",
+      "uch soatdan so‘ng;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Turli uy-ro‘zgor anjomlari ( bolg‘a, tesha, supurgi, changyutgich, qozon, idish-tovoq va boshqalar), ro‘zg‘orga oid, zarur kichik jihozlar, mayda-chuydalarga sarflanadigan mablag‘ nima deb ataladi?",
+    "options": [
+      "Kichik xarajatlar;",
+      "Doimiy  xarajatlar;",
+      "Katta  xarajatlar;",
+      "Takrorlanuvchi xarajatlar;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Respublikamizda “Sog‘lom avlod uchun” xalqaro jamg‘armasi qachon tuzilgan?",
+    "options": [
+      "1998 yil",
+      "2001 yil",
+      "2000 yil",
+      "2002 yil"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oila tipologiyasida yuqori darajadagi oilalar qanday nomlanadi?",
+    "options": [
+      "mustahkam oilalar.",
+      "notinch (baxtsiz) oila",
+      "xavfi bor oilalar guruhi",
+      "assotsial oilalar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Xavfi bor oilalar guruhini aniqlang.",
+    "options": [
+      "O’z vazifalarini bajara oladilar; ijtimoiy pedagog yordamiga deyarli muhtoj emas",
+      "Bu hayot faoliyati biror bir sohasida yoki birvaqtda bir nechtasida past ijtimoiy mavqe’ga ega bo’lgan oilalar, masalan oila daromadi past darajada yomon psixologik muhit, oilada madaniyat darajasi past",
+      "Qoidalardan bir qancha chetlanishi bilan ifodalanadi (to’la bo’lmagan oila, kam ta’minlangan oila va shu kabilar) bular oilaning moslashish qobiliyatini pasaytiradi.",
+      "Bu ota-onalari xulqi buzuq, qonunga hilof ravishda hayot kechirayotgan oilalar va bu oilalarda yashash –turmush sharoitlari eng oddiy sanitary gigienik talablarga javob bermaydi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oilaviy turmush munosabati ichida «liberal» toifasi ham  ko‘zga tashlanib turadi. Liberal uslubni aniqlang!",
+    "options": [
+      "Bunda ota-onaning obro‘si shaxslararo muloqotda hal qiluvchi, yetakchi rol o‘ynaydi. Shaxslararo teng huquqlilik, erkin hatti-harakat qilish, tashabbuskorlik bunda o‘z ahamiyatini yuqota boshlaydi.",
+      "Bu uslubda - oila davrasida  ota  yoki  ona  murosasoz, ko‘ngilchang bo‘lishlik   tashqi ko‘rinishidan iliq ruhiy iqlimini o‘ziga aks ettirganday bo‘lib tuyulsa ham, aslida unda hamjihatlik, o‘zaro tushunish etishmaydi.",
+      "Farzandlarda ota-onaga yaqinlik mehr-muhabbat hissi bir oz bo‘lsada kamayadi, keyinchalik bu tuyg‘u uzoqlashib, «begonalashish» tomoniga o‘tadi.",
+      "Mazkur toifadagi oila a’zolari davrasidagi suhbatlar, munozaralar, bahslar mulohazalar o‘zaro tenglik, hurmat ruhiga bo‘ysundiriladi."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kimlar asotsial oilalar sonining o‘sib borishini qayd etadilar va turmush darajasining pasayishini taxmin qiladilar?",
+    "options": [
+      "sotsiologlar",
+      "demograflar",
+      "olimlar",
+      "ruhshunoslar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Adaptatsiya so'zining ma'nosi nima?",
+    "options": [
+      "qarshilik",
+      "ijtimoiylashuv",
+      "moslashish",
+      "jamiyat"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Jamiyatda ijtimoiy moslashuvi darajasi bo'yicha oilaning nechta tiplari mavjud?",
+    "options": [
+      "2 ta",
+      "3 ta",
+      "5 ta",
+      "4 ta"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qaysi tipdagi oilalar ,,O'z vazifalarini bajara oladilar; ijtimoiy pedagog yordamiga deyarli muhtoj emas.  boshqa ichki imkoniyatlariga asoslangan qobiliyati hisobiga o‘z bolasining talab ehtiyojlariga tezlikda moslashib oladi\"?",
+    "options": [
+      "Xavfi bor oila",
+      "Tinch oila",
+      "Notinch oila",
+      "Asotsial oila"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": ".... - bu hayot faoliyati biror bir sohasida yoki bir vaqtda bir nechtasida past ijtimoiy mavqe’ga ega bo‘lgan oilalar, masalan, oila daromadi past darajada, yomon psixologik muhit, oilada madaniyat darajasi past. Bu qaysi tipga mansub?",
+    "options": [
+      "Xavfi bor oila",
+      "Tinch oila",
+      "Notinch oila",
+      "Asotsial oila"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi tipda ,,ota-onalari xulqi buzuq, qonunga xilof ravishda hayot kechirayotgan oilalar va bu oilalarda yashash – turmush sharoitlari eng oddiy sanitar-gigienik talablarga javob bermaydi\"?",
+    "options": [
+      "Xavfi bor oila",
+      "Tinch oila",
+      "Notinch oila",
+      "Asotsial oila"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": ",,Adaptatsiya\" so'zi qaysi tildan olingan?",
+    "options": [
+      "lotincha",
+      "yunoncha",
+      "inglizcha",
+      "nemischa"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Hozirgi zamonda oila oldida turgan muammolardan biri - bu....",
+    "options": [
+      "oilaning jamiyatdagi maqomi",
+      "oilani jamiyatga moslashtirish",
+      "kompleks xarakteristikasini tashkil etish",
+      "bir-birining huquqlarini hurmat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qoidalardan bir qancha chetlanishi bilan ifodalanadi (to‘la bo‘lmagan oila, kam ta’minlangan oila va shu kabilar) bular oilaning moslashish qobiliyatini pasaytiradi. Bu qaysi tipga mansub?",
+    "options": [
+      "Notinch oila",
+      "Tinch oila",
+      "Asotsial oila",
+      "Xavfi bor oila"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oilaning umumiy madaniyatliligini aniqlashda uning katta yoshdagi a’zolari bilim darajasini hisobga olish zarur. Kattalarning bilim darajasi bolalarni tarbiyalashda muhim omillardan biri hisoblanadi. Bu qaysi moslashishga kiradi?",
+    "options": [
+      "Oilaning moddiy farovonligi",
+      "Oilaning moddiy ahvoli",
+      "Ijtimoiy-madaniy moslashish",
+      "Vaziyatli-rolli moslashish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "O`zbekiston Republikasi Xalq ta`limi vazirligining 2004-yil 26-fevraldagi 26-sonli hay’at majlisi qarori billan qanday hujjat qabul qilingan?",
+    "options": [
+      "“Oila, mahalla, maktab” Konsepsiyasi",
+      "“Bola huquqlari konvensiyasi”",
+      "“Inson huquqlari deklaratsiyasi”",
+      "“Oila kodeksi’"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Maktabni oila bilan bog`lovchi vosita bu … shaxsi",
+    "options": [
+      "o`qituvchi",
+      "o`quvchi",
+      "ota-ona",
+      "direktor"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oilaning tuzilishli xarakteristikalarini aniqlang!",
+    "options": [
+      "Nikohli sheriklarning mavjudligi (to‘la, rasman to‘la, to‘la emas)",
+      "Oilaning hayotiy sikli bosqichi (yosh, yetuk, qari) Nikoh tuzish tartibi (birinchi, takroriy...)",
+      "Oiladagi avlodlar soni (bitta, yoki bir necha avlodlar) bolalar soni (ko`p, kam bolali)",
+      "barcha javoblar to`g`ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qaysi olim ilmiy maqsadlarini amalga oshirish uchun 63 kun g‘or ichida yashagan ekan?",
+    "options": [
+      "B.F.Parigin",
+      "M.Sifr",
+      "T.Shibutani",
+      "A.N.Leontev"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Quyidagilardan qaysi biri Leontevning asari?",
+    "options": [
+      ",,Psixika’’",
+      "“Psixika taraqqiyotidan ocherklar’’",
+      "“Ijtimoiy psixologiya\"",
+      ",,Psixika taraqqiyoti’’"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muloqot jarayoni o‘ziga xos ravishda murakkab bo‘lib, bunda uch xil bosqich mavjud. Dastlabki bosqich qaysi?",
+    "options": [
+      "avlodlar o`rtasidagi muloqot",
+      "boshqalar bilan muloqot",
+      "odamning o`z-o`zi bilan muloqoti",
+      "oila a’zolari o‘rtasidagi muloqot"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Kimning fikriga koʻra Oilaviy tartibotning tashqi ko‘rinishi — o‘zboshimchalik bilan ish tutish ham, g‘azab ham, baqiriq-chaqiriq ham, balki osoyishtalik, jiddiylik va ishbilarmonlik bilan qilingan farmoyishdan iborat bo‘lmog‘i kerak, deyilgan?",
+    "options": [
+      "Makarenko",
+      "Komenskiy",
+      "Naytingeyl",
+      "Disterveg"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Zardushtiylik diniga xos eng katta bayram qaysi?",
+    "options": [
+      "Qurbonlik",
+      "Yangi yil",
+      "Navroʻz",
+      "Hayit"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Kishilar dunyoqarashini shakllanishiga ta’sir etuvchi muhim omildir. Bu ....",
+    "options": [
+      "Xalq urf-odatlari",
+      "Xalq anʼanalari",
+      "Xalq marosimlari",
+      "Xalq bayramlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘zbek nikoh to‘ylari necha bosqichli boʻladi?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Muloqot so‘zi qaysi tildan olingan?",
+    "options": [
+      "yunoncha",
+      "fransuzcha",
+      "grekcha",
+      "lotincha"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Pedagogik muloqotga to‘g‘ri ta'rif berilgan javobni toping?",
+    "options": [
+      "o‘qituvchining o‘quvchilarga ta'sir o‘tkazish asosida o‘zaro munosabatini faol tashkil qilishi",
+      "hamkorlik faoliyatining ehtiyojidan vujudga kelib chiqadi va shaxslararo munosabat rivojlanishining ko‘p qirrali jarayoni hisoblanadi?",
+      "hamma javob to‘g‘ri",
+      "o‘qituvchining o‘quvchilar bilan darsda va darsdan tashqari faoliyatda eng qulay psixologik muhitni vujudga keltiradi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "O‘qituvchining pedagogik muloqoti tuzilishi nechta yo‘nalishda amalga oshiriladi?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kimning fikricha o‘qituvchi muloqoti hurmat va talabchanlikka asoslangan munosabat shaklida bo‘lishi lozim?",
+    "options": [
+      "Makarenko",
+      "Tolstoy",
+      "Komenskiy",
+      "Suxomlinskiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "”O‘qituvchining maktab hovlisida gapirgan har bir so‘zi puxta o‘ylangan aql va mulohazalarga boy bo‘lishi kerak\" deb ta’kidlagan olim?",
+    "options": [
+      "Makarenko",
+      "Komenskiy",
+      "Tolstoy",
+      "Suxomlinskiy"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Auditoriya barcha andozalarga javob berishi qaysi bosqichda amalga oshiriladi?",
+    "options": [
+      "Modellashtirish",
+      "Kommunikativ aloqa",
+      "Pedagogik jarayon",
+      "Natijalar tahlili"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O‘qituvchi o‘z faoliyatiga bevosita ta’lim-tarbiyaviy ishlarni ma’lum bir yo‘nalishga solishi qaysi bosqichda amalga oshiriladi?",
+    "options": [
+      "Kommunikativ aloqa",
+      "Modellashtirish",
+      "Pedagogik jarayon",
+      "Natijalar tahlili"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Muloqotning qaysi turi odamlarning jamiyatda bajaradigan rasmiy vazifalari va xulq-atvor normalaridan kelib chiqadi?",
+    "options": [
+      "Ijtimoiy muloqot",
+      "Rasmiy muloqot",
+      "Norasmiy muloqot",
+      "kommunikativ muloqot"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "1. Muloqotning kommunikativ tomoni",
+    "options": [
+      "B.F.Lomov",
+      "A. N. Leontev",
+      "G.M.Andreeva",
+      "O.Musurmonova"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Muloqotning vazifalari to‘g‘ri tavsiflangan javobni toping.",
+    "options": [
+      "1.O‘z-o‘zi bilan muloqot",
+      "1.Rasmiy muloqot",
+      "1.Ijtimoiy yo‘naltirilgan muloqot",
+      "1.Bir-birini tushinish"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qaysi uslub asosida faoliyat olib boradigan o‘qituvchining bosh shiori o‘quvchilarda mustaqil va erkin fikr yuritish ko‘nikmalarini va ongli intizomni hosil qilishdan iborat.",
+    "options": [
+      "Liberal uslub",
+      "Avtoritar uslub",
+      "Demokratik uslub",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Mashhur shayximiz Muhammad Sodiq Muhammad Yusuf nomi bilan qayerda erkaklar va ayollar madrasasi tashkil etilgan?",
+    "options": [
+      "Moskva",
+      "Qozogʻiston",
+      "Koreya",
+      "Istanbul"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qayerda tahsil olish yillari Shayx Muhammad Sodiq Muhammad Yusufni Musulmon ulamolarining kelajak avlodiga, ayniqsa, Arab dunyosiga va hattoki uzoq Yaponiya kabi mamlakatlarga ham tanitgan?",
+    "options": [
+      "Liviyada",
+      "Arabiston",
+      "Moskva",
+      "Turkiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Muhammad Sodiq Muhammad Yusufning kim  bilan uchrashuvida kommunistik rejimda dinga nisbatan siyosatda ijobiy oʻzgarishlar kuzatildi?",
+    "options": [
+      "Gorbachyov",
+      "Iosif Stalin",
+      "Brejnev",
+      "Chernenko"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Muhammad Sodiq Muhammad Yusufning Tafsiri hilol asari necha jilddan iborat?",
+    "options": [
+      "6jild",
+      "5jild",
+      "7jild",
+      "4jild"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bizning shiorimiz: Haqiqiy iymonga, sof Islomga intilamiz, Qurʼon va Sunnatni ularga amal qilish uchun o‘rganishni istaymiz va  Ushbu aqidani Muhammad Sodiq Muhammad Yusuf qachondan oʻz asarlariga yozib qoldirgan?",
+    "options": [
+      "2002-yil",
+      "2001-yil",
+      "2003-yil",
+      "2000-yil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Obiddin Mahmudov muallifligidagi ma’naviy-ma’rifiy  asarlar to‘g‘ri berilgan qatorni toping.",
+    "options": [
+      "”Umr hikmati saodati”, ,,Ummondan durlar”, ,,Ezgulik yo‘li”.",
+      "”Farzandnoma” , ,,Qizlar daftariga” , ,, Tolibnoma’’.",
+      ",,Saodatnoma’’ , ,,Farzandnoma”, ,,Tolibnoma’’",
+      "”Umr hikmati saodati”, ,,Farzandnoma”, ,,Qizlar daftariga’’"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ",, Farzandnoma’’ asarida noto‘g‘ri berilgan tarbiyani nimaga mengzaladi?",
+    "options": [
+      "Siniq oynaga",
+      "Qiyshiq ko‘zaga",
+      "Yantoqqa",
+      "Teshik qayiqqa"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ilmning kattasi – ....  Nuqtalar o‘rnini to‘ldiring.",
+    "options": [
+      "Adab",
+      "Tarbiya",
+      "Xulq",
+      "Axloq"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ",,U - maqsad sari intilishda irodani toblaydigan shiddatkor kuch.’’ ,,Farandnoma” asarida ta’rif berilgan ushbu gapdagi u nima?",
+    "options": [
+      "Jismonan baquvvat bo‘lish",
+      "Tirishqoqlik",
+      "Samimiylik",
+      "Saxovatpeshalik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ",,Farandnoma” asarida qaysi fazilatga ,,xuddi birovdan qarzga pul olib, oldinga qarzdan qutulgan qarzdor holatiga o'xshaydi...” deb ta’rif berilgan?",
+    "options": [
+      "Soxta samimiyat",
+      "Yolg‘onchilik",
+      "Baxillik",
+      "Qo‘li egrilik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Kishining jamiyatda tutgan mavqeiga bog'liq bo'lmagan bir kasb borki, bu qaysi kasb hisoblanadi?",
+    "options": [
+      "onalik va otalik kasbi",
+      "oila qurish kasbi",
+      "mehnat kasbi",
+      "hunarmandchilik kasbi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Kim o'g'il uylantirish, kelin tanlash, farzand tarbiyasini davlat siyosati darajasiga ko'targan?",
+    "options": [
+      "H. Boyqaro",
+      "Chingizxon",
+      "Z.M.Bobur",
+      "A.Temur"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "...– oilaning tabiiy va ijtimoiy ehtiyojlari asosida vujudga kelgan, avloddan-avlodga meros bo‘lib o‘tadigan, oila a’zolari ma’naviy shakllanishiga ta’sir ko‘rsatadigan ijtimoiy-madaniy hodisa nima deyiladi?",
+    "options": [
+      "oilaviy hurmat",
+      "oilaviy anʼanalar",
+      "Xalq anʼanasi",
+      "Madaniy meros"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Jismoniy kapitalga 1 yildan 5 yilgacha tashkil etsa, insonga ta’lim shaklidagi investitsiyalar necha yilni tashkil etadi?",
+    "options": [
+      "9-18 yil",
+      "12-20 yil",
+      "10-20 yil",
+      "7-20 yil"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Inson kapitali bu – odamning o‘ziga va mamlakatiga, butun xalqiga foyda keltirish yo‘lidagi tayyorgarligidir. … tarbiyaga sarflangan sarmoya foydasini 4 barobardan 17. Ushbu taʼrif kimga tegishli?",
+    "options": [
+      "O. Sharafiddinov",
+      "U. Nosir",
+      "M. Quronov",
+      "U. Azim"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Abdulla Avloniyning qalamiga mansub asarlarni aniqlang?",
+    "options": [
+      "\"Turkiy guliston yohud axloq\", \" Birinchi muallim\", \"Ikkinchi muallim\", \"Maktab gulistoni\"",
+      "\"Birinchi muallim\"",
+      "\"Ijtimoiy odoblar\"",
+      "\"Yodgor\""
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Kitoblar birinchi kimning dastxatida chop etilgan?",
+    "options": [
+      "Abdusalom Abdurahmon oʻgʻli",
+      "Fitrat",
+      "Kotib Mannon Uygʻur",
+      "Tavakkalova"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Avloniy bola tarbiyasini nisbiy ravishda necha boʻlimga ajratadi?",
+    "options": [
+      "4 ta",
+      "3 ta",
+      "6 ta",
+      "2 ta"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"Turkiy guliston yohud axloq\"asari qanday usulda chop etilgan?",
+    "options": [
+      "Litografik toshbosma",
+      "Forscha",
+      "Yozma",
+      "turkbosma"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "A.Avloniyning eng katta shuhrat olib kelgan asari qaysi?",
+    "options": [
+      "Turkiy guliston yohud axloq",
+      "Maktab gulistoni",
+      "Birinchi muallim",
+      "Ijtimoiy odoblar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qobusnoma” asarida insonlar nechta guruhga bo’linadi?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "”Qobusnoma” asarining ilk o’zbekcha tarjimasi kim tomonidan amalga oshirilgan?",
+    "options": [
+      "Ogahiy",
+      "Subutoy Dolimov",
+      "Gilonshoh",
+      "Shams al-Maoliy Qobus"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"Qobusnoma” asarida qaysi suralar va hadislar asos qilib olingan?",
+    "options": [
+      "Buxoriy va Muslim hadislari",
+      "Qur’oni karim suralari va Muhammad (s.a.v.) hadislari",
+      "Tavrot va Injil",
+      "Zabur va Furqon"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "”Qobusnoma” asarida insonning qaysi fazilatlari ustun qo’yiladi?",
+    "options": [
+      "Aqllilik va haqgo’ylik",
+      "Juvonmardlik va saxovat",
+      "Bilim va san’at",
+      "Barcha javoblar to’g’ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "\"Qobusnoma” asarida qaysi masalalar muhokama qilinmaydi?",
+    "options": [
+      "Farzand tarbiyasi",
+      "Hunar va ilmning ahamiyati",
+      "Jamiyatda ayollar roli",
+      "Savdo va dehqonchilik ishlari"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Zamonaviy bilim va koʻnikmalarga ega, mamlakatning munosib kelajagi uchun javobgarlikni oʻz zimmasiga ola biladigan barkamol, maqsadga intiluvchan va rivojlantirishning eng muhim shartidir” ushbu soʻzlar kimga tegishli?",
+    "options": [
+      "A.Fitrat",
+      "Sh.M.Mirziyoyev",
+      "Shayx Muslihiddin Saʼdiy",
+      "Xorun ar-Rashid"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Guliston” va “Boʻston” asarlari kimga tegishli?",
+    "options": [
+      "A.Fitrat",
+      "Sh.M.Mirziyoyev",
+      "Shayx Muslihiddin Saʼdiy",
+      "Xorun ar-Rashid"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "“bilim, aql, albatta, yaxshi axloq bilan bezalmogʻi lozim”, ushbu misralar kimga tegishli?",
+    "options": [
+      "Abu Nasr Forobiy",
+      "Sh.M.Mirziyoyev",
+      "Shayx Muslihiddin Saʼdiyning",
+      "Xorun ar-Rashid"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oʻzbekiston Respublikasi Prezidentining 2020 yil 18-fevraldagi “Jamiyatda ijtimoiy-maʼnaviy muhitni sogʻlomlashtirish, mahalla institutini darajaga olib chiqish chora-tadbirlari toʻgʻrisida”gi nechanchi sonli Farmoni muhim ahamiyat kasb etadi?",
+    "options": [
+      "PF-6782",
+      "PF-7890",
+      "PF-5937",
+      "PF-5938"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Arastuning jamiyat maʼnaviy-axloqiy muhiti asoslarini belgilashda uch muhim jihatga eʼtibor bergan, bularni  koʻrsating.",
+    "options": [
+      "Tabiiylik",
+      "Odatlilik",
+      "Aqllilik",
+      "Barcha javoblar toʻgʻri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "“Xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlar kafolatlari to'g'risida” O'zbekiston Respublikasining qonuni qachon qabul qilingan?",
+    "options": [
+      "2019 yil 2 sentyabrda",
+      "2019 yil 2 martda",
+      "2019 yil 2 dekabrda",
+      "2019 yil 2 iyun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Xotin-qizlar qo'mitasining respublika bo'yicha yagona qisqa raqamli  “Ishonch telefoni” qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+    "options": [
+      "1146",
+      "1141",
+      "1137",
+      "1124"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi qonun bilan ilk bor milliy qonunchiligimizda «gender» tushunchasiga ta'rif berilgan?",
+    "options": [
+      "“Xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlar kafolatlari to'g'risida”",
+      "”Xotin-qizlarni tazyiq va zo‘ravonlikdan himoya qilish to‘g‘risida”",
+      "”Xotin-qizlar va bolalar huquqlari, erkinliklari hamda qonuniy manfaatlarini ishonchli himoya qilish tizimi yanada takomillashtirilishi munosabati bilan O‘zbekiston Respublikasining ayrim qonun hujjatlariga o‘zgartish va qo‘shimchalar kiritish to‘g‘risida”",
+      "“Xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlar kafolatlari to'g'risida”gi qonun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O'zbekiston Respublikasi Yangilangan Konstitutsiyasining nechanchi moddasida «Xotin-qizlar va erkaklar teng huquqlidirlar», deb belgilangan?",
+    "options": [
+      "58-moddasida",
+      "46-moddasida",
+      "59-moddasida",
+      "63-moddasida"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "2019 yil 2 sentyabrda qabul qilingan O'zbekiston Respublikasi qonunining maqsadi nima?",
+    "options": [
+      "xotin-qizlarning jamiyatdagi o'rniga qaratilgan huquqiy himoya, huquqiy kafolatni ta’minlash",
+      "jamiyatda ayol va erkak o'rtasidagi tengsizlik va uni hal etish masalasi",
+      "xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlarni ta'minlash sohasidagi munosabatlarni tartibga solishdan iborat.",
+      "ayollarga nisbatan qilinayotgan zo‘ravonlik va tazyiqlarni oldini olish va ularga qarshi choralar ko‘rish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ",,Ma'naviyat\" so'zi qaysi tildan olingan?",
+    "options": [
+      "arabcha",
+      "lotincha",
+      "yunoncha",
+      "inglizcha"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ma'naviyat so'zining ma'nosi nima?",
+    "options": [
+      "ta'lim jarayoni",
+      "tarixiy",
+      "ma'nolar majmui",
+      "axloq"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": ",,Ma'naviy barkamol inson tarbiyasi\" asari muallifi kim?",
+    "options": [
+      "H. Umirov",
+      "A. Mavrulov",
+      "Q. Haydarov",
+      "M. Xoliqov"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": ",,Oilada ota-onalar ayniqsa, o'qimishli ota-onalar o'z farzandlarining haqiqiy inson bo'lib kamol topishiga alohida e'tibor berishlari lozim\"- deb kim ta'rif bergan?",
+    "options": [
+      "Ibn Sino",
+      "Alisher Navoiy",
+      "Z.M. Bobur",
+      "Mirzo Ulug'bek"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "... – shaxsda muayyan jismoniy, ruhiy, axloqiy, ma'naviy sifatlarni shakllantirishga qaratilgan amaliy pedagogik jarayon.",
+    "options": [
+      "tarbiya",
+      "ta'lim",
+      "ma'naviyat",
+      "ma'rifat"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila-mahalla-ta’lim muassasalari hamkorlikdan kо‘zlangan asosiy maqsad nima?",
+    "options": [
+      "har tomonlama rivojlangan avlodni tarbiyalashda oilalar, ota-onalar va fuqarolarning о‘zini о‘zi boshqarish organlarining tahlim muassasalari bilan hamkorlikda olib boradigan faoliyatini tizimli yо‘lga qо‘yish, farzand tarbiyasida davlat va jamoat tashkilotlari hamda jamoatchilik faolligini oshirishdir.",
+      "Voyaga yetmaganlar o‘rtasida nazoratsizlik va huquqbuzarliklarning profilaktikasi sohasidagi munosabatlarni tartibga solish.",
+      "Oilada huquqiy tarbiyani yaxshilash, oila a’zolarining o’z huquq va burchlarini anglab yetishlarini va ularga rioya qilishlarini ta’minlash.",
+      "Barcha javoblar toʻgʻri."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“G‘oyaga qarshi g‘oya, fikrga qarshi fikr, jaholatga qarshi ma’rifat” tamoyilini yoshlar ongiga singdirish, Vatanini chin dildan sevadigan, millat ravnaqini o‘ylaydigan avlod qilib shakllantirishda oila-mahalla-ta’lim muassasalari” bu fikr kimga tegishli?",
+    "options": [
+      "I.A.Karimov",
+      "Abdulla Avloniy",
+      "Mahmudxoʻja Behbudiy",
+      "Sh. M. Mirziyoyev"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "1)Ota-onalarning farzandlar tarbiyasidagi o‘rni, konstitutsion majburiyati va masʼuliyatini oshirish.",
+    "options": [
+      "2,5,6",
+      "1,2,3",
+      "3,5,6",
+      "1,5,6"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Toʻgʻri hukmni aniqlang?",
+    "options": [
+      "Oila-mahalla-taʼlim muassasalari hamkorligdagi asosiy vazifalaridan biri o‘quvchi yoshlarda kelgusi oilaviy hayot, mahalla va jamiyatdagi o‘zaro munosabatlarning asosiy ko‘nikmalarini shakllantirish.",
+      "Oʻqtuvchining vazifasi“Ota-onalar universiteti” faoliyatini kuchaytirish.",
+      "O’quvchilarni tarbiyalashda mahallaning vazifalaridan biri bufarzandlariga chuqur dunyoviy bilim asoslarini berish, ma’rifatli va ma’naviyatli kishilar bo’lib yetishishlarini ta’minlash.",
+      "Toʻgʻri javob yoʻq."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Voyaga yetmagan bolalarning ota-onalari yoki qonuniy vakillari bolaning qonuniy huquqlari va manfaatlarini himoya qilishlari shart hamda ularning tarbiyasi,   qo‘yilgan.ʼʼ quyidagi qonun yoki modda qaysi hujjatda qayt etilgan?",
+    "options": [
+      "“Voyaga yetmaganlar о‘rtasida nazoratsizlik va huquqbuzarliklarning profilaktikasi tо‘g‘risidagi” qonunda",
+      "Oʻzbekiston Respublikasi Yangi Tahrirdagi Konstitutsiyasida",
+      "“Kadrlar tayyorlash milliy dasturi”da",
+      "Oʻzbekiston Respublikasi Yoshlarga Oid Siyosati Konsepsiyasida."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oila bilan aloqa qilishning eng samarali shakllaridan biri ... .",
+    "options": [
+      "Ota-onalar sinf majlisini o’tkazish",
+      "Ota-onalarni maktabga chaqirish",
+      "O‘quvchilarning uylariga borish",
+      "O‘quvchining mahallasiga borish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ishning qaysi shakli sinf o’quvchilarning xususiyati, xarakterini yaxshiroq o’zlashtirish imkonini beradi?",
+    "options": [
+      "Ota-onalarning tarbiya borasidagi ilg’or tajribalar bilan fikr almashish, o’rtoqlashish",
+      "Ota-onalar bilan ishlash",
+      "Savol-javoblar kechasi",
+      "O‘quvchilar bilan individual suhbat olib borish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "«Tarbiya san’ati, degan edi u, - shunday xususiyatga egaki, deyarli barchaga tanish va tushunarli, ba’zilarga esa juda oson ish bo’lib tuyuladi — odam bu ish bilan nazariy va amaliy quydagi qiyinchiliklari va xatolarini ajratib ko’rsatish mumkin\".",
+    "options": [
+      "K. D. Ushinskiy",
+      "Pestalotsi",
+      "Ya.A.Komenskiy",
+      "Gerbert"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quyidagilardan qaysi biri ota-onalar bilan ishlashning shakllariga mansub emas?",
+    "options": [
+      "kognitiv",
+      "axborot-tahliliy",
+      "kommunikativ",
+      "interfaol"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota-onalar bilan aloqa qiladigan birinchi ta'lim muassasasi qaysi?",
+    "options": [
+      "Maktabgacha taʼlim muassasasi",
+      "Yuqori sinf oʻquvchilari",
+      "Boshlangʻich taʼlim oʻquvchilari",
+      "Mahalla"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": ",,Yosh oshdi'' tantanasi hisoblangan bayramni ko'rsating?",
+    "options": [
+      "Navro‘z",
+      "Mehrjon",
+      "Hayit",
+      "Tug'ilgan kun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Toshkentda ,,Aqiqa'' degan Marosim farzand necha kunlik davrida o’tkaziladi?",
+    "options": [
+      "7,11,15,33 kunlik",
+      "7,9,11,13 kunlik",
+      "7,14,21,28 kunlik",
+      "7,21,40 kunlik"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Inson hayotidagi muhim voqealarni nishonlashga qaratilgan rasmiy va ruhiy ko’tarinkilik vaziyatida o‘tadigan tartib qoidalarga amal qilinadigan tadbirni ko'rsating?",
+    "options": [
+      "Marosim",
+      "An'ana",
+      "Urf-odat",
+      "To‘y"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qadimiy odatlarni o‘rganishda qaysi kitob qadimiy manba hisoblanadi?",
+    "options": [
+      "Qur'oni Karim",
+      "Qobusnoma",
+      "Turkiy guliston yuxud axloq",
+      "Avesto"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oilaviy tartibotning tashqi ko‘rinishi – o‘zboshimchalik bilan ish tutish ham, g'azab ham, baqiriq-chaqiriq ham, iltijo, balki osoyishtalik, jiddiylik va ishbilarmonlik bilan qilingan farmoyishdan iborat bo‘lmog'i kerak. Ushbu fikr kimga taalluqli?",
+    "options": [
+      "J. Santayana",
+      "A.S.Makarenko",
+      "Lev Tolstoy",
+      "Shekspir"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Oilaviy-huquqiy munosabatlarni tartibga solib, oila aʼzolari (yaʼni, er-xotinlar, ota-onalar, bolalar, shuningdek, farzandlikka oluvchilar va farzandlikka olinuvchilar soluvchi va mustahkamlovchi qonun hujjati bu - …?",
+    "options": [
+      "Konstitutsiya",
+      "Bola huquqlari konvensiyasi",
+      "Oliy majlis hamda Vazirlar Mahkamasining Oila va mahalla to‘g‘risidagi bir qator hujjati",
+      "Oila kodeksi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Kishilar o‘rtasidagi o‘zaro muloqot qanday fanlarning asosiy kategoriyalaridan biri hisoblanadi?",
+    "options": [
+      "Ijtimoiy - pedagogik",
+      "Pedagogik-psixologik",
+      "Ijtimoiy-psixologik",
+      "Umumiy psixologik"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Abdulla Avloniyning \"Turkiy Guliston yohud axloq\" asarida oilaviy tarbiya qanday ahamiyatga ega?",
+    "options": [
+      "Tarbiya faqat maktabda amalga oshiriladi",
+      "Oilaviy tarbiya inson shaxsini shakllantirishda muhim rol o'ynaydi",
+      "Tarbiya faqat jamiyat tomonidan berilishi kerak",
+      "Oilaviy tarbiya muhim emas"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Avloniyning fikricha, oilaviy tarbiyada qaysi jihatlar ustuvor bo'lishi kerak?",
+    "options": [
+      "Moddiy boylik va jismoniy kuch",
+      "Ma'naviy qadriyatlar va axloqiy fazilatlar",
+      "Siyosiy qarashlar va iqtisodiy barqarorlik",
+      "San'at va madaniyat"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"Turkiy Guliston yohud axloq\" asarida oilaviy tarbiya bilan bog'liq qaysi masalalar ko'tarilgan?",
+    "options": [
+      "Farzandlarni jismoniy jihatdan tarbiyalash",
+      "Farzandlarni kasb-hunarga yo'naltirish",
+      "Farzandlarni axloqiy-ruhiy jihatdan tarbiyalash",
+      "Farzandlarni ilmiy bilimlar bilan qurollantirish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Turkiy Guliston yohud axloq\" asarida nechta maqolat jamlangan?",
+    "options": [
+      "20",
+      "33",
+      "54",
+      "21"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Avloniyning asarida yomon xulqlar qaysi qismda bayon qilingan?",
+    "options": [
+      "Birinchi qism",
+      "Ikkinchi qism",
+      "Uchinchi qism",
+      "To'rtinchi qism"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Shayx Muhammad Sodiq Muhammad Yusuf qachon va kim tomonidan \"Oliy darajali Imom Buxoriy\" nomidagi orden bilan taqdirlanganlar?",
+    "options": [
+      "2017-yil 26-iyun Sh.Mirziyoyev",
+      "2015-yil 25-iyun I.Karimov",
+      "2023-yil 27-iyun Sh.Mirziyoyev",
+      "2014-yil 27-iyun I. Karimov"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Nechanchi yillar oraligʻida Muhammad Sodiq Muhammad Yusuf 30 ga yaqin mashhur maqola va 25 ta kitob va risolalarni nashr etganlar?",
+    "options": [
+      "1991-yildan 2001-yilgacha",
+      "1990-yildan 2000-yilgacha",
+      "1995-yildan 2010-yilgacha",
+      "1994-yildan 2000-yilgacha"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Shayx kimga musulmonlar huquqlari muammolari tushuntirib berilgan hisobotni taqdim etganlar?",
+    "options": [
+      "SSSR prezidenti M.Gorbachev",
+      "Oʻzbekiston prezidenti I.Karimov",
+      "I.V.Stalin",
+      "SSR prezidenti L.I.Brejnev"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qurʼoni Karimning oʻzbek tiliga semantik tarjimasini amalga oshirgan olim kim?",
+    "options": [
+      "Imom al-Buxoriy",
+      "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "Shayx Alouddin Mansur",
+      "Abdulaziz Mansur"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muhammad Sodiq Muhammad Yusuf oʻrta maktabni tamomlagach, qaysi oliygohda tahsil oladilar?",
+    "options": [
+      "Buxorodagi Mir Arab madrasasi",
+      "Toshkent islom instituti",
+      "Tripolidagi Da'wa Islomia universiteti",
+      "Imom Buxoriy nomidagi Oliy islom instituti"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qayerdagi ayrim «o'ta liberallar» milliy urf-odat, an’nalar demokratiyaga zid?",
+    "options": [
+      "sharq",
+      "janub",
+      "gʻarb",
+      "shimol"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "“Agar biz bolalarimizni jahondagi tengdoshlari bilan intellektual, ma’naviy raqobatga tayyorlamasak, ular ojiz bo‘lib qoladilar. Bu kimning fikri?",
+    "options": [
+      "Ushinskiy",
+      "Komenskiy",
+      "Latipov",
+      "Quronov"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Kimning ta’kidlashicha “Inson kapitali bu – odamning o‘ziga va mamlakatiga, butun xalqiga foyda keltirish yo‘lidagi tayyorgarligidir?",
+    "options": [
+      "Ushinskiy",
+      "Komenskiy",
+      "Latipov",
+      "Quronov"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Nima oilaning tabiiy va ijtimoiy ehtiyojlari asosida vujudga kelgan, avloddan-avlodga meros bo‘lib o‘tadigan, oila a’zolari ma’naviy shakllanishiga ta’sir ko‘rsatadigan ijtimoiy-madaniy hodisasi hisoblanadi?",
+    "options": [
+      "sovchilik",
+      "oilaviy anʼanalar",
+      "inson kapitali",
+      "urf-odatlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "«Oila men uchun muqaddas. Muqaddasligi shuki, avvalombor qayerda ishlashidan qat'i nazar, kim bo'lishidan qat'i nazar agar oilada tarbiya, oilada muhit,  Har bir nevaramning alohida xarakterini bilaman, orzusini, istagini bilaman. Ushbu jumla kimga tegishli?",
+    "options": [
+      "Sh.Mirziyoyev",
+      "I.Karimov",
+      "Sh. Rashidov",
+      "A. Avloniy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qiz bola tarbiyasida eng muhim jihatlardan biri nima hisoblanadi?",
+    "options": [
+      "Ko‘p ish buyurish",
+      "Yaxshi kiyinishni o‘rgatish",
+      "Axloqiy va madaniy qadriyatlarni singdirish",
+      "Mustaqil yashashni o‘rgatish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qiz bola tarbiyasida onaning roli qanday?",
+    "options": [
+      "Ikkinchi darajali hisoblanadi",
+      "Faqat oziqlantirish bilan cheklanadi",
+      "Asosiy tarbiyachi sifatida muhim o‘rin tutadi",
+      "Hech qanday ahamiyatga ega emas"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qiz bolalarni oilaviy hayotga tayyorlashda nimalarga e’tibor berish lozim?",
+    "options": [
+      "Faqat uy ishlari",
+      "Moliyaviy mustaqillik",
+      "Ijtimoiy tarmoqlardan foydalanish",
+      "Axloqiy, psixologik va ma’naviy tarbiyaga"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Abdulla Avloniy fikricha, oilada farzand tarbiyasi nimaga asoslanmog‘i lozim?",
+    "options": [
+      "Jazoga",
+      "Ma’naviy va axloqiy qadriyatlarga",
+      "Faoliyati orqali baholashga",
+      "Faqat maktab tarbiyasiga"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Turkiy guliston yohud axloq” asarida Avloniy ota-onaning farzand tarbiyasidagi vazifasini qanday ta’riflaydi?",
+    "options": [
+      "Faqat moddiy ta’minot bilan cheklangan",
+      "Farzandni mustaqil hayotga tayyorlash",
+      "O‘qituvchining vazifasini almashtirish",
+      "Jismoniy kuch bilan boshqarish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Turkiy guliston yohud axloq” asarida qanday fikr ilgari suriladi: «Farzand tarbiyasi qanday davrdan boshlanishi kerak?»",
+    "options": [
+      "O‘smirlikdan",
+      "Maktabga borgach",
+      "Go‘daklikdan",
+      "Balog‘at yoshidan"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Obiddin Mahmudovning asari to'g'ri ko'rsatilgan qatorni toping.",
+    "options": [
+      "Iymon",
+      "Baxtiyor oila",
+      "Turkiy Guliston yoxud axloq",
+      "Umr hikmati saodati."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Muhammad Yusuf qachon qayerda tug'ilgan?",
+    "options": [
+      "1954- yil 26- aprel Andijon viloyati",
+      "1965- yil 25- aprel Andijon viloyati",
+      "1952- yil 27- aprel Andijon viloyati",
+      "1960- yil 13- aprel Andijon viloyati"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Insonga yaxshi odat va fazilatlar hosil qilishga nima yordam beradi?",
+    "options": [
+      "Odob",
+      "Tarbiya",
+      "Xulq",
+      "Axloq"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Inson tugʻilgan kundanoq tarbiyaga muhtojdir, uning ilk tarbiyachilari, albatta ota-onalaridir. Bu fikr kimga tegishli?",
+    "options": [
+      "Forobiy",
+      "Mirzo Ulugʻbek",
+      "Navoiy",
+      "Berdaq"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bolaning baxti, kelajagi uchun zamin yaratuvchi omil bu - ?",
+    "options": [
+      "Jamiyat",
+      "Oila",
+      "Maktab",
+      "Tashqi muhit"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"Oila tarbiyasida ota ham ona ham teng huquqli\" bu fikr muallifi kim?",
+    "options": [
+      "Davoniy",
+      "Avloniy",
+      "Forobiy",
+      "Koshifiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\"Oilada asosiy tayanch otadir\" bu fikrni kim aytgan?",
+    "options": [
+      "Sheroziy",
+      "Koshifiy",
+      "Davoniy",
+      "Forobiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Muhammad Sodiq Muhammad Yusuf qanchadan ortiq kitob va tarjimalar nashr ettirgan?",
+    "options": [
+      "100 dan ortiq.",
+      "200 dan ortiq.",
+      "150 dan ortiq.",
+      "50 dan ortiq."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Shayx Muhammad Sodiq Muhammad Yusufning. \"Ijtimoiy odoblar'' asari O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Din ishlar qo‘mitasining nechanchi yilda 03-07/5982-raqamli tavsiyasi ila chop etildi?",
+    "options": [
+      "2022-yil 22-iyul",
+      "2023-yil 12-iyul",
+      "2023-yil 22-iyun",
+      "2023-yil 15-iyun."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qiz bolalar uchun eng zarur tarbiya turi qaysi?",
+    "options": [
+      "Texnik",
+      "Ma’naviy-axloqiy",
+      "Jismoniy",
+      "Harbiy"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qiz bola tarbiyasida asosiy maqsad nima?",
+    "options": [
+      "Faol sportchi bo‘lishi",
+      "Yaxshi kasb egasi bo‘lishi",
+      "Jamiyatda o‘z o‘rnini topgan, odobli, vatanparvar inson bo‘lishi",
+      "Mashhur bo‘lish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qiz bolada qanday fazilatlar bo‘lishi muhim?",
+    "options": [
+      "O‘ziga ishonch, muloyimlik, halollik",
+      "Jahldorlik, mustaqillik, shaxsiyat",
+      "Qat'iylik, buyruq berish, nazorat",
+      "Faollik, ko‘pchilikka ergashish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Otaning oʻgʻil bolasining tarbiyasidagi asosiy vazifasi nimadan iborat?",
+    "options": [
+      "Uy ishlarini bajarishga oʻrgatish",
+      "Moliyaviy ta'minot bilan shugʻullanish",
+      "Axloqiy-ruhiy, ijtimoiy mas'uliyatni singdirish",
+      "Darslarini tekshirib turish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Quyidagilardan qaysi biri otaning tarbiyaviy faoliyatining samaradorligini oshiradi?",
+    "options": [
+      "Doimiy nazorat va tanbeh",
+      "Muhokama va jazo choralarini kuchaytirish",
+      "Shaxsiy namuna va mehr-muhabbat",
+      "Har qanday masalada cheklovlar joriy etish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota oʻgʻil bilan qanday aloqa uslubida muloqot qilsa, tarbiya samaraliroq boʻladi?",
+    "options": [
+      "Buyruqbozlik uslubida",
+      "Doʻstona, ochiq muloqot asosida",
+      "Tanqidiy munosabatda",
+      "Sovuqqonlik bilan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ota oʻz oʻgʻliga mas'uliyat hissini qachon singdira boshlashi kerak?",
+    "options": [
+      "Oʻgʻil maktabni tugatgach",
+      "Oʻgʻil 10 yoshga yetgach",
+      "Ilk yoshligidan boshlab",
+      "Voyaga yetganidan soʻng"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota tomonidan koʻrsatilgan qanday xatti-harakat oʻgʻil bolaning shaxsiy rivojiga salbiy ta'sir koʻrsatadi?",
+    "options": [
+      "Mehnatga oʻrgatish",
+      "Faol tinglash",
+      "Doimiy tanqid qilish va solishtirish",
+      "Birga sport bilan shugʻullanish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota oʻgʻlining jamiyatdagi oʻrnini anglashiga qanday yoʻl bilan yordam bera oladi?",
+    "options": [
+      "Doʻstlari bilan suhbatga ruxsat bermay",
+      "Faqat oʻz qarashlarini majburlab qabul qildirish",
+      "Ijtimoiy faoliyatlarga jalb etish, mustaqil fikrga yoʻl ochish",
+      "Uni oilaviy tadbirlardan chetda qoldirish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Oʻgʻil bolaga erkaklik fazilatlarini singdirishda otaning roli qanday ifodalanadi?",
+    "options": [
+      "Xavfsizlikni ta'minlash bilan",
+      "Kuch ishlatish orqali tarbiya berish",
+      "Oʻz shaxsiy fazilatlari bilan namuna boʻlish",
+      "Faqat moliyaviy ko‘mak berish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota bilan oʻgʻil oʻrtasidagi sogʻlom muloqot natijasida qanday jihatlar shakllanadi?",
+    "options": [
+      "Qo‘rquv va itoatkorlik",
+      "Sovuqlik va befarqlik",
+      "O‘zaro hurmat, ishonch va mas’uliyat",
+      "Jahl va qarshilik"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota oʻz oʻgʻlini qanday faoliyatga jalb etishi tarbiya uchun foydali hisoblanadi?",
+    "options": [
+      "Faol sport va jamoaviy ishlar",
+      "Televizor koʻrishga undash",
+      "Ko‘proq uyda yolg‘iz qolishga ruxsat berish",
+      "Internetda uzoq vaqt vaqt oʻtkazishga ragʻbatlantirish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ota tomonidan berilgan qanday tarbiya oʻgʻil bolaning mustaqil qaror qabul qilishiga yordam beradi?",
+    "options": [
+      "Har bir qarorini oʻrniga hal qilib berish",
+      "Javobgarlikni boshqa a’zolarga yuklash",
+      "Tanqidiy fikrlashga undovchi, ishonchli qo‘llab-quvvatlash",
+      "Qattiq nazoratda ushlash"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Tursunoy Sodiqova qachon va qayerda tug’ilgan?",
+    "options": [
+      "1944 yil 24 martda Andijon shahrida",
+      "1945 yil 24 mayda Andijon shahrida",
+      "1954 yil 4 aprelda Farg’ona shahrida",
+      "1944 yil 14 yanvarda Marhamat tumanida"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Tursunoy Sodiqovaning ilk she’riy to’plami qanday nomlanadi?",
+    "options": [
+      "Gul fasli",
+      "Kuy",
+      "Iqbol",
+      "Dil gavhari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "”O’g’lim, qizim, senga aytaman” asari muallifi kim?",
+    "options": [
+      "Marhabo Karimova",
+      "Tursunoy Sodiqova",
+      "Muhammad Yusuf",
+      "Shayx Muhammad Sodiq Muhammad Yusuf"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "1957 yil 26 fevralda tug’ilgan o’zbek shoirasi kim?",
+    "options": [
+      "Tursunoy Sodiqova",
+      "Nazira as-Salom",
+      "Marhabo Karimova",
+      "Zulfiya Mo’minova"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Bobo va nabira suhbati aks etgan “Kechikish” she’ri kimning qalamiga mansub?",
+    "options": [
+      "Tursunoy Sodiqova",
+      "Nazira as-Salom",
+      "Marhabo Karimova",
+      "Muhammad Yusuf"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Quyidagilardan qaysi biri Marhabo Karimova tomonidan yozilgan?",
+    "options": [
+      "Guldasta",
+      "Ruh to’tisi",
+      "Onamdan xat",
+      "Zaynab nolasi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’g’lim, jigargo’sham, aytginchi, nahot",
+    "options": [
+      "Tursunoy Sodiqova",
+      "Abdulla Oripov",
+      "Marhabo Karimova",
+      "Muhammad Yusuf"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Shayx Muhammad Sodiq Muhammad Yusuf asari ko’rsatilgan qatorni toping.",
+    "options": [
+      "Ijtimoiy odoblar",
+      "Kelinlik ilmi",
+      "Cho’ntagi bor daraxtlar",
+      "Lolaqizg’aldoq"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Telefon va internetdan to’g’ri foydalanish haqida qaysi asarda fikr yuritilgan?",
+    "options": [
+      "Tafsiri hilol",
+      "O’g’lim, qizim, senga aytaman",
+      "Ijtimoiy odoblar",
+      "Xalq bo’l, elim"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"O'z farzanding seni hurmat qilishi uchun sen ota-onangni hurmat qil\" fikrlar muallifi kim?",
+    "options": [
+      "Muhammad Quronov",
+      "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "Kaykovus",
+      "Tursunoy Sodiqova"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Tursunoy Sodiqovaning faoliyati bilan bog‘liq ijtimoiy-pedagogik fikrning asosiy mazmuni nimadan iborat?",
+    "options": [
+      "Oila sharoitini yaxshilash",
+      "Ayollarning ijtimoiy faolligini oshirish va tarbiyada ularning rolini ko‘rsatish",
+      "Diniy tarbiyani kuchaytirish",
+      "Bolalarni jismoniy mehnatga o‘rgatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Shayx Muhammad Sodiq Muhammad Yusufning oila haqidagi fikrlariga ko‘ra, ideal oila qanday bo‘lishi kerak?",
+    "options": [
+      "Moliyaviy barqaror bo‘lgan",
+      "Diniy bilimlar asosida qurilgan, o‘zaro hurmat va sabrga tayangan",
+      "Keng doirada qarindoshlar bilan birga yashovchi",
+      "Faqat erkak kishining boshqaruvida bo‘lgan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Marhabo Karimovaning oila pedagogikasi bo‘yicha olib borgan ilmiy ishlari asosan nimaga qaratilgan?",
+    "options": [
+      "Ota-onaning farzandlar bilan muloqoti va axloqiy tarbiyasi",
+      "Texnik bilimlarni o‘rgatish",
+      "Maktabgacha ta’limda o‘qitish metodikasi",
+      "Erta yoshdagi sport tarbiyasi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Qobusnoma” asarida farzandni qanday qilib to‘g‘ri yo‘lga solish mumkinligi haqida nima deyiladi?",
+    "options": [
+      "Qattiqqo‘l nazorat bilan",
+      "Donolik, maslahat va shaxsiy namuna orqali",
+      "Yozma qoidalar orqali",
+      "Atrofdagilarning tanqidi bilan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tursunoy Sodiqovaning ijodida ayollar obrazining oila tarbiyasiga ta’siri qanday tasvirlanadi?",
+    "options": [
+      "Ayol faqat uy ishlari bilan shug‘ullanishi kerak",
+      "Ayol – tarbiyaning faqat ikkinchi darajali ishtirokchisi",
+      "Ayol – farzand tarbiyasining markaziy va kuchli tayanchi",
+      "Ayollar tarbiyada unchalik muhim emas"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Muhammad Yusufning “Ko‘ksimda yuragim – O‘zbekiston” she’ridagi tarbiyaviy asos nima?",
+    "options": [
+      "Milliy g‘urur va vatanparvarlik",
+      "Diniy sabr-toqat",
+      "Jismoniy chiniqish",
+      "Ota-onaga itoat"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Shayx Muhammad Sodiq Muhammad Yusuf asarlarida qanday tarbiya uslubi ustuvor hisoblanadi?",
+    "options": [
+      "Jazoga asoslangan tarbiya",
+      "Rag‘bat, nasihat va namuna orqali tarbiya",
+      "Qattiq nazorat",
+      "Harbiy intizom"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Marhabo Karimovaning fikricha, zamonaviy oilada farzand tarbiyasi qanday bo‘lishi kerak?",
+    "options": [
+      "Mustaqil o‘ziga tashlab qo‘yilgan",
+      "Faqat maktabga yuklangan",
+      "Oila bilan maktab hamkorligida, axloqiy va hissiy jihatdan uyg‘un tarzda",
+      "Faqat diniy asosda"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Baxtiyor oila\" asari kimning qalamiga mansub?",
+    "options": [
+      "Marhabo Karimova",
+      "Tursunoy Sodiqova",
+      "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "Muhammad Quronov"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ota-onaning obro‘si shaxslararo muloqotda hal qiluvchi, yetakchi rol o‘ynaydi. Shaxslararo teng huquqlilik, erkin xatti-harakat qilish, Bu qanday oila turiga kiradi?",
+    "options": [
+      "Demokratik oila",
+      "Liberal oila",
+      "Asotsial oila",
+      "Avtoritar oila"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "O‘quvchilar, kollej va litseylarning qizlariga tushuntirishimiz, kasalliklarning oldini olib, qizlarni sog‘lom onalikka tayyorlash kerak. Bu nechanchi yildagi qaror mazmunida ilgari surilgan?",
+    "options": [
+      "2005-yil dekabr",
+      "2003-yil sentabr",
+      "2024-yil may",
+      "2003-yil avgust"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Muloqot so'zining ma'nosi nima va qaysi tildan olingan?",
+    "options": [
+      "yunoncha suhbatlashuv, shaxslararo suhbat",
+      "lotincha tinglab tushunish",
+      "arabcha suhbatni davom ettirish",
+      "yunoncha tinglab tushunish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Muhammad Quronovning fikricha bir kitobni farzandingizga necha minut davomida o'qib berishingiz joizligi aytilgan?",
+    "options": [
+      "30 minut",
+      "45 minut",
+      "20 minut",
+      "1 soat"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "\"Izlay-izlay topganim\" to'plamining muallifi kim?",
+    "options": [
+      "Marhabo Karimova",
+      "Tursunoy Sodiqova",
+      "Muhammad Yusuf",
+      "Muhammad Quronov"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muhammad Quronovning fikrlariga ko'ra kitobni o'qib berishdan avval necha kun tayyorlanish kerak?",
+    "options": [
+      "3 kun",
+      "1 kun",
+      "5 soat",
+      "1 hafta"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Quyidagi asarlardan qaysi biri Tursunoy Sodiqovaga tegishli emas?",
+    "options": [
+      "Kelin bo‘lish ilmi",
+      "O‘g‘lim, senga aytaman",
+      "Qaynonalik ilmi",
+      "Qorako‘z sheʼrlari"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tursunoy Sodiqova qanday unvonga sazovor bo‘lgan?",
+    "options": [
+      "Xalq shoiri",
+      "Xalq o‘qituvchisi",
+      "O‘zbekiston xalq yozuvchisi",
+      "Xizmat ko‘rsatgan madaniyat xodimi"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Tursunoy Sodiqovaning asarlarida asosan qanday mavzular ko‘tarilgan?",
+    "options": [
+      "Siyosiy voqealar",
+      "Ilmiy fanlar",
+      "Axloqiy tarbiya, ayollik, oila",
+      "Sport va sog‘lom turmush"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Marhabo Karimova qayerda tug‘ilgan?",
+    "options": [
+      "Toshkent",
+      "Andijon",
+      "Quva tumani, Farg‘ona",
+      "Qarshi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Marhabo Karimovaning turmush o‘rtog‘i kim?",
+    "options": [
+      "Muhammad Yusuf",
+      "Abdulla Oripov",
+      "Abdulhay Karimov",
+      "Komil Yashin"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Marhabo Karimova qanday mukofot bilan taqdirlangan?",
+    "options": [
+      "“Shuhrat” medali",
+      "“Do‘stlik” ordeni",
+      "“El-yurt hurmati”",
+      "“Buyuk xizmatlari uchun”"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Marhabo Karimovaning ijodida qanday mavzular ustuvor?",
+    "options": [
+      "Falsafa va siyosat",
+      "Sevgi, mehr, oila",
+      "Ilmiy tahlil",
+      "Tarixiy romanlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sodda va xalqona tilda bitilgan samimiy she'rlar bilan millionlab muxlislar qalbini zabt etgan shoir?",
+    "options": [
+      "Muhammad Quronov",
+      "Muhammad To'laganov",
+      "Muhammad Yusuf",
+      "Muhammad Yunus"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qolsam alam ichra zamonda,",
+    "options": [
+      "Marhabo Karimova",
+      "Muhammad Quronov",
+      "Tursunoy Sodiqova",
+      "Muhammad Yusuf"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Said Ahmadning  \"Ufq\" asarda yoshlar va kattalar o‘rtasidagi munosabatlar qanday tarbiyaviy xulosa beradi?\"",
+    "options": [
+      "Avlodlar o‘rtasidagi uzilish muqarrar va ijobiydir",
+      "Har bir avlod mustaqil yashashga haqli",
+      "Avlodlararo tushunmovchiliklar sabr va muloqot orqali bartaraf etilishi mumkin",
+      "Yoshlarga to‘liq erkinlik berish kerak"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "\"Ufq\" romanida ona obrazi orqali qanday tarbiyaviy qadriyat ilgari suriladi?",
+    "options": [
+      "Ayol har doim jim turishi kerak",
+      "Ona – faqat uy ishlariga mas’ul shaxsdir",
+      "Ona – oila mehrini birlashtiruvchi, axloqiy ustunlikni saqlovchi tayanchdir",
+      "Ayollar jamiyat ishlariga aralashmasligi kerak"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Farzand tarbiyasida eng muhim jihat sifatida \"Ufq\" asarida nima ko‘rsatilgan?",
+    "options": [
+      "Qattiqqo‘llik",
+      "Mustaqil qaror qabul qilishga o‘rgatish",
+      "Boylik to‘plash",
+      "Chet elda o‘qish imkoniyatini yaratish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Qobusnoma”da o‘g‘il bola tarbiyasida eng muhim jihatlardan biri sifatida nima ko‘rsatilgan?",
+    "options": [
+      "Jaholatga qarshi kurashish",
+      "Jismoniy kuchni ustuvor qo‘yish",
+      "Axloq, aql va ilmdan ajralmaslik",
+      "Faqat amaldor bo‘lishga intilish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Muhammad Yusuf she’rlarida oila va tarbiya masalasi qanday ifodalanadi?",
+    "options": [
+      "Avlodlar orasidagi zidlikni keskin tanqid qiladi",
+      "Milliy tarbiya asoslarini ulug‘laydi",
+      "Faqat diniy tarbiya tarafdoridir",
+      "Tarbiyaga kam e’tibor beradi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Marhabo Karimova nazariyasiga ko‘ra, o‘g‘il bolalar tarbiyasida asosiy e’tibor nimalarga qaratilishi lozim?",
+    "options": [
+      "Rahm-shafqat va estetik tarbiya",
+      "Milliy qadriyatlar, erkaklik mas’uliyati va yetakchilik ruhini shakllantirish",
+      "Tezroq mustaqil yashashga undash",
+      "Asosan jismoniy mehnat va bardavonlik"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tursunoy Sodiqova qarashlariga ko‘ra, qiz bola tarbiyasida eng muhim jihatlardan biri nima?",
+    "options": [
+      "Ijodiy erkinlik",
+      "Kasbga yo‘naltirish",
+      "Or-nomus, iffat, mehr-oqibat tuyg‘ularini shakllantirish",
+      "Ayollarning faqat uy ishlariga e’tibor qaratishlari"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "“Qobusnoma”da qiz bola tarbiyasi haqida qanday g‘oyalar ilgari suriladi?",
+    "options": [
+      "Qiz bolalar ham erkaklar bilan bir xil tarbiyalanishi kerak",
+      "Qizlar odobli, xushmuomala, sabrli va sadoqatli bo‘lishi lozim",
+      "Qizlarga faqat diniy bilimlar yetarli",
+      "Qizlarga faqat xizmat qilish o‘rgatilishi kerak"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muhammad Yusuf quyidagi qaysi unvonlar bilan taqdirlangan?",
+    "options": [
+      "Mehnat Shuhrati ordeni",
+      "El-yurt faxriysi",
+      "Do’stlik ordeni",
+      "She'riyat jonkuyari"
+    ],
+    "correct_index": 2
+  }
+]
