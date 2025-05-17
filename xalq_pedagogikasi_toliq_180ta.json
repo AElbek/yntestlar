@@ -1322,15 +1322,14 @@
     "correct_index": 0
   },
   {
-    "question": "Yaxshilik izlama sovuq kishidan, muzlagan chechakning hidi juda kam.",
+    "question": "Yaxshilik izlama sovuq kishidan, muzlagan chechakning hidi juda kam. Ushbu jumla kimga tegishli?",
     "options": [
-      "Ushbu jumla kimga tegishli?",
       "Mirzo Abdulqodir Bedil",
       "Abdulla Avloniy",
       "Alisher Navoiy",
       "Abu Nasr Forobiy"
     ],
-    "correct_index": 1
+    "correct_index": 0
   },
   {
     "question": "Deyl Kernegi qaysi uy hayvonini kun kechirish uchun ishlashi shart boʻlmagan hayvon deydi?",
