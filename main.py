@@ -9,7 +9,7 @@ from telegram import (
 )
 from telegram.ext import (
     Application, CommandHandler, PollAnswerHandler,
-    MessageHandler, filters, ContextTypes, CallbackQueryHandler
+    MessageHandler, filters, ContextTypes, CallbackQueryHandler, JobQueue
 )
 
 load_dotenv()
@@ -35,9 +35,9 @@ def load_files():
 
 load_files()
 
-poll_data = {}
-user_stats = {}
-user_states = {}
+poll_data = {}  # poll_id -> user-specific
+user_stats = {}  # user_id -> stats
+user_states = {}  # user_id -> test state
 fan_usage_counts = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -60,7 +60,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     fan_usage_counts[selected_file] = fan_usage_counts.get(selected_file, 0) + 1
 
-    # Har bir foydalanuvchi uchun savollarni aralashtirib saqlaymiz
     questions = all_questions.copy()
     random.shuffle(questions)
     delay = test_delays.get(selected_file, 15)
@@ -138,26 +137,6 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         else:
             await query.edit_message_text("❌ Fayl topilmadi.")
 
-    elif data.startswith("continue:") or data.startswith("stop:"):
-        _, uid = data.split(":")
-        if int(uid) != user_id:
-            await query.answer("⛔ Bu siz uchun emas.", show_alert=True)
-            return
-
-        state = user_states.get(user_id)
-        if not state:
-            await query.answer("⛔ Sizda faollashtirilgan test yo‘q.", show_alert=True)
-            return
-
-        if data.startswith("continue:"):
-            await query.edit_message_text("✅ Test davom etmoqda.")
-            user_states[user_id]["index"] += 1
-            await send_quiz(query.message.chat_id, user_id, context)
-
-        else:  # stop:
-            await query.edit_message_text("⛔ Test to‘xtatildi.")
-            user_states[user_id]["active"] = False
-
 async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     state = user_states.get(user_id)
     if not state or not state.get("active"):
@@ -193,7 +172,6 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
         "question": question,
         "chat_id": chat_id,
         "user_id": user_id,
-        "answered_users": set(),
         "correct_index": new_correct_index
     }
 
@@ -210,16 +188,6 @@ async def send_next_question_auto(context: ContextTypes.DEFAULT_TYPE):
     chat_id = data["chat_id"]
     user_id = data["user_id"]
 
-    # Foydalanuvchi javob bermagan bo‘lsa
-    if poll_id in poll_data and user_id not in poll_data[poll_id]["answered_users"]:
-        keyboard = InlineKeyboardMarkup([[ 
-            InlineKeyboardButton("✅ Davom ettirish", callback_data=f"continue:{user_id}"),
-            InlineKeyboardButton("❌ To‘xtatish", callback_data=f"stop:{user_id}")
-        ]])
-        await context.bot.send_message(chat_id, "⏰ Siz bu savolga javob bermadingiz.\nDavom etamizmi?", reply_markup=keyboard)
-        return
-
-    # Agar foydalanuvchi testni tugatgan bo‘lsa yoki faollashtirilmagan bo‘lsa, qaytish
     if user_id not in user_states or not user_states[user_id].get("active", False):
         return
 
@@ -236,14 +204,8 @@ async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE
 
     data = poll_data[poll_id]
 
-    # Faqat poll yaratgan foydalanuvchi javobini qabul qilish uchun:
     if data["user_id"] != user_id:
-        return
-
-    if user_id in data["answered_users"]:
-        return
-
-    data["answered_users"].add(user_id)
+        return  # Faqat o'zining javobi
 
     if user_id not in user_stats:
         user_stats[user_id] = {
