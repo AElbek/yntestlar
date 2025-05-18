@@ -4,20 +4,16 @@ import asyncio
 import os
 from dotenv import load_dotenv
 from telegram.constants import ParseMode
-from telegram import (
-    Update, Poll, InlineKeyboardMarkup, InlineKeyboardButton
-)
+from telegram import Update, Poll, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import (
     Application, CommandHandler, PollAnswerHandler,
     MessageHandler, filters, ContextTypes, CallbackQueryHandler
 )
 
-# ⬇️ Token va admin ID'larni .env faylidan olish
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_IDS = list(map(int, os.getenv("ADMIN_IDS", "").split(",")))
 
-# 📁 Test fayllar va kechikishlar
 test_files = {}
 test_delays = {}
 
@@ -37,12 +33,11 @@ def load_files():
 
 load_files()
 
-# 📊 Foydalanuvchi holatlari
 poll_data = {}
 user_stats = {}
 user_states = {}
 
-# 🟢 /start
+# /start komandasi
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     state = user_states.get(user_id, {})
@@ -74,7 +69,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(f"🧠 Test boshlandi! Har bir savoldan so‘ng {delay} soniya kutiladi.")
     await send_quiz(update.effective_chat.id, user_id, context)
 
-# ⛔ /stop
+# /stop komandasi
 async def stop(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     state = user_states.get(user_id, {})
@@ -96,7 +91,7 @@ async def stop(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(f"✅ Test yakunlandi.\n📊 Natija: {correct}/{total} — {percent}%")
     user_states.pop(user_id, None)
 
-# 📚 /topics
+# /topics komandasi
 async def topics(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not test_files:
         await update.message.reply_text("❗ Hech qanday test fayli topilmadi.")
@@ -109,7 +104,7 @@ async def topics(update: Update, context: ContextTypes.DEFAULT_TYPE):
     markup = InlineKeyboardMarkup(buttons)
     await update.message.reply_text("📚 Fanni tanlang:", reply_markup=markup)
 
-# 🔁 /reload
+# /reload komandasi
 async def reload_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
     if user_id not in ADMIN_IDS:
@@ -119,7 +114,7 @@ async def reload_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
     load_files()
     await update.message.reply_text("✅ Test va kechikish fayllari qayta yuklandi.")
 
-# 🔘 Callback
+# Callback tugmalar
 async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
@@ -135,20 +130,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         else:
             await query.edit_message_text("❌ Fayl topilmadi.")
 
-    elif data.startswith("continue:") or data.startswith("stop:"):
-        _, uid = data.split(":")
-        if int(uid) != user_id:
-            await query.answer("⛔ Bu siz uchun emas.", show_alert=True)
-            return
-        if data.startswith("continue:"):
-            await query.edit_message_text("✅ Test davom etmoqda.")
-            user_states[user_id]["index"] += 1
-            await send_quiz(query.message.chat_id, user_id, context)
-        else:
-            await query.edit_message_text("⛔ Test to‘xtatildi.")
-            user_states[user_id]["active"] = False
-
-# 📤 Savol yuborish
+# Savol yuborish funksiyasi
 async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     state = user_states.get(user_id)
     if not state or not state.get("active"):
@@ -175,8 +157,7 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     poll_data[msg.poll.id] = {
         "question": question,
         "chat_id": chat_id,
-        "user_id": user_id,
-        "answered_users": set()
+        "user_id": user_id
     }
 
     delay = test_delays.get(state["selected_file"], 15)
@@ -186,25 +167,17 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
         data={"poll_id": msg.poll.id, "chat_id": chat_id, "user_id": user_id}
     )
 
-# ⏭️ Avto-yuborish
+# Avtomatik keyingi savol
 async def send_next_question_auto(context: ContextTypes.DEFAULT_TYPE):
     data = context.job.data
-    poll_id = data["poll_id"]
-    chat_id = data["chat_id"]
     user_id = data["user_id"]
+    chat_id = data["chat_id"]
 
-    if poll_id in poll_data and user_id not in poll_data[poll_id]["answered_users"]:
-        keyboard = InlineKeyboardMarkup([[ 
-            InlineKeyboardButton("✅ Davom ettirish", callback_data=f"continue:{user_id}"),
-            InlineKeyboardButton("❌ To‘xtatish", callback_data=f"stop:{user_id}")
-        ]])
-        await context.bot.send_message(chat_id, "⏰ Siz bu savolga javob bermadingiz.\nDavom etamizmi?", reply_markup=keyboard)
-        return
+    if user_states.get(user_id, {}).get("active"):
+        user_states[user_id]["index"] += 1
+        await send_quiz(chat_id, user_id, context)
 
-    user_states[user_id]["index"] += 1
-    await send_quiz(chat_id, user_id, context)
-
-# 🧠 Poll javobi
+# Poll javobi
 async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     poll_id = update.poll_answer.poll_id
     user_id = update.poll_answer.user.id
@@ -214,16 +187,15 @@ async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE
         return
 
     data = poll_data[poll_id]
-    if user_id in data["answered_users"]:
-        return
+    if user_id != data["user_id"]:
+        return  # faqat o‘z savoliga javob bera oladi
 
-    data["answered_users"].add(user_id)
-
-    if option_ids and option_ids[0] == data["question"]["correct_index"]:
+    question = data["question"]
+    if option_ids and option_ids[0] == question["correct_index"]:
         user_stats[user_id]["correct"] += 1
     user_stats[user_id]["total"] += 1
 
-# 📈 /stat
+# /stat komandasi
 async def show_statistics(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not user_stats:
         await update.message.reply_text("⛔ Statistikalar yo‘q.")
@@ -236,7 +208,7 @@ async def show_statistics(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(msg)
 
-# 🟢 Botni ishga tushurish
+# Botni ishga tushurish
 def main():
     app = Application.builder().token(BOT_TOKEN).build()
 
