@@ -33,7 +33,7 @@ def load_files():
 
 load_files()
 
-poll_data = {}
+poll_data = {}  # user_id: poll info
 user_stats = {}
 user_states = {}
 
@@ -78,6 +78,7 @@ async def stop(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     user_states[user_id]["active"] = False
     stat = user_stats.pop(user_id, None)
+    poll_data.pop(user_id, None)
 
     if not stat:
         await update.message.reply_text("⚠️ Test statistikasi yo‘q.")
@@ -162,17 +163,17 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
     )
 
     poll_data[user_id] = {
-    "poll_id": msg.poll.id,
-    "question": question,
-    "chat_id": chat_id,
-    "user_id": user_id
+        "poll_id": msg.poll.id,
+        "question": question,
+        "chat_id": chat_id,
+        "user_id": user_id
     }
 
     delay = test_delays.get(state["selected_file"], 15)
     context.job_queue.run_once(
         send_next_question_auto,
         delay,
-        data={"poll_id": msg.poll.id, "chat_id": chat_id, "user_id": user_id}
+        data={"user_id": user_id, "chat_id": chat_id}
     )
 
 async def send_next_question_auto(context: ContextTypes.DEFAULT_TYPE):
@@ -189,12 +190,9 @@ async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE
     user_id = update.poll_answer.user.id
     option_ids = update.poll_answer.option_ids
 
-    if poll_id not in poll_data:
-        return
-
     data = poll_data.get(user_id)
-if not data or update.poll_answer.poll_id != data["poll_id"]:
-    return
+    if not data or poll_id != data["poll_id"]:
+        return
 
     question = data["question"]
     if option_ids and option_ids[0] == question["correct_index"]:
