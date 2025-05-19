@@ -1,0 +1,2052 @@
+[
+  {
+    "question": "Irsiyat nima?",
+    "options": [
+      "Organizimdagi belgi va xususiyatlarni kelgusi avlodga o’tkazilishi;",
+      "Tashqi belgilari yig’indisi;",
+      "Gistalogik belgilar.",
+      "Organizimlarning yangi belgi va xususiyatlarini namoyon qilishi;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Eng keng tarqalgan allergen bu?",
+    "options": [
+      "Astma",
+      "maishiy",
+      "Ekzogen",
+      "Chang har xil"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tuberklyoz bilan kasallanganlar orasida nech   yosh guruhi dominantlik qiladi?",
+    "options": [
+      "18-26",
+      "17 – 19;",
+      "17 - 22;",
+      "24 -25."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Saraton kasalligini labaratoriyada aniqlashda tanadagi qanday numunalar olinadi?",
+    "options": [
+      "qon ,siydik, limfa.",
+      "Barcha organlar tekshiriladi;",
+      "Turli  to’qimalardan sinamalar;",
+      "Limfa, likvor suyuqligi;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "......... nospwsifik autoimmun kasalliklar asosiy omillar immunbiologik kuzatuv sistemasi buzulishidir ?",
+    "options": [
+      "Organ;",
+      "Gliomalar;",
+      "Saraton;",
+      "Muskullar;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Saratonning qaysi turlari oʻsma paydo qilmaydi?",
+    "options": [
+      "Suyuq;",
+      "Ko’krak;",
+      "Miya",
+      "Karsinoma"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy reabilitatsiya- bu ...?",
+    "options": [
+      "Ijtimoiy tiklanish;",
+      "Darsda faqat bitta o’quvchiga alohida e’tibor bilan yondoshish;",
+      "Darsda barchaga birdek yondoshish;",
+      "Darsda ma’ruza qilish."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy adaptatsiya-bu ...?",
+    "options": [
+      "Ijtimoiy hayotga moslashish;",
+      "Faqatgina ikkita analizator faoliyaga tayanib ish ko’rish;",
+      "Barcha analizatorlar faoliyatini o’zaro bog’lash.",
+      "Bitta analizator faoliyaga tayanib ish ko’rish;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Daun sindromidagi buzilishning turi?",
+    "options": [
+      "Aqli zaiflik;",
+      "Jamiyatga moslasha olmaslik",
+      "Kо‘zi ojizlik;",
+      "Nutqning mavjud emasligi;"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "“Astma”  so’zining  ma’nosi?",
+    "options": [
+      "Bug’ilish, Hansirash;",
+      "Yo’talish;",
+      "Тerlash;",
+      "Tutqonoq."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Uzoq muddatli davolanishda boʻlgan va sogʻligʻi sababli taʼlim muassasalariga borolmaydigan bolalar uchun taʼlimni tashkil etish bilan bogʻliq boʻlgan pedagogika boʻlimi nima deyiladi?",
+    "options": [
+      "Gospital pedagogika",
+      "Umumiy pedagogika",
+      "Korrektsion pedagogika",
+      "Surdo pedagogika"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Avlodlar shajarasi klinikgenealogik usul bilan oʻrganiladi qanday kasalliklarda?",
+    "options": [
+      "Irsiy kasalliklarda",
+      "Saraton kasalligida",
+      "Qandli diabet kasalligida",
+      "Genelogik kasalliklarda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Genetik informatsiya nima?",
+    "options": [
+      "Irsiy axborot",
+      "Genetik axborot",
+      "Gendagi oʻzgarishlar",
+      "Irsiy kasalliklar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi kasallikda immunoglobin fraksiyalarining sintez  qilinishi buziladi?",
+    "options": [
+      "Bruton kasalligida",
+      "Qandli diabetda",
+      "Saraton kassaligida",
+      "Genetik kasallikda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ichki sekretsiya bezlari odam tanasining turli qismlarida joylashgan bo’lib, ularda ishlab ehiqariladigan suyuqlik nima deb ataladi?",
+    "options": [
+      "Gormon",
+      "Genetik",
+      "Irsiy",
+      "Normal"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bolalar hamda o’smirlar organizmining o’sishi va rivojlanishida, ular balog’atga yetishida, odam nasl qoldirishida muhim ahamiyatga ega organ?",
+    "options": [
+      "Ichki sekretsiya bezlari",
+      "Buyrak",
+      "Oshqozon",
+      "Jigar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ichki sekretsiya bezlarining hammasi birga qo’shilgan holda organizmning qanday sistema tashkil etadi?",
+    "options": [
+      "Endokrin",
+      "Genetik",
+      "Ovqat hazm qilish",
+      "Yurak- qon tomir"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Anomal so’zi qanday ma’noni anglatadi?",
+    "options": [
+      "Yunoncha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos so’zidan olingan.",
+      "lotincha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "Yunoncha aqli zaif  degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "lotincha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos suzidan olingan."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "«Bola huquqlari to’g’risidagi»gi Konvensiya nechanchi yilda qaysi tashkilot tomonidan qabul qilingan?",
+    "options": [
+      "YuNESKO tomonidan 1990 yilda qabul qilingan",
+      "YuNISEF  tomonidan 1992 yilda qabul qilingan",
+      "BMT tomonidan 1989 yilda qabul qilingan",
+      "BMT tomonidan 1989 yilda qabul qilingan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gospital pedagogikaga nechinchi asrda asos solingan",
+    "options": [
+      "XX",
+      "XIX",
+      "XVIII",
+      "XVI"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O’sish garmoni qaysi garmondir",
+    "options": [
+      "Somototrop",
+      "Insulin",
+      "Gonodotrop",
+      "tiroksin"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qalqonsimon bezning gormoni",
+    "options": [
+      "Tiroksin",
+      "Insulin",
+      "Gonodotrop",
+      "somototrop"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oshqozon osti bezining gormoni",
+    "options": [
+      "Insulin",
+      "Somototrop",
+      "Gonodotrop",
+      "tiroksin"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Irsiyat qonunlari birinchi marotaba kim tomonidan kashf qilindi",
+    "options": [
+      "G.Mеndеl",
+      "De.Friz",
+      "Chermak",
+      "Korrenslar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Genetika nimani o’rganadi?",
+    "options": [
+      "Irsiyat va o’zgaruvchanlikni",
+      "Genotipni",
+      "Penotipni",
+      "Belgilarni"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O`smirlarda qon ivimasligi qaysi kasallik hisoblanadi",
+    "options": [
+      "Gemofiliya",
+      "Doltonizm",
+      "Gripp",
+      "spid"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi irsiy kasallikda odamlar haydovchilik qila olmaydilar",
+    "options": [
+      "Daltonizm",
+      "Astma",
+      "Gemofiliya",
+      "Anemiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bosh miyada qaysi endokrin bezlar joylashgan",
+    "options": [
+      "Gipofiz va epifez",
+      "Qalalqonsimon bez",
+      "Jinsiy bezlar",
+      "So’lak bezlari"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Odamda nechta xromasoma bor",
+    "options": [
+      "46",
+      "56",
+      "86",
+      "100"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "DNK organizmda nima vazifa bajaradi",
+    "options": [
+      "Irsiy axborotni saqlaydi",
+      "Yog’larni parchalaydi",
+      "Ovqatni xazm qiladi",
+      "Oqsillarni parchalaydi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Angina kasalligi qaerda uchraydi",
+    "options": [
+      "Bodomcha bezlarda",
+      "Taloqda",
+      "Yurakda",
+      "Jigarda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Gripp qanday kasallik",
+    "options": [
+      "Virusli",
+      "Bakteriyali",
+      "Shamollash",
+      "yalliglanish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Glyukozuriya nima?",
+    "options": [
+      "Glyukozani siydik bilan chiqarilishi",
+      "Glyukozani qonga o’tishi",
+      "Glyukozani etishmasligi",
+      "Glyukozani ortib ketishi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Himoya vazifasini bajaruvchi xujayra",
+    "options": [
+      "Leykosit",
+      "Eritrosit",
+      "Trombosit",
+      "gepotosit"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Dunyo miqyosida oʻlimning ikkinchi darajali sababi hisoblangan kasallik bu?",
+    "options": [
+      "Saraton",
+      "Sil",
+      "Brongial astma",
+      "Qandli diabet"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Turli shaklda uchraydigan qon va suyak iligi saratonining nomi?",
+    "options": [
+      "Leykoz",
+      "Gemofiliya",
+      "Daun sindromi",
+      "Autizm"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Oʻzbekiston hududida hozirgi kunda yagona boʻlgan  -  Mehrli maktab gospital maktab qachondan oʻz faoliyatini boshlagan?",
+    "options": [
+      "2022- yil 15 – may",
+      "2021- yil 20- iyun",
+      "2022- yil  25 – may",
+      "2023- yil 14- iyun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Inson organizmidagi qaysi bez timozin gormonini ishlab chiqaradi?",
+    "options": [
+      "Ayrisimon bez",
+      "Epifiz",
+      "Qalqonsimon bez",
+      "Qalqon oldi bez"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Miya saratonining yagona isbotlangan sababi bu.....",
+    "options": [
+      "Radiatsiya",
+      "Ionlanuvchi nur",
+      "Termik omil",
+      "Irsiy omil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "\" Metod\" soʻzining maʼnosi?",
+    "options": [
+      "yunoncha \"usul\", \" yoʻl-yoʻriq\"",
+      "yunoncha \" pand nasihat\"",
+      "fransuzcha \" taʼlim berish\"",
+      "lotincha \" taʼlim berish\""
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Hujayralarning  ģayri tabiiy bòlinishi va normal tana tòqimalariga infiltratsiya tufayli qaysi kasallik yuzaga keladi",
+    "options": [
+      "Saraton",
+      "Qandli diabet",
+      "SIL",
+      "Autoimmun"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qanday bolalar anomal bolalar sanaladi?",
+    "options": [
+      "Intellektual  jihatdan kamchiliklarga ega bolalar anomal bolalar deyiladi.",
+      "Eshituv   jihatdan kamchiliklarga ega bolalar anomal bolalar deyiladi.",
+      "Zaif   ko’ruvchi bolalar  bolalar anomal bolalar deyiladi.",
+      "Ruhiy va jismoniy kamchiliklari bor bolalar anomal bolalar deyiladi."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Turli shaklda uchraydigan qon va suyak iligi saratonining nomi?",
+    "options": [
+      "Gemofiliya",
+      "Daun sindromi",
+      "Autizm",
+      "Leykoz"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Oʻsmalarni ...fani oʻrganadi?",
+    "options": [
+      "Gospital pedagogika",
+      "Defektologiya",
+      "Logopediya",
+      "Onkologiya"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Epitelial tòqimalarda  saraton mutatsiyalari uchrashi nima deb ataladi?",
+    "options": [
+      "Leykemiya",
+      "kanser",
+      "Karsinoma",
+      "Yurak parogi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Xromosomlar yoki genlardagi mutatsiyalar tufayli paydo boʻladi?",
+    "options": [
+      "Bosh miya saratoni",
+      "Jinsiy kasalliklar",
+      "Qandli diabet",
+      "Sil"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Avlodlar shajarasi klinikgenealogik usul bilan oʻrganiladi qanday kasalliklarda?",
+    "options": [
+      "Saraton kasalligida",
+      "Qandli diabet kasalligida",
+      "Genelogik kasalliklarda",
+      "Irsiy kasalliklarda"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Genetik informatsiya nima?",
+    "options": [
+      "Genetik axborot",
+      "Gendagi oʻzgarishlar",
+      "Irsiy axborot",
+      "Irsiy kasalliklar"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Qaysi kasallikda immunoglobin fraksiyalarining sintez  qilinishi buziladi?",
+    "options": [
+      "Qandli diabetda",
+      "Bruton kasalligida",
+      "Saraton kassaligida",
+      "Genetik kasallikda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ichki sekretsiya bezlari odam tanasining turli qismlarida joylashgan bo’lib, ularda ishlab ehiqariladigan suyuqlik nima deb ataladi?",
+    "options": [
+      "Gormon",
+      "Genetik",
+      "Irsiy",
+      "Normal"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Bolalar hamda o’smirlar organizmining o’sishi va rivojlanishida, ular balog’atga yetishida, odam nasl qoldirishida muhim ahamiyatga ega organ?",
+    "options": [
+      "Buyrak",
+      "Oshqozon",
+      "Jigar",
+      "Ichki sekretsiya bezlari"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Ichki sekretsiya bezlarining hammasi birga qo’shilgan holda organizmning qanday sistema tashkil etadi?",
+    "options": [
+      "Genetik",
+      "hazm qilish",
+      "Endokrin",
+      "Yurak- qon tomir"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Anomal so’zi qanday ma’noni anglatadi?",
+    "options": [
+      "Yunoncha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos so’zidan olingan.",
+      "lotincha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "Yunoncha aqli zaif  degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "lotincha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos suzidan olingan."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qanday bolalar anomal bolalar sanaladi?",
+    "options": [
+      "Intellektual  jihatdan kamchiliklarga ega bolalar anomal bolalar deyiladi.",
+      "Eshituv   jihatdan kamchiliklarga ega bolalar anomal bolalar deyiladi.",
+      "Zaif   ko’ruvchi bolalar  bolalar anomal bolalar deyiladi.",
+      "Ruhiy va jismoniy kamchiliklari bor bolalar anomal bolalar deyiladi."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Doun sindromi qanday genetik anomaliya natijasida kelib chiqadi?",
+    "options": [
+      "X xromosomasining monosomiyasi",
+      "21-xromosomaning trisomiyasi",
+      "Y xromosomasining trisomiyasi",
+      "18-xromosomaning trisomiyasi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Gemofiliya qanday irsiy kasallik hisoblanadi?",
+    "options": [
+      "Autosom-dominant",
+      "Autosom-retsessiv",
+      "X-bog'langan retsessiv",
+      "Y-bog'langan dominant"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Fenilketonuriya qanday moddalar almashinuvining buzilishi bilan bog'liq?",
+    "options": [
+      "Uglevodlar almashinuvi",
+      "Oqsillar almashinuvi",
+      "Yog'lar almashinuvi",
+      "Mineral moddalar almashinuvi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "62. Glikogenoz qanday moddalar almashinuvining buzilishi bilan bog'liq?",
+    "options": [
+      "Uglevodlar almashinuvi",
+      "Oqsillar almashinuvi",
+      "Yog'lar almashinuvi",
+      "Mineral moddalar almashinuvi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "63.Gipertireozning asosiy sababi nima?",
+    "options": [
+      "Qalqonsimon bez gormonlarining yetishmasligi",
+      "Qalqonsimon bez gormonlarining ortiqchaligi",
+      "Buyrak usti bezining yetishmasligi",
+      "Gipofiz bezining yetishmasligi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "64 Addison kasalligi qanday endokrin bezning yetishmasligi bilan bog'liq?",
+    "options": [
+      "Qalqonsimon bez",
+      "Buyrak usti bezi",
+      "Gipofiz bezi",
+      "Me'da osti bezi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "65  Saratonning asosiy sababi nima?",
+    "options": [
+      "Genetik mutatsiyalar",
+      "Virusli infeksiyalar",
+      "Kimyoviy kanserogenlar",
+      "Barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Saratonning qanday turlari mavjud?",
+    "options": [
+      "Karsinoma",
+      "Sarkoma",
+      "Leykemiya",
+      "Barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qandli diabetning qanday turlari mavjud?",
+    "options": [
+      "1-tip",
+      "2-tip",
+      "Gestatsion diabet",
+      "Barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Qandli diabetning asosiy asoratlari nimalardan iborat?",
+    "options": [
+      "Nefropatiya",
+      "Retinopatiya",
+      "Neyropatiya",
+      "Barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "69. Kasalxona pedagogikasining asosiy maqsadi nimadan iborat?",
+    "options": [
+      "Faqatgina tibbiy muolajalarni o'tkazish",
+      "Kasal bolalarga ta'lim berish va ularning psixologik holatini yaxshilash",
+      "Kasalxona xodimlariga pedagogik treninglar o'tkazish",
+      "Kasalxona ishlarini tashkil qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kasalxona pedagogi qanday fazilatlarga ega bo'lishi kerak?",
+    "options": [
+      "Faqatgina pedagogik bilimlar",
+      "Pedagogik bilimlar, tibbiy bilimlar va psixologik tushunchalar",
+      "Faqatgina tibbiy bilimlar",
+      "Faqatgina psixologik tushunchalar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "71.Kasal bolalar bilan ishlashda qanday pedagogik usullardan foydalanish mumkin?",
+    "options": [
+      "Faqatgina an'anaviy dars usullari",
+      "O'yinlar, ijodiy mashg'ulotlar, individual ta'lim",
+      "Faqatgina tibbiy muolajalar",
+      "Faqatgina nazorat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "72.Kasal bolalarning psixologik holatiga qanday omillar ta'sir qiladi?",
+    "options": [
+      "Faqatgina kasallikning og'irligi",
+      "Kasallikning og'irligi, davolanish sharoitlari, oilaviy muhit",
+      "Faqatgina davolanish sharoitlari",
+      "Faqatgina oilaviy muhit"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "73. Kasalxona pedagogikasi qanday yo'nalishlarni o'z ichiga oladi?",
+    "options": [
+      "Faqatgina ta'lim",
+      "Ta'lim, psixologik yordam, ijtimoiy moslashuv",
+      "Faqatgina psixologik yordam",
+      "Faqatgina ijtimoiy moslashuv"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "74. Kasal bolalarga ta'lim berishda qanday muammolar yuzaga kelishi mumkin?",
+    "options": [
+      "Faqatgina darsliklar yetishmasligi",
+      "Kasallikning og'irligi, bolaning diqqatini jamlay olmasligi, ta'lim olishga qiziqishning yo'qligi",
+      "Faqatgina o'qituvchilar yetishmasligi",
+      "Faqatgina o'quv xonalari yetishmasligi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "75. Kasal bolalarning oila a'zolari bilan qanday ish olib boriladi?",
+    "options": [
+      "Faqatgina tibbiy maslahatlar berish",
+      "Psixologik yordam ko'rsatish, ta'lim jarayoniga jalb qilish, oilaviy muhitni yaxshilash",
+      "Faqatgina moddiy yordam ko'rsatish",
+      "Faqatgina nazorat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "76. Kasalxona pedagogikasi qanday mutaxassislar bilan hamkorlik qiladi?",
+    "options": [
+      "Faqatgina shifokorlar",
+      "Shifokorlar, psixologlar, ijtimoiy xodimlar, o'qituvchilar",
+      "Faqatgina psixologlar",
+      "Faqatgina ijtimoiy xodimlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "77.  Kasal bolalarni ijtimoiy moslashuviga qanday yordam beriladi?",
+    "options": [
+      "Faqatgina darslar orqali",
+      "O'yinlar, ijodiy mashg'ulotlar, guruhli mashg'ulotlar orqali",
+      "Faqatgina tibbiy muolajalar orqali",
+      "Faqatgina nazorat qilish orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "78. Kasalxona pedagogikasining ahamiyati nimadan iborat?",
+    "options": [
+      "Faqatgina bolalarning bilim olishiga yordam berish",
+      "Bolalarning psixologik holatini yaxshilash, ta'lim olishiga yordam berish, ijtimoiy moslashuvini ta'minlash",
+      "Faqatgina bolalarning sog'lig'ini tiklash",
+      "Faqatgina bolalarni nazorat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "79.  Shifoxona maktabida ota-onalar bilan hamkorlik qilishning asosiy maqsadi nimadan iborat?",
+    "options": [
+      "Bolaning faqat tibbiy muolajalari haqida ma'lumot berish.",
+      "Ota-onalarni maktab hayotidan uzoqlashtirish.",
+      "Bolaning ta'lim olishiga yordam berish va psixologik holatini qo'llab-quvvatlash.",
+      "Ota-onalarning maktab faoliyatiga aralashuvini cheklash."
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "80. Shifoxona maktabida ota-onalar bilan qanday hamkorlik shakllari mavjud?",
+    "options": [
+      "Individual suhbatlar, ota-onalar yig'ilishlari, maslahatlashuvlar, treninglar",
+      "Faqatgina ota-onalar yig'ilishlari.",
+      "Faqatgina yozma xabarlar.",
+      "Faqatgina telefonda suhbatlar."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "82. Shifoxona maktabida ota-onalar bilan hamkorlik qilishda qanday pedagogik usullardan foydalanish mumkin?",
+    "options": [
+      "Suhbat, maslahat, treninglar, o'yinlar, ijodiy mashg'ulotlar.",
+      "Faqatgina ma'ruza usuli.",
+      "Faqatgina nazorat usuli.",
+      "Faqatgina yozma topshiriqlar."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "83. Shifoxona maktabida ota-onalar bilan hamkorlik qilishda qanday mutaxassislar ishtirok etadi?",
+    "options": [
+      "Faqatgina o'qituvchilar.",
+      "O'qituvchilar, psixologlar, shifokorlar, ijtimoiy xodimlar.",
+      "Faqatgina shifokorlar.",
+      "Faqatgina ijtimoiy xodimlar."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "85 Shifoxona maktabida ota-onalarni bolaning ta'lim olishiga qanday jalb qilish mumkin?",
+    "options": [
+      "Faqatgina topshiriqlar berish orqali.",
+      "Bolaning qiziqishlarini hisobga olgan holda, ijodiy mashg'ulotlar va o'yinlar orqali.",
+      "Faqatgina nazorat qilish orqali.",
+      "Faqatgina ma'ruza o'qish orqali."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "86. Shifoxona maktabida ota-onalarga qanday psixologik yordam ko'rsatiladi?",
+    "options": [
+      "Individual suhbatlar, guruhli treninglar, maslahatlashuvlar",
+      "Faqatgina tibbiy maslahatlar berish.",
+      "Faqatgina moddiy yordam ko'rsatish.",
+      "Faqatgina nazorat qilish."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "87. Shifoxona maktabida ota-onalar bilan hamkorlik qilishda qanday etik qoidalarga rioya qilish kerak?",
+    "options": [
+      "Faqatgina o'z fikrini bildirish.",
+      "Ota-onalarning shaxsiy hayotiga hurmat bilan qarash, maxfiylikni saqlash, hamkorlikka tayyor bo'lish.",
+      "Faqatgina nazorat qilish.",
+      "Faqatgina o'z manfaatlarini ko'zlash."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "88 Shifoxona maktabida ota-onalar bilan hamkorlik qilishning natijasi nimadan iborat?",
+    "options": [
+      "Faqatgina bolaning bilim olishi.",
+      "Bolaning psixologik holatining yaxshilanishi, ta'lim olishga qiziqishining ortishi, oilaviy muhitning yaxshilanishi.",
+      "Faqatgina bolaning sog'lig'ining tiklanishi.",
+      "Faqatgina ota-onalarning nazorati."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "89. Sil kasalligining qo'zg'atuvchisi qaysi mikroorganizm hisoblanadi?",
+    "options": [
+      "Streptokokklar",
+      "Stafilokokklar",
+      "Mikobakteriya tuberkulyozi (Kox tayoqchasi)",
+      "Pnevmokokklar"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "90. Sil kasalligining asosiy yuqish yo'li qaysi?",
+    "options": [
+      "Alimentar (ovqat orqali)",
+      "Kontakt-maishiy (teginish orqali)",
+      "Havo-tomchi (nafas orqali)",
+      "Transmissiv (qon so'ruvchi hasharotlar orqali)"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "91.Sil kasalligining asosiy klinik belgilari qaysilar?",
+    "options": [
+      "Yuqori tana harorati, quruq yo'tal, terlash",
+      "Yo'tal, balg'am ajralishi, qon tupurish",
+      "Umumiy holsizlik, ishtaha yo'qolishi, vazn yo'qotish",
+      "Yuqoridagi barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "92.Sil kasalligini aniqlashda qaysi diagnostik usullar qo'llaniladi?",
+    "options": [
+      "Rentgen tekshiruvi",
+      "Balg'am bakteriologik tekshiruvi",
+      "Tuberkulin sinamalari (Mantoux testi)",
+      "Yuqoridagi barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "93. Sil kasalligini davolashda qanday dori vositalari qo'llaniladi?",
+    "options": [
+      "Antibiotiklar",
+      "Virusga qarshi preparatlar",
+      "Tuberkulyozga qarshi preparatlar",
+      "Antigistamin preparatlar"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "94. Bronxial astma kasalligining asosiy sababi nima?",
+    "options": [
+      "Bakterial infeksiya",
+      "Virusli infeksiya",
+      "Allergiya",
+      "Yuqoridagi barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "95. Bronxial astma xuruji qanday belgilar bilan kechadi?",
+    "options": [
+      "Nafas qisilishi, xirillash, yo'tal",
+      "Yuqori tana harorati, terlash",
+      "Qorin og'rig'i, qusish",
+      "Bosh og'rig'i, ko'ngil aynishi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "96. Bronxial astma kasalligini aniqlashda qanday diagnostik usullar qo'llaniladi?",
+    "options": [
+      "Spirometriya",
+      "Allergik testlar",
+      "Ko'krak qafasi rentgen tekshiruvi",
+      "Yuqoridagi barcha javoblar to'g'ri"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "97. Bronxial astma xurujini bartaraf etishda qanday dori vositalari qo'llaniladi?",
+    "options": [
+      "Bronxodilatatorlar (inhalatorlar)",
+      "Antibiotiklar",
+      "Antigistamin preparatlar",
+      "Virusga qarshi preparatlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "98. Bronxial astma kasalligini uzoq muddatli davolashda qanday dori vositalari qo'llaniladi?",
+    "options": [
+      "Kortikosteroidlar (inhalatorlar)",
+      "Antibiotiklar",
+      "Antigistamin preparatlar",
+      "Virusga qarshi preparatlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "99. Tayanch-harakat apparatida nuqsoni bo'lgan bolalarning ta'limiy ehtiyojlari qanday bo'lishi mumkin?",
+    "options": [
+      "Faqatgina tibbiy yordamga muhtojlik",
+      "Ta'limda individual yondashuv, maxsus o'quv qurollari, moslashgan muhit",
+      "Faqatgina ijtimoiy moslashuvga muhtojlik",
+      "Faqatgina o'yin orqali ta'lim olish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "100.  Tayanch-harakat apparatida nuqsoni bo'lgan bolalar uchun ta'lim jarayonida qanday moslashuvlar amalga oshiriladi?",
+    "options": [
+      "Faqatgina o'quv dasturini qisqartirish",
+      "O'quv dasturini moslashtirish, maxsus o'quv qurollaridan foydalanish, moslashgan sinf xonasi",
+      "Faqatgina o'yin orqali ta'lim berish",
+      "Faqatgina tibbiy muolajalar bilan ta'limni birlashtirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "101. Tayanch-harakat apparatida nuqsoni bo'lgan bolalar uchun qanday maxsus o'quv qurollari zarur bo'lishi mumkin?",
+    "options": [
+      "Faqatgina kompyuter",
+      "Maxsus yozuv qurollari, moslashgan stollar, kompyuter dasturlari, harakatni osonlashtiruvchi vositalar",
+      "Faqatgina o'yinchoqlar",
+      "Faqatgina darsliklar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "102. Tayanch-harakat apparatida nuqsoni bo'lgan bolalar bilan ishlashda qanday pedagogik usullardan foydalanish mumkin?",
+    "options": [
+      "Faqatgina an'anaviy dars usullari",
+      "Individual ta'lim, o'yin orqali ta'lim, loyihalash usuli, hamkorlikda o'rganish",
+      "Faqatgina ma'ruza usuli",
+      "Faqatgina nazorat usuli"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "103. Tayanch-harakat apparatida nuqsoni bo'lgan bolalarning ijtimoiy moslashuviga qanday yordam beriladi?",
+    "options": [
+      "Faqatgina tibbiy yordam orqali",
+      "Hamkorlikdagi o'yinlar, guruhli mashg'ulotlar, ijtimoiy ko'nikmalarni rivojlantirish mashqlari",
+      "Faqatgina o'zini-o'zi nazorat qilish mashqlari",
+      "Faqatgina darslar orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "104.  Tayanch-harakat apparatida nuqsoni bo'lgan bolalarning ota-onalari bilan qanday hamkorlik olib boriladi?",
+    "options": [
+      "Faqatgina tibbiy maslahatlar berish",
+      "Ta'lim jarayoniga jalb qilish, psixologik yordam ko'rsatish, oilaviy muhitni yaxshilash",
+      "Faqatgina moddiy yordam ko'rsatish",
+      "Faqatgina nazorat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "105. Tayanch-harakat apparatida nuqsoni bo'lgan bolalar uchun qanday mutaxassislar yordam ko'rsatadi?",
+    "options": [
+      "Faqatgina shifokorlar",
+      "O'qituvchilar, psixologlar, shifokorlar, logopedlar, ijtimoiy xodimlar",
+      "Faqatgina psixologlar",
+      "Faqatgina ijtimoiy xodimlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "106. Tayanch-harakat apparatida nuqsoni bo'lgan bolalar uchun qanday ta'lim muhiti yaratiladi?",
+    "options": [
+      "Faqatgina an'anaviy sinf xonasi",
+      "Moslashgan sinf xonasi, maxsus o'quv qurollari, qulay harakatlanish sharoitlari ====",
+      "Faqatgina o'yin xonasi",
+      "Faqatgina tibbiy muolaja xonasi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "107.  Tayanch-harakat apparatida nuqsoni bo'lgan bolalarning ta'lim olishga qiziqishini qanday oshirish mumkin?",
+    "options": [
+      "Faqatgina nazorat qilish orqali",
+      "Qiziqarli o'yinlar, ijodiy mashg'ulotlar, loyiha ishlari orqali",
+      "Faqatgina ma'ruza o'qish orqali",
+      "Faqatgina topshiriqlar berish orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "108. Tayanch-harakat apparatida nuqsoni bo'lgan bolalarning ta'lim olishdagi muvaffaqiyati nimaga bog'liq?",
+    "options": [
+      "Faqatgina tibbiy yordamga",
+      "Individual yondashuv, moslashgan ta'lim muhiti, ota-onalarning hamkorligi, mutaxassislarning yordami",
+      "Faqatgina o'qituvchining mahoratiga",
+      "Faqatgina o'quv qurollarining mavjudligiga"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "109. “Nogironlar shaxsiyatini hurmat qilish huquqi ularda tug‘ilishi bilan mavjud bo‘ladi. Nogironlikning kelib chiqishi, tabiati va jiddiylik darajasidan qat’iy nazar, fuqaro o‘z yoshidagi tengdoshlari bilan bir xil huquqlarga egadirlarkim, shu bilan birga ular mumkin qadar to‘laqonli yaxshi hayot kechirish huquqiga ham ega” Konstitutsiyaning nechinchi moddasida keltirilgan?",
+    "options": [
+      "3-moddasi",
+      "5-moddasi",
+      "50 dan ortiq",
+      "7-moddasi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "110. Nechinchi yilda BMT “Nogiron shaxslar huquqlari to‘g‘risida”gi Deklaratsiyani qabul qildi?",
+    "options": [
+      "1975",
+      "1976",
+      "1991",
+      "1995"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "111. Qachon BMT “Bolalar huquqlari to‘g‘risidagi Konvenitsiya”ni qabul qildi.",
+    "options": [
+      "1989",
+      "1990",
+      "1994",
+      "2000"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "112. Yevropada qanchadan ortiq mamlakatlarni birlashtirgan Gospital Pedagogika Assotsiatsiyasi (HOPE) tashkil etilgan",
+    "options": [
+      "15 dan ortiq",
+      "40 dan ortiq",
+      "30 dan ortiq",
+      "20 dan ortiq"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "113. Nechinchi yildan boshlab Yevropada 15 dan ortiq mamlakatlarni birlashtirgan Gospital Pedagogika Assotsiatsiyasi (HOPE) tashkil etilgan",
+    "options": [
+      "1919",
+      "1917",
+      "1920",
+      "2000"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "114.  Anomal so’zi qanday ma’noni anglatadi?",
+    "options": [
+      "Yunoncha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "lotincha odatdan tashqari, noraso degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "Yunoncha aqli zaif  degan ma’noni bildiruvchi anomalos suzidan olingan.",
+      "lotincha odatdan tashqari, aqli zaif degan ma’noni bildiruvchi anomalos suzidan olingan."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "115.  Qanday bolalar anomal bolalar sanaladi?",
+    "options": [
+      "Ruhiy va jismoniy kamchiliklari bor bolalar anomal bolalar deyiladi.",
+      "Intellektual  jihatdan kamchiliklarga ega bolalar anomal bolalar deyiladi.",
+      "Eshituv   jihatdan kamchiliklarga ega bolalar anomal bolalar deyiladi.",
+      "Zaif   ko’ruvchi bolalar  bolalar anomal bolalar deyiladi."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "116.Eshitish nuqsonining darajalari",
+    "options": [
+      "yengil, o’rta, og’ir",
+      "yengil,  og’ir",
+      "yengil, o’rta, og’ir, o’ta og’ir",
+      "Past, yuqori"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "117.Bola huquqlari to’g’risidagi»gi Konvensiya nechanchi yilda qaysi tashkilot tomonidan qabul qilingan?",
+    "options": [
+      "YuNESKO tomonidan 1990 yilda qabul qilingan",
+      "YuNISEF  tomonidan 1992 yilda qabul qilingan",
+      "BMT tomonidan 1989 yilda qabul qilingan",
+      "BMT tomonidan 1989 yilda qabul qilingan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "118.Hazirggi paitda genetik tadqiqitlar tufayli qancha irsiy kasalliklar aniqlangan",
+    "options": [
+      "5000",
+      "6000",
+      "500",
+      "7000"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "119.Irsiyat nima?",
+    "options": [
+      "Organizimdagi belgi va xususiyatlarni kelgusi avlodga o’tkazilishi",
+      "Organizimlarning yangi belgi va xususiyatlarini namoyon qilishi",
+      "Tashqi belgilari yig’indisi",
+      "Gistalogik belgilar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "120.Oliy nerv faoliyati tiplari",
+    "options": [
+      "4",
+      "7",
+      "10",
+      "Tugri javob yo’q"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "121. Bo’y uzunligi, massasi, bosh aylanasi antropometrik ko’rsatgichlarning qaysinisiga kiradi?",
+    "options": [
+      "Samotometriya",
+      "Samotoskopiya",
+      "Fiziometriya",
+      "Vizometriya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "122.Ko’zning ko’rish o’tkirligini o’lchash qanday nomlanadi?",
+    "options": [
+      "Vizometriya",
+      "Samotometriya",
+      "Samotoskopiya",
+      "Fiziometriya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "123.Ayrim hollarda 14-16 yoshda o’smirlarda  artetial qon bosimi ko’tarilib turadi , bu qanday boshqariladi?",
+    "options": [
+      "Neyrogumaral",
+      "Tashqi muhit ta’siri",
+      "Nerv",
+      "Ixtiyoriy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "124.Maktablarda 8-9 sinflar uchun dars soatlari haftada necha soatni tashkil qilishi kerak?",
+    "options": [
+      "35 s",
+      "36 s",
+      "31-34 s",
+      "22-25 s"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "125. O’sish bu….",
+    "options": [
+      "Organizmning miqdor jihatidan o’zgarishi",
+      "Organizmning sifat jihatidan o’zgarishi",
+      "Geteroxroniya",
+      "Akjselerasiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "126. Organizmning rivojlanishi bu….",
+    "options": [
+      "Organizmning sifat jihatidan o’zgarishi",
+      "Organizmning miqdor jihatidan o’zgarishi",
+      "Geteroxroniya",
+      "Akjselerasiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "127.Tinch holatda bola necha marta nafas oladi?",
+    "options": [
+      "16 – 20",
+      "12- 16",
+      "72-75",
+      "14-16"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "128. Tubetkuloz soʻzining maʼnosi nima?",
+    "options": [
+      "lotincha doʻmboqcha",
+      "yunoncha doʻmboqcha",
+      "lotincha bakteriya",
+      "ruscha sil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "129. Bronxial astma yuzaga kelishi boʻyicha qanday tasniflanadi?",
+    "options": [
+      "allergik bronxial astma, noallergik bronxial astma, aralash bronxial astma, aniqlanmagan bronxial astma",
+      "intermittiv, yengil, oʻrta",
+      "kuchayishi, remissiya",
+      "nazorat ostida, boshqarib boʻlmaydigan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "131. Ichki sekretsiya haqidagi tushuncha birinchi marta fiziologiyaga kim tomonidan kiritilgan?",
+    "options": [
+      "Klod Bernar",
+      "Bazedov",
+      "Komenskiy",
+      "Ushinskiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "132. Epifiz bezining ogʻirligi qancha?",
+    "options": [
+      "0,2-0,3 gr",
+      "0,5-0,7 gr",
+      "10 gr",
+      "30-35 gr"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "133. Qaysi bezning vazni yangi tugʻilgan chaqaloqda 1 gr dan oshmaydi?",
+    "options": [
+      "qalqonsimon bez",
+      "gipofiz bezi",
+      "epifiz bezi",
+      "buyrak usti bezi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "134. Qalqonsimon bez garmoni tarkibida qancha yod boʻladi?",
+    "options": [
+      "65,3 %",
+      "70 %",
+      "73 %",
+      "60,3 %"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "135.Qandli diabet yaʼni qand kasalligi qanday kasallik?",
+    "options": [
+      "organizmda insulin tanqisligi va moddalar almashinuvi buzilishi natijasida kelib chiqadigan kasallik",
+      "allergik kasallik",
+      "ma'lum geografik joyda aholining koʻpchilik qismida keng tarqalgan alohida kasallik",
+      "meʼda osti bezining kasallanishi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "136. Oʻzbekiston hududida hozirgi kunda yagona boʻlgan gospital maktabning nomi nima?",
+    "options": [
+      "Mehrli maktab",
+      "Quyosh bolalari",
+      "Oftob",
+      "Ixtisoslashgan maktab"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "137.Mehrli maktab gospital maktabi qachondan boshlab oʻz faoliyatini boshlagan?",
+    "options": [
+      "2022-yil 15-may",
+      "2023-yil 18-aprel",
+      "2020-yildan",
+      "2020-yil 12-may"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "138 Oʻrta darajadagi autoimmun kasalliklarga nimalar kiradi?",
+    "options": [
+      "miyasteniya gravis, 1 turdagi qandli diabet, Shergen sindromi",
+      "tireotoksikoz, revmatoit artrit",
+      "tizimli shleroderma, dermato miyozit",
+      "koʻp shleroz, polinevrit"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "139. Irsiy kasalliklar nimalar tufayli paydo boʻladi?",
+    "options": [
+      "xromosomalar yoki genlardagi mutatsiyalar tufayli",
+      "qondagi shakar miqdorini oshishi",
+      "salbiy taʼsirlar",
+      "allergik reaksiyalar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "140 Gen kasalliklarining hozirda qancha turi mavjud?",
+    "options": [
+      "30 dan ortiq",
+      "30 ta",
+      "50 ta",
+      "30 ga yaqin"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "141. Bosh miya saratoni odatda necha yoshda kuzatiladi?",
+    "options": [
+      "8 yoshgacha boʻlgan nbolalik davrida",
+      "65-80 yoshda",
+      "4-5 yoshlik davrida",
+      "10-15 yoshda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "142. Saraton kasalligi nima tufayli paydo boʻladi?",
+    "options": [
+      "hujayralarning gʻayritabiiy boʻlinishi va normal tana toʻqimalariga infiltratsiyasi tufayli",
+      "xromosomalar yoki genlardagi mutatsiyalar tufayli",
+      "ekzogen allergenlar tufayli",
+      "atrof muhit taʼsirida"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "143. Gipofiz bezining ogʻirligi qancha boʻladi?",
+    "options": [
+      "0,5-0,7 gr",
+      "0,2-0,3 gr",
+      "1 gr",
+      "35 gr"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "144.Qalqonsimon bezning asosiy funksiyasi nimalardan iborat?",
+    "options": [
+      "qon plazmasidan yodni konsentrlash, tiroksin harmoni hosil qilish va uning qonga tushishini taʼminlash",
+      "qondagi shakar miqdorini kamaytirish",
+      "hujayralarning boʻlinishini taminlash",
+      "oʻsish va rivojlanishni taʼminlash"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "145.Irsiy kasalliklar qanday usul bilan oʻrganiladi?",
+    "options": [
+      "klinikgenelogik",
+      "genetik",
+      "Fiziologik",
+      "Irsiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "146. Irsiy kasalliklar asosan nimaning buzilishi natijasida kelib chiqadi?",
+    "options": [
+      "genetik informatsiya",
+      "Irsiyat",
+      "Garmonlar",
+      "O’zgaruvchanlik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "147. Irsiy kasalliklar asosan qanday yo’l bilan o’rganiladi?",
+    "options": [
+      "klinik genelogik",
+      "Labaratoriya",
+      "Analiz",
+      "Test usullari"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "148 Gen kasalliklari qanday hollarda namoyon bo’ladi?",
+    "options": [
+      "dominant va resessiv",
+      "Fenopid",
+      "hech qanday",
+      "Dominat autosom"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "149 Daun sindiromini kim nechinchi yilda aniqlagan?",
+    "options": [
+      "L.Daun 1866-yil",
+      "A.Daun 1899-yil",
+      "D.daun 1222-yil",
+      "S Daun 1889 yil"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "150 Gen kasalliklari nuqtali mutatsiya natijasida yuzaga keladigon……..aloqadordir.",
+    "options": [
+      "moddalar almashunuvi",
+      "nerv sistemasi",
+      "tug’ma nuqsonlar",
+      "Xromosama kasalliklari"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "151 Bruton kasalligi asosan kimlarda uchraydi?",
+    "options": [
+      "o’g’il bolalarda",
+      "qiz bolalarda",
+      "Kottalarda",
+      "Yosh bolalarda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "152  Bruton kasalligigaga chalingan bolalar asosan qayday tug;iladi",
+    "options": [
+      "sog’lom",
+      "Zaif",
+      "Kasal",
+      "Chala"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "153 Qaysi kasallikda qonning uvish holati pasayadi?",
+    "options": [
+      "oq-qon",
+      "Sariq",
+      "Sil",
+      "Gemofiliya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "154 Irsiy kasalliklar nasl suradimi?",
+    "options": [
+      "ha",
+      "Yo’q",
+      "Ba’zan",
+      "Bilmadim"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "155 . Fenilketoruniya qanqay kasallik?",
+    "options": [
+      "irsiy metobolik",
+      "Yuqumli",
+      "Genetik",
+      "Samatik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "156 Avtosomal retsessiv meros nima sodir bo’lganda paydo bo’ladi?",
+    "options": [
+      "retsessiv genda muatsiya",
+      "genda bog’lanish",
+      "paydo bo’lmaydi",
+      "Autosom dominant"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "157 Qaysi kasallik genetik kelib chiqishi kasalligi biriktiruvchi to’qimalarga tasir qilishi bilan tasniflanadi?",
+    "options": [
+      "marfan kasalligi",
+      "kistoz fibroz",
+      "Gemofiya",
+      "Daltonizm"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "158. ley kasalligi qanday kasallik?",
+    "options": [
+      "mitoxondrial tipdagi i.k",
+      "Yuqimli",
+      "Genetik",
+      "Yuqimli"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "159  Serebral kasallikdagi bolalarga talim bersa bo’ladimi?",
+    "options": [
+      "Ha maxsus talim maktablarida",
+      "Yo’q",
+      "Imkonsiz",
+      "Uyda"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "160 Serebral falaj kasallikdagi bolalarning xususiyati qanday?",
+    "options": [
+      "Asosan tez charchaydi",
+      "doimiy tetik",
+      "uyqusizlik kuzatiladi",
+      "Aqli zaiflik"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "161.Tibbiyot muassasalarida uzoq muddatli davolanayotgan bolalar uchun taʼlim muhitini yaratishning asosiy maqsadi nima?",
+    "options": [
+      "Bolalarning sogʻligʻini yaxshilash.",
+      "Bolalarning taʼlim olish huquqini taʼminlash.",
+      "Bolalarning ijtimoiy moslashuvini taʼminlash.",
+      "Faqat bolalarning vaqtini chogʻ oʻtkazish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "162 Tibbiyot muassasalarida taʼlim muhitini yaratishda qanday mutaxassislar ishtirok etishi kerak?",
+    "options": [
+      "Faqat shifokorlar va hamshiralar.",
+      "Oʻqituvchilar va psixologlar.",
+      "Faqat ota-onalar va vasiylar.",
+      "Shifokorlar, oʻqituvchilar, psixologlar va ota-onalar."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "163 Tibbiyot muassasalarida taʼlim jarayoni qanday tashkil etilishi kerak?",
+    "options": [
+      "Bolalarning sogʻligʻi va individual ehtiyojlarini hisobga olgan holda.",
+      "Faqat anʼanaviy dars shaklida.",
+      "Faqat oʻyin shaklida.",
+      "Faqat masofaviy taʼlim shaklida."
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "164 Tibbiyot muassasalarida taʼlim jarayonida qanday resurslardan foydalanish mumkin?",
+    "options": [
+      "Faqat darsliklar va oʻquv qoʻllanmalari.",
+      "Interaktiv oʻyinlar va dasturlar.",
+      "Kutubxona va oʻyin xonalari.",
+      "Darsliklar, oʻquv qoʻllanmalari, interaktiv oʻyinlar, dasturlar, kutubxona va oʻyin xonalari."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "165  Tibbiyot muassasalarida taʼlim jarayonini tashkil etishda qanday muammolar yuzaga kelishi mumkin?",
+    "options": [
+      "Bolalarning sogʻligʻi bilan bogʻliq muammolar.",
+      "Oʻqituvchilarning yetishmasligi.",
+      "Taʼlim resurslarining yetishmasligi.",
+      "Yuqoridagi barcha javoblar toʻgʻri."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "166. Tibbiyot muassasalarida taʼlim jarayonini samarali tashkil etish uchun nima qilish kerak?",
+    "options": [
+      "Barcha manfaatdor tomonlar oʻrtasida hamkorlikni taʼminlash.",
+      "Taʼlim jarayonini doimiy ravishda monitoring qilish va baholash.",
+      "Bolalarning individual ehtiyojlarini hisobga olgan holda taʼlim dasturlarini moslashtirish.",
+      "Yuqoridagi barcha javoblar toʻgʻri."
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "167.  Tayanch-harakat apparatida nuqsoni boʻlgan bolalar taʼlim jarayonida qanday qiyinchiliklarga duch kelishlari mumkin?",
+    "options": [
+      "Faqat oʻqish va yozishda.",
+      "Sinfga kirish va chiqishda, oʻquv materiallaridan foydalanishda.",
+      "Doʻstlar orttirishda.",
+      "Faqat uy vazifalarini bajarishda."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "168. Tayanch-harakat apparatida nuqsoni boʻlgan bolalar uchun taʼlim muhitini yaratishda nimalarga eʼtibor berish kerak?",
+    "options": [
+      "Sinf xonasini faqatgina oʻquv stollari bilan jihozlash.",
+      "Sinf xonasini nogironlar aravachasi uchun moslashtirish, maxsus oʻquv materiallari bilan taʼminlash.",
+      "Bolalarga uy vazifalarini koʻproq berish.",
+      "Bolalarni faqat alohida sinflarda oʻqitish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "169.  Tayanch-harakat apparatida nuqsoni boʻlgan bolalar uchun qanday taʼlim usullari samarali boʻlishi mumkin?",
+    "options": [
+      "Faqat anʼanaviy dars usullari.",
+      "Interaktiv taʼlim usullari, oʻyinlar, loyihalar.",
+      "Bolalarga faqat mustaqil ish berish.",
+      "Bolalarga faqat maʼruza oʻqish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "170. Tayanch-harakat apparatida nuqsoni boʻlgan bolalarning taʼlimiy ehtiyojlarini qondirishda qanday mutaxassislar ishtirok etishi kerak?",
+    "options": [
+      "Faqat oʻqituvchilar.",
+      "Oʻqituvchilar, psixologlar, logopedlar, fizioterapevtlar.",
+      "Faqat ota-onalar.",
+      "Faqat maktab maʼmurlari."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "171.  Tayanch-harakat apparatida nuqsoni boʻlgan bolalarning taʼlim jarayonida qanday texnik vositalardan foydalanish mumkin?",
+    "options": [
+      "Faqat doska va boʻr.",
+      "Kompyuter, planshet, interaktiv doska, maxsus dasturlar.",
+      "Faqat kitoblar.",
+      "Faqat radio."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "172.  Tayanch-harakat apparatida nuqsoni boʻlgan bolalarning taʼlim jarayonida qanday ijtimoiy-psixologik omillarga eʼtibor berish kerak?",
+    "options": [
+      "Bolalarni faqat oʻz tengdoshlari bilan muloqot qilishdan cheklash.",
+      "Bolalarning oʻziga ishonchini oshirish, ijtimoiy moslashuvini taʼminlash.",
+      "Bolalarga faqat tanbeh berish.",
+      "Bolalarni faqat alohida guruhlarda oʻqitish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "173.  Saraton kasalligi bilan ogʻrigan bolalarni oʻqitishda oʻqituvchi qanday asosiy xususiyatlarga ega boʻlishi kerak?",
+    "options": [
+      "Faqat qatʼiylik va talabchanlik.",
+      "Empatiya, sabr-toqat va moslashuvchanlik.",
+      "Faqat yuqori akademik talablar.",
+      "Bolaning kasalligiga befarq boʻlish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "174.  Saraton kasalligi bilan ogʻrigan bolalar taʼlim jarayonida qanday qiyinchiliklarga duch kelishlari mumkin?",
+    "options": [
+      "Faqat darslarga qatnashishda.",
+      "Charchoq, diqqatni jamlashning qiyinligi, darslarga tez-tez qatnay olmaslik.",
+      "Faqat uy vazifalarini bajarishda.",
+      "Hech qanday qiyinchilikka duch kelmaslik."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "175.  Saraton kasalligi bilan ogʻrigan bolalar uchun taʼlim muhitini yaratishda nimalarga eʼtibor berish kerak?",
+    "options": [
+      "Sinf xonasini faqat anʼanaviy tarzda jihozlash.",
+      "Bolaning sogʻligʻini hisobga olgan holda moslashuvchan taʼlim dasturlari, qulay muhit yaratish.",
+      "Bolalarga koʻproq uy vazifalarini berish.",
+      "Bolalarni faqat alohida sinflarda oʻqitish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "176.  Saraton kasalligi bilan ogʻrigan bolalar uchun qanday taʼlim usullari samarali boʻlishi mumkin?",
+    "options": [
+      "Faqat anʼanaviy dars usullari.",
+      "Individual taʼlim dasturlari, masofaviy taʼlim, loyihalar.",
+      "Bolalarga faqat mustaqil ish berish.",
+      "Bolalarga faqat maʼruza oʻqish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "177.  Saraton kasalligi bilan ogʻrigan bolalarning taʼlimiy ehtiyojlarini qondirishda qanday mutaxassislar ishtirok etishi kerak?",
+    "options": [
+      "Faqat oʻqituvchilar.",
+      "Oʻqituvchilar, shifokorlar, psixologlar, ijtimoiy xodimlar.",
+      "Faqat ota-onalar.",
+      "Faqat maktab maʼmurlari."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "178.  Saraton kasalligi bilan ogʻrigan bolalarning taʼlim jarayonida qanday ijtimoiy-psixologik omillarga eʼtibor berish kerak?",
+    "options": [
+      "Bolalarni faqat oʻz tengdoshlari bilan muloqot qilishdan cheklash.",
+      "Bolalarning ruhiy holatini qoʻllab-quvvatlash, ijtimoiy moslashuvini taʼminlash.",
+      "Bolalarga faqat tanbeh berish.",
+      "Bolalarni faqat alohida guruhlarda oʻqitish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "179.  Qandli diabet bilan ogʻrigan oʻquvchilar bilan mashgʻulot oʻtkazishda oʻqituvchi nimalarga eʼtibor berishi kerak?",
+    "options": [
+      "Faqat oʻquv dasturini bajarishga.",
+      "Oʻquvchining sogʻligʻi, ovqatlanish tartibi va dori-darmonlarini qabul qilish vaqtiga.",
+      "Oʻquvchining faqat akademik koʻrsatkichlariga.",
+      "Oʻquvchini boshqa oʻquvchilardan ajratib qoʻyishga."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "180.  Qandli diabet bilan ogʻrigan oʻquvchilar dars paytida qanday qiyinchiliklarga duch kelishlari mumkin?",
+    "options": [
+      "Faqat uyquga ketishga.",
+      "Glikemik holatning oʻzgarishi, diqqatni jamlashning qiyinligi, charchoq.",
+      "Faqat darsliklardan foydalanishga.",
+      "Hech qanday qiyinchilikka duch kelmaslik."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "181. Qandli diabet bilan ogʻrigan oʻquvchilar uchun mashgʻulot oʻtkazishda qanday taʼlim usullari samarali boʻlishi mumkin?",
+    "options": [
+      "Faqat anʼanaviy dars usullari.",
+      "Individual taʼlim dasturlari, qisqa darslar, tanaffuslarda ovqatlanish imkoniyati.",
+      "Oʻquvchilarga faqat mustaqil ish berish.",
+      "Oʻquvchilarga faqat maʼruza oʻqish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "182.  Qandli diabet bilan ogʻrigan oʻquvchilarning taʼlimiy ehtiyojlarini qondirishda qanday mutaxassislar ishtirok etishi kerak?",
+    "options": [
+      "Faqat oʻqituvchilar.",
+      "Oʻqituvchilar, shifokorlar, hamshiralar, ota-onalar.",
+      "Faqat ota-onalar.",
+      "Faqat maktab maʼmurlari."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "183. Qandli diabet bilan ogʻrigan oʻquvchilarning mashgʻulot jarayonida qanday ijtimoiy-psixologik omillarga eʼtibor berish kerak?",
+    "options": [
+      "Oʻquvchilarni faqat oʻz tengdoshlari bilan muloqot qilishdan cheklash.",
+      "Oʻquvchilarning ruhiy holatini qoʻllab-quvvatlash, ijtimoiy moslashuvini taʼminlash.",
+      "Oʻquvchilarga faqat tanbeh berish.",
+      "Oʻquvchilarni faqat alohida guruhlarda oʻqitish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "184. Qandli diabet bilan ogʻrigan oʻquvchilar uchun dars paytida nima qilish kerak?",
+    "options": [
+      "Oʻquvchilarga faqat qattiq rejimda mashgʻulotlar oʻtkazish.",
+      "Oʻquvchilarga kerak boʻlganda tanaffus qilish, ovqatlanish va dori-darmonlarini qabul qilish imkoniyatini yaratish.",
+      "Oʻquvchilarga faqat uy vazifalarini koʻproq berish.",
+      "Oʻquvchilarga faqat nazorat ishlarini koʻproq berish."
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "185.   «Bola huquqlari to’g’risidagi»gi Konvensiya nechanchi yilda qaysi tashkilot tomonidan qabul qilingan?",
+    "options": [
+      "YuNISEF  tomonidan 1992 yilda qabul qilingan",
+      "BMT tomonidan 1989 yilda qabul qilingan",
+      "YuNESKO tomonidan 1990 yilda qabul qilingan",
+      "BMT tomonidan 1989 yilda qabul qilingan"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "186. Tug’ma ko’z nuqsonli bolalarga qanday kasalliklar sabab bo’ladi?",
+    "options": [
+      "Ko’z sili, so’zak",
+      "Miya o’smasi, qizilcha",
+      "Skorlatina, qizilcha,  miya o’smasi",
+      "Tug’ma kataraktaning bazilari"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "187. O’sish garmoni qaysi garmondir",
+    "options": [
+      "Insulin",
+      "Gonodotrop",
+      "Tiroksin",
+      "Somototrop"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "188. Qalqonsimon bezning gormoni",
+    "options": [
+      "Tiroksin",
+      "Insulin",
+      "Gonodotrop",
+      "Somototrop"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "189. Oshqozon osti bezining gormoni",
+    "options": [
+      "Somototrop",
+      "Gonodotrop",
+      "Tiroksin",
+      "Insulin"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "190. Irsiyat qonunlari birinchi marotaba kim tomonidan kashf qilindi",
+    "options": [
+      "G.Mеndеl",
+      "De.Friz",
+      "Chermak",
+      "Korrenslar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "191. Genetika nimani o’rganadi?",
+    "options": [
+      "Genotipni",
+      "penotipni",
+      "Belgilarni",
+      "Irsiyat va o’zgaruvchanlikni"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "192. Qaysi olim tomonidan irsiyatni avloddan-avlodga bеrilishi xromosomalarga bog’liq dеgan mulohazani ilgari surilgan?",
+    "options": [
+      "A.Vеysman",
+      "T.Boveri",
+      "U.Setton",
+      "T.Morgan"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "193. Genetika tirik organizlarning ...to`g`risidagi fan",
+    "options": [
+      "tug`ilish va kelib chiqish",
+      "ontogenetik o`zgaruvchanlik  irsiylanish",
+      "irsiyat va o`zgaruchanlik",
+      "Irsiyat"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "194.  O`smirlarda qon ivimasligi qaysi kasallik hisoblanadi\t.",
+    "options": [
+      "Doltonizm",
+      "Gemofiliya",
+      "gripp",
+      "OITS"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "195. Qaysi irsiy kasallikda odamlar haydovchilik qila olmaydilar",
+    "options": [
+      "Astma",
+      "Gemofiliya",
+      "Daltonizm",
+      "Anemiya"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "196. Bosh miyada qaysi endokrin bezlar joylashgan",
+    "options": [
+      "Qalqonsimon bez",
+      "Gipofiz va epifiz",
+      "Jinsiy bezlar",
+      "So’lak bezlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "197.  DNK organizmda nima vazifa bajaradi",
+    "options": [
+      "Irsiy axborotni saqlaydi",
+      "Yog’larni parchalaydi",
+      "Ovqatni xazm qiladi",
+      "Oqsillarni parchalaydi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "198. Autosomaga bog’liq bo’lgan kasalliklarni ko’rsating ?",
+    "options": [
+      "Edvars",
+      "Daltonizm",
+      "Daun",
+      "Mushuk chinqirigi"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "199.  Braxidakligiya qanday kasallik",
+    "options": [
+      "Ko‘p barmoqlik",
+      "Kam barmoqlik",
+      "Barmoqlarni o ‘smay qolishi",
+      "Katta barmoqlik"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "200. Klaynfelter kasalligida kuzatiladigan belgilarni ko’rsating ?",
+    "options": [
+      "Yelka tor",
+      "Tos suyagi tor",
+      "Urug chiqaruvchi kanal yaxshi rivojlanmagan",
+      "Bo’ylari,oyoqlar kalta"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "201. Irsiy informatsiyaning buzilishi natijasida kelib chiqadigan kasallik qaysi?",
+    "options": [
+      "Revmatizm kasalligi",
+      "Sil kasalligi",
+      "Suyak emirilishi",
+      "Genetik kasalliklar"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "202.  Bu kasallik bilan tugʻilgan bolalarda kasallik alomatlar faqat 3-4 oylikdagina namoyon boʻladi?",
+    "options": [
+      "Astma",
+      "Tuberkulyoz",
+      "Bruton",
+      "Bot kasalligi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "203. Medulloblastoma bu-?",
+    "options": [
+      "Migren",
+      "Qon ivishi",
+      "Yomon sifatli miya embrional o’smasi",
+      "Shapko’rlik"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "204 Qaysi maktablarda dars jarayoni 30 minut davom etadi?",
+    "options": [
+      "Ixsoslashgan maktablarida",
+      "Litsey maktablarida",
+      "Muruvvat maktablarida",
+      "Davlat maktablarida"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "207. Qonning fitoplazmasida qiyinchiliklar bilan tavsiflangan va mòl kòl va uzluksiz qon ketishini keltirib chiqaradigan xavfli kasallik agar tòxtatilmasa hayotga xavf tuģdirishi mumkin bòlgan kasallik qaysi ?",
+    "options": [
+      "Gemofiliya.",
+      "Talassemiya;",
+      "Fenilketonuriya;",
+      "Ahondroplaziya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Dars metodlarini toping?",
+    "options": [
+      "Barcha javoblar to’g’ri",
+      "An’anaviy",
+      "Noananaviy",
+      "Zamonaviy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Astmani rivojlantiruvchi eng xavfli omillarga qaysilar kiradi?",
+    "options": [
+      "Ekzogen allergenlar",
+      "Tabbiyot o’zgarishlar",
+      "Qandli diabetga uchraganlar",
+      "Yo’talga chalinganlar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Nospesifik autoimmun kasalliklar asosiy omillari immunbiologik kuzatuv sistemasi buzulishidir?",
+    "options": [
+      "Organ",
+      "Gliomalar",
+      "Saraton",
+      "Muskullar"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Saratonning qaysi turlari oʻsma paydo qilmaydi?",
+    "options": [
+      "Suyuq",
+      "Ko’krak",
+      "Miya",
+      "Karsinoma"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy reabilitatsiya- bu ...?",
+    "options": [
+      "Ijtimoiy tiklanish",
+      "Darsda faqat bitta o’quvchiga alohida e’tibor bilan yondoshish",
+      "Darsda barchaga birdek yondoshish",
+      "Darsda ma’ruza qilish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ijtimoiy adaptatsiya-bu ...?",
+    "options": [
+      "Ijtimoiy hayotga moslashish",
+      "Faqatgina ikkita analizator faoliyaga tayanib ish ko’rish",
+      "Barcha analizatorlar faoliyatini o’zaro bog’lash",
+      "Bitta analizator faoliyaga tayanib ish ko’rish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Dars metodlarini toping?",
+    "options": [
+      "Barcha javoblar to’g’ri;",
+      "An’anaviy.",
+      "Noananaviy;",
+      "Zamonaviy;"
+    ],
+    "correct_index": 0
+  }
+]
