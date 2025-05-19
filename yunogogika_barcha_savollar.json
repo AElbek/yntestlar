@@ -1,0 +1,1920 @@
+[
+  {
+    "question": "Yunogogika fanining ob'ekti nima?",
+    "options": [
+      "Yoshlarning hayot tajribasini o'rganish jarayoni",
+      "Yoshlarni kasbiy tayyorlash jarayoni",
+      "Yoshlarni ma'naviy jihatdan rivojlantirish jarayoni",
+      "Yoshlarning ijtimoiy, aqliy va jismoniy rivojlanishi uchun maqsadli ta'sir jarayoni"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "I.S. Kon yoshlar toifasiga qanday yoshdagi odamlarni kiritadi?",
+    "options": [
+      "10-20 yosh",
+      "16-30 yosh",
+      "18-25 yosh",
+      "12-22 yosh"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Yunogogikaning texnologik funktsiyasi nechta darajada amalga oshiriladi?",
+    "options": [
+      "Bitta",
+      "Ikkita",
+      "Uchta",
+      "To'rtta"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Yoshlar bilan ishlash tashkilotchisining kasbiy vazifalariga qaysi vazifa kirmaydi?",
+    "options": [
+      "Ijtimoiy ta'lim",
+      "Yoshlar hayotiy voqealarini qo'llab-quvvatlash",
+      "Yoshlarni sport-sog'lomlashtirish",
+      "Mahalliy iqtisodiy siyosatni rejalashtirish"
+    ],
+    "correct_index": 3
+  },
+  {
+    "question": "Sovet davrida yoshlar bilan ishlash mutaxassislarini tayyorlash qachon boshlangan?",
+    "options": [
+      "1950-yilda",
+      "1969-yilda",
+      "1975-yilda",
+      "1980-yilda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiylashtirish jarayonining asosiy maqsadi nimada?",
+    "options": [
+      "Faqatgina oila bilan bog'liq munosabatlarni o'rnatish",
+      "Shaxsni jamiyat a'zosi sifatida shakllantirish",
+      "Bolalarni maktabga tayyorlash",
+      "Faqat kasb-hunar o'rgatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Individuallik qaysi tushunchalar bilan tavsiflanadi?",
+    "options": [
+      "Shaxsning jismoniy jihatlari bilan",
+      "O'z-o'zini rivojlantirish va o'ziga xoslik bilan",
+      "Ijtimoiy muhit bilan",
+      "Shaxsning kasbiy bilimlari bilan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Yunogogika fanining asosiy vazifasi nima?",
+    "options": [
+      "Yoshlarning iqtisodiy bilimlarini rivojlantirish",
+      "Yoshlarni ijtimoiy tajriba va kasbiy tayyorgarlik bilan ta’minlash",
+      "Yoshlarning ijodiy salohiyatini oshirish",
+      "Yoshlarni qishloq xo'jaligida ishlashga yo'naltirish"
+    ],
+    "correct_index": null
+  },
+  {
+    "question": "Yunogogikaning qanday funksiyasi yoshlar muhitida barqaror aloqalarni o'rganishni o'z ichiga oladi?",
+    "options": [
+      "Nazariy funksiya",
+      "Texnologik funksiya",
+      "Diagnostik funksiya",
+      "Integratsion funksiya"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Yunogogika qaysi fanlar bilan bog‘liq?",
+    "options": [
+      "Faqat iqtisod va tarix bilan",
+      "Ijtimoiy fanlar, psixologiya, falsafa bilan",
+      "Matematika va fizika bilan",
+      "Kimyo va biologiya bilan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Yoshlar bilan ishlash tashkilotchisining qanday kompetensiyasi eng muhim hisoblanadi?",
+    "options": [
+      "Texnologik kompetensiya",
+      "Pedagogik kompetensiya",
+      "Texnik bilimlarga ega bo‘lish",
+      "Moliya va buxgalteriya bilimlariga ega bo‘lish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi davlat organi yoshlar bilan ishlashda yetakchi rol o‘ynaydi?",
+    "options": [
+      "Sog‘liqni saqlash vazirligi",
+      "Oliy ta’lim, fan va innovatsiyalar vazirligi",
+      "Mudofaa vazirligi",
+      "Transport vazirligi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiylashuv jarayoni nimani anglatadi?",
+    "options": [
+      "Faqat oila ichidagi munosabatlarni",
+      "Insonning ijtimoiy normalar va madaniy qadriyatlarni o‘zlashtirishini",
+      "Faoliyatning iqtisodiy yo‘nalishini",
+      "Yoshlarning huquqiy ta'limini"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Shaxsning qaysi fazilati uni ijtimoiy va shaxsiy jihatdan yuksak darajaga olib chiqadi?",
+    "options": [
+      "Yoshga oid xususiyatlar",
+      "Individuallik",
+      "Faqat kasbiy bilimlar",
+      "Biologik xususiyatlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Individuallik nimani anglatadi?",
+    "options": [
+      "Shaxsning jamiyatdagi mavqeini",
+      "Insonning biologik rivojlanishini",
+      "Insonning o‘ziga xoslik va o‘z-o‘zini rivojlantirish xususiyatini",
+      "Ijtimoiy mehnat faoliyatini"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ijtimoiylashuv qaysi jarayon bilan bog‘liq?",
+    "options": [
+      "Kasbiy rivojlanish bilan",
+      "B) O‘zini o‘zi anglash va o‘z o‘rnini topish bilan",
+      "Sog‘liqni saqlash bilan",
+      "Iqtisodiy jarayonlar bilan"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogika qaysi yunoncha so‘zdan kelib chiqqan?",
+    "options": [
+      "\"Logos\"",
+      "B) \"Paydos\" va \"Ago\"",
+      "\"Philos\"",
+      "\"Sophia\""
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi pedagogik nazariya \"Bola yetaklamoq\" ma'nosini bildiradi?",
+    "options": [
+      "Sotsiologik nazariya",
+      "Kommunikativ nazariya",
+      "C) Pedagogika nazariyasi",
+      "Psixologik nazariya"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Pedagogikaning asosiy tadqiqot mavzusi nima?",
+    "options": [
+      "Insonning iqtisodiy rivojlanishi",
+      "B) Insonni tarbiyalash",
+      "Texnik bilimlarni oshirish",
+      "Siyosiy ta'lim olish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogika qaysi fan bilan eng ko‘p bog‘liq?",
+    "options": [
+      "Fizika",
+      "Kimyo",
+      "Psixologiya",
+      "Geometriya"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Pedagogikada qanday metodlardan foydalaniladi?",
+    "options": [
+      "Faqat eksperiment",
+      "Faqat kuzatish",
+      "Eksperiment, kuzatish va pedagogik testlar",
+      "Faqat ijtimoiy testlar"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Pedagogika qaysi fanlar bilan integratsiyalashgan?",
+    "options": [
+      "Tibbiyot, falsafa, sotsiologiya",
+      "Kimyo, fizika, matematika",
+      "Iqtisodiyot, geografiya",
+      "Adabiyot, tarix"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O‘quv jarayonining asosiy bosqichlari qaysi javobda to‘g‘ri keltirilgan?",
+    "options": [
+      "O‘rganish, o‘zlashtirish, qayta o‘rganish",
+      "Kuzatish, o‘qish, yozish",
+      "Bilim olish, bilimni mustahkamlash, amaliy qo‘llash",
+      "Tashlash, sinab ko‘rish, tekshirish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Ta’lim jarayonida ko‘rgazmalilik tamoyili nimani anglatadi?",
+    "options": [
+      "Faqat matnli materiallardan foydalanishni",
+      "Har xil ko‘rgazmali materiallardan foydalanishni",
+      "O‘quvchilarni shaxsiy tajriba asosida o‘rgatishni",
+      "Faoliyatga asoslangan ta’limni"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qitishning qanday turi ko‘proq mustaqil fikrlashni rivojlantiradi?",
+    "options": [
+      "Takrorlash asosidagi o‘qitish",
+      "Muammoli ta’lim",
+      "Keng qamrovli eshitish",
+      "Ijodiy ta’lim"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qituvchi va o‘quvchi o‘rtasidagi munosabatlarda qanday usul asosiy hisoblanadi?",
+    "options": [
+      "Tekshirish va qayd etish",
+      "Ijtimoiy aloqa va pedagogik ta'sir",
+      "Faqat baholash",
+      "Insoniy munosabatlarni o'rganish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarga berilgan topshiriqlar qachon samaraliroq bajariladi?",
+    "options": [
+      "Faqat o'qituvchi rahbarlik qilganda",
+      "O‘quvchilar mustaqil bajarganda",
+      "C) Jamoaviy tartibda ish olib borilganda",
+      "Oila a’zolari yordam berganda"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "O‘qituvchi o‘quvchilarda qanday sifatlarni rivojlantirishga qaratilishi kerak?",
+    "options": [
+      "Faqat o‘qish va yozishni",
+      "Ijtimoiy ko‘nikma va individual qobiliyatlarni",
+      "Faqat yozuvni to‘g‘ri bajarishni",
+      "Matematikani"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Innovatsion ta’lim texnologiyalarining maqsadi nimada?",
+    "options": [
+      "O‘quvchilarni kasbiy tayyorlash",
+      "O‘quvchilarning bilim olish jarayonini qulaylashtirish",
+      "Faqat ijtimoiy ko‘nikmalarni rivojlantirish",
+      "Har bir fanni o‘zlashtirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi texnologiya o‘quvchilarni ijodiy va mustaqil fikrlashga o‘rgatadi?",
+    "options": [
+      "Informatika texnologiyalari",
+      "Muammoli ta’lim texnologiyalari",
+      "Faoliyatga asoslangan texnologiyalar",
+      "Dasturli ta’lim texnologiyalari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Innovatsion texnologiyalar qaysi yo‘nalishda qo‘llaniladi?",
+    "options": [
+      "Faqat texnik sohalarda",
+      "Ta’lim, ishlab chiqarish va boshqaruvda",
+      "Faqat tadbirkorlikda",
+      "San’at sohasida"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogik kuzatish metodining asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarni yozuv orqali o‘rgatish",
+      "Pedagogik jarayonni tabiiy holatda kuzatish",
+      "Texnologik usullarni sinovdan o‘tkazish",
+      "Mavjud texnikalarni joriy qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogik eksperimentning eng muhim xususiyati nima?",
+    "options": [
+      "Faqat nazariy bilimlarga asoslanadi",
+      "O‘quvchilar faoliyatini kuzatadi",
+      "C) Ilmiy asoslangan tajribalar o‘tkazish",
+      "Faqat amaliyotda qo‘llaniladi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Pedagogik suhbating qanday turi mavjud?",
+    "options": [
+      "Diagnostik va amaliy",
+      "Nazariy va amaliy",
+      "Badiiy va texnik",
+      "Faqat ijtimoiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O‘quvchilarda bilim va ko‘nikmalarni mustahkamlash qaysi metod orqali amalga oshiriladi?",
+    "options": [
+      "Tanqidiy tahlil qilish",
+      "Mustaqil ish",
+      "Qayta so‘rash",
+      "Faqat o‘qish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kasbiy yo‘naltirishning asosiy maqsadi nima?",
+    "options": [
+      "O‘quvchilarga texnik bilim berish",
+      "Shaxsiy qobiliyatlarni rivojlantirish",
+      "O‘quvchilarga kasbiy maqsad va qiziqishlarini aniqlashda yordam berish",
+      "O‘quvchilarni jismoniy rivojlantirish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Kasbiy ta’limning asosiy komponentlari qaysi javobda to‘g‘ri keltirilgan?",
+    "options": [
+      "Faoliyat, tajriba va baholash",
+      "Texnologiya, jihozlash va ta’minot",
+      "Bilim, ko‘nikma va malaka",
+      "Axborot, o‘zlashtirish va jamoaviylik"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Kasbiy orientatsiya jarayonida qanday vositalar qo‘llaniladi?",
+    "options": [
+      "Faqat o‘quv materiallari",
+      "Jismoniy mashqlar",
+      "Psixologik testlar va suhbatlar",
+      "Ijtimoiy yordam"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Didaktikaning maqsadi nima?",
+    "options": [
+      "Texnik vositalarni o‘rgatish",
+      "Ta’lim mazmunini belgilash va o‘qitish metodlarini ishlab chiqish",
+      "Faqat matematik bilim berish",
+      "Faqat ijtimoiy maqsadlarni ko‘zlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qitish jarayonida qaysi tamoyilning ahamiyati katta?",
+    "options": [
+      "Faoliyat tamoyili",
+      "Individual yondashuv tamoyili",
+      "Ijtimoiy tamoyil",
+      "Tanqidiy tahlil tamoyili"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qitish metodlari qaysi asosiy turlarga bo‘linadi?",
+    "options": [
+      "Nazariy va amaliy",
+      "Mustaqil va ko‘rgazmali",
+      "Kommunikativ va ko‘rgazmali",
+      "Muloqot va tanqidiy"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Ta’lim jarayonida qaysi boshqaruv tamoyili muhim hisoblanadi?",
+    "options": [
+      "Faqat tanqid qilish",
+      "Qat’iy tartib va nazorat",
+      "Moslashuvchan boshqaruv va muvofiqlashtirish",
+      "Harakatni cheklash"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "O‘qituvchi tomonidan tashkil etilgan ta’lim jarayonining muhim xususiyati nima?",
+    "options": [
+      "Faqat o‘quvchilarni kuzatish",
+      "O‘quvchilarning intellektual rivojlanishiga ta’sir qilish",
+      "O‘quvchilarning texnik ko‘nikmalarini oshirish",
+      "Faqat baholash jarayoniga e’tibor berish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim jarayonida maqsadli boshqaruv qachon samaraliroq bo‘ladi?",
+    "options": [
+      "Faqat kuchli nazorat bilan",
+      "O‘qituvchi va o‘quvchi o‘rtasida hamkorlik o‘rnatilganda",
+      "Faqat o‘quvchilar o‘zlashtirish darajasi baland bo‘lsa",
+      "Dars rejasi qat’iy bo‘lganda"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tarbiya jarayonining asosiy vazifasi nimada?",
+    "options": [
+      "Texnik bilimlarni oshirish",
+      "Shaxsda ma’naviy va axloqiy sifatlarni shakllantirish",
+      "Jismoniy tarbiya berish",
+      "Iqtisodiy bilimlar berish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi pedagogik faoliyat shaxsning ma’naviy tarbiyasiga yo‘naltirilgan?",
+    "options": [
+      "Texnik ko‘nikmalar berish",
+      "Ma’naviy suhbat va mashg‘ulotlar",
+      "Jismoniy tarbiya mashqlari",
+      "Matematikadan ta’lim"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tarbiya jarayonida qaysi tamoyil muhim rol o‘ynaydi?",
+    "options": [
+      "Faqat tanqid qilish tamoyili",
+      "Shaxsiy misollar orqali o‘rgatish tamoyili",
+      "Jamoaviy ish tamoyili",
+      "Faqat o‘yin usullaridan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qituvchining eng asosiy sifati nima hisoblanadi?",
+    "options": [
+      "Faqat bilimlilik",
+      "Ma’naviylik va mahorat",
+      "Texnik ko‘nikmalar",
+      "Tashqi ko‘rinish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi fazilat o‘qituvchining pedagogik mahoratida muhim ahamiyatga ega?",
+    "options": [
+      "Texnik bilim",
+      "Tashabbuskorlik va ijodiy yondashuv",
+      "Faqat matnlarni yodlash",
+      "Nazorat va tekshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qituvchining o‘z-o‘zini rivojlantirish ehtiyoji nimani anglatadi?",
+    "options": [
+      "Doimiy ravishda yangi bilimlarni o‘zlashtirish",
+      "Faqat darslarni qayta o‘qish",
+      "Qattiq tartibga amal qilish",
+      "Faqat boshqa o‘qituvchilarni kuzatish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Yoshlar bilan tarbiyaviy ishning asosiy maqsadi nimada?",
+    "options": [
+      "Yoshlarni texnikaviy yo‘nalishga tayyorlash",
+      "Yoshlarni ma’naviy, axloqiy jihatdan rivojlantirish",
+      "Faqat jismoniy rivojlantirish",
+      "Yuridik bilim berish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Yoshlar tarbiyasida qanday yondashuv samaraliroq?",
+    "options": [
+      "Faqat kitoblar orqali o‘qitish",
+      "Shaxsiy misollar va ko‘rsatmalar asosida",
+      "Faqat o‘yin usullaridan foydalanish",
+      "Jamoaviy ishlardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi tarbiyaviy jarayon o‘quvchilarda axloqiy sifatlarni rivojlantiradi?",
+    "options": [
+      "Texnik mashg‘ulotlar",
+      "Ma’naviy suhbat va masalalar muhokamasi",
+      "Sport mashg‘ulotlari",
+      "Iqtisodiy bilimlarni o‘rganish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim jarayonida baholashning asosiy vazifasi nima?",
+    "options": [
+      "O‘quvchining yoshi va fiziologik holatini aniqlash",
+      "O‘quvchi bilim darajasini aniqlash va unga yordam berish",
+      "Jismoniy holatini baholash",
+      "O‘quvchilarni harakatga keltirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi usul baholashda samaraliroq?",
+    "options": [
+      "Faqat og‘zaki so‘roq qilish",
+      "Test savollari va yozma ishlar",
+      "Faqat kuzatish orqali",
+      "Baholash bo‘yicha o‘quvchilar o‘z fikrini bildirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Baholash va nazorat qilish jarayonida o‘quvchilar bilan qanday munosabatda bo‘lish muhim?",
+    "options": [
+      "Qattiq va qat’iy munosabatda bo‘lish",
+      "Moslashuvchan va o‘zaro hurmat asosida",
+      "Faqat nazorat qilib turish",
+      "Faqat amaliy ishlarni baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim samaradorligini oshirishda eng samarali usul qaysi?",
+    "options": [
+      "Faqat og‘zaki dars o‘tish",
+      "Ko‘rgazmali ta’lim materiallaridan foydalanish",
+      "Mustaqil o‘qish",
+      "Faqat yozma topshiriqlar berish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quv jarayonida refleksiya nima uchun qo‘llaniladi?",
+    "options": [
+      "O‘quvchilarni kuzatish uchun",
+      "O‘quvchilar o‘z bilim darajasini baholashi uchun",
+      "Yozuv uslublarini rivojlantirish uchun",
+      "Faqat o‘qituvchining reytingi uchun"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim samaradorligini oshirish uchun o‘quvchilarda qanday qobiliyatni rivojlantirish zarur?",
+    "options": [
+      "Ijtimoiy ko‘nikma",
+      "Tanqidiy fikrlash",
+      "Jismoniy kuch",
+      "Moliyaviy bilim"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarni rag‘batlantirishda qanday usul samaraliroq?",
+    "options": [
+      "Faqat tanqid qilish",
+      "Ularni muvaffaqiyati uchun maqtash va qo‘llab-quvvatlash",
+      "Faqat sinovdan o‘tkazish",
+      "Qattiq nazorat o‘rnatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi usul o‘quvchilarning ichki motivatsiyasini kuchaytiradi?",
+    "options": [
+      "Sovg‘a berish",
+      "Ularning bilim darajasini baholash",
+      "O‘quvchilarni o‘z qobiliyatlarini anglashga yo‘naltirish",
+      "Qiyin topshiriqlar berish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "O‘quvchilarni motivatsiyalashning eng samarali usuli qaysi?",
+    "options": [
+      "Yozma ishlarni ko‘paytirish",
+      "Maqsadli qo‘llab-quvvatlash va o‘z qobiliyatlarini rivojlantirishga yo‘naltirish",
+      "Faqat jismoniy tarbiya mashg‘ulotlariga qatnashish",
+      "Raqobatni kuchaytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim jarayoniga innovatsion texnologiyalarni kiritishning asosiy maqsadi nima?",
+    "options": [
+      "Faqat raqamli vositalardan foydalanish",
+      "O‘quvchilarni interaktiv va ijodiy ta’limga jalb qilish",
+      "Faqat nazorat qilish",
+      "O‘quvchilarni doimiy testlardan o‘tkazish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi texnologiya o‘quvchilarni amaliy va ko‘nikmaga asoslangan ta’limga jalb qiladi?",
+    "options": [
+      "Darsliklar",
+      "Loyiha asosidagi ta’lim",
+      "Faqat kitoblarni o‘qish",
+      "Diagnostika texnologiyalari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Interaktiv texnologiyalar qanday ta’lim jarayonida qo‘llaniladi?",
+    "options": [
+      "Faqat individual o‘qitish",
+      "Jamoaviy va guruhiy ishlarda",
+      "Faqat darsliklar orqali",
+      "Yozma ishlar vaqtida",
+      "Har doim oxirgi sinov",
+      "Diagnostik va formativ baholash",
+      "Faqat yozma ishlar",
+      "Amaliy mashg‘ulotlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Formativ baholashning asosiy xususiyati nimada?",
+    "options": [
+      "O‘quvchilarni baholash uchun o‘tkaziladigan yakuniy test",
+      "O‘quvchilarni o‘qish jarayonida doimiy kuzatish va baholash",
+      "Faqat reyting tizimiga asoslangan baholash",
+      "Sinovdan o‘tkazish va natijalarni yig‘ish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Baholashning qanday turi o‘quvchilarning o‘zini o‘zi baholashiga imkon beradi?",
+    "options": [
+      "Faqat og‘zaki so‘rov",
+      "Yozma testlar",
+      "Reflektiv baholash",
+      "Kuzatish orqali baholash"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Jamoaviy ishning ta’lim jarayonidagi asosiy foydasi nimada?",
+    "options": [
+      "O‘quvchilarning yoshi va fiziologik holatini kuzatish",
+      "Ularning jamoada ishlash va birgalikda qaror qabul qilish ko‘nikmalarini rivojlantirish",
+      "O‘qituvchining darslarni yengillashtirish uchun",
+      "Faqat reyting tizimini yaxshilash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Guruhiy faoliyatning qanday usuli o‘quvchilarning fikr almashishiga yordam beradi?",
+    "options": [
+      "Faqat individual vazifalar berish",
+      "Darsliklar orqali ish olib borish",
+      "“Munozara” usuli",
+      "Faqat yozma ishlarni bajarish"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Jamoaviy faoliyatning qaysi tamoyili o‘quvchilarda mas’uliyatni rivojlantiradi?",
+    "options": [
+      "Tanqid qilish",
+      "Jamoaviy javobgarlik tamoyili",
+      "Faqat o‘z-o‘zini baholash",
+      "Mustaqil ravishda topshiriq bajarish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarda tanqidiy fikrlashni rivojlantirish uchun qanday metoddan foydalanish mumkin?",
+    "options": [
+      "Faqat matnlarni yodlash",
+      "Savol-javob va tahlil qilish",
+      "Faqat jismoniy mashg‘ulotlar",
+      "Faqat matnni o‘qitish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tanqidiy fikrlashni rivojlantirishning asosiy vositasi nimada?",
+    "options": [
+      "Texnik bilimlarni oshirish",
+      "Muammoli masalalarni hal qilish va dalillar keltirish",
+      "Faqat reyting tizimida",
+      "Matnlarni mustaqil yodlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tanqidiy fikrlash o‘quvchilarda qanday sifatlarni rivojlantiradi?",
+    "options": [
+      "Jismoniy chidamlilik",
+      "Savollar berish, tahlil qilish va asoslash qobiliyati",
+      "Faqat rasm chizish",
+      "Boshqaruv qobiliyati"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarda kommunikativ qobiliyatlarni rivojlantirish uchun qanday metod qo‘llanadi?",
+    "options": [
+      "Faqat yozma topshiriqlar",
+      "Muloqot va suhbat asosidagi mashg‘ulotlar",
+      "Faqat kitob o‘qitish",
+      "Faoliyatda kuzatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy ko‘nikmalar qanday maqsadni ko‘zlaydi?",
+    "options": [
+      "Faqat mustaqil o‘rganish",
+      "Jamoada ishlash, boshqalarni tushunish va muloqot qilish qobiliyatini rivojlantirish",
+      "Faqat o‘zlashtirish darajasini oshirish",
+      "Baholash jarayonini takomillashtirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarning ijtimoiylashuviga qanday faoliyat yordam beradi?",
+    "options": [
+      "Faqat individual ishlash",
+      "Jamoaviy mashg‘ulotlar va loyiha ishlari",
+      "Faqat yozma mashqlar",
+      "Kuzatuv va tahlil"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’limda axloqiy mas’uliyatning asosiy vazifasi nima?",
+    "options": [
+      "Faqat o‘quvchilarni baholash",
+      "O‘qituvchi va o‘quvchilar o‘rtasida hurmatni shakllantirish",
+      "Faqat bilim o‘rgatish",
+      "Yozuv va o‘qish ko‘nikmalarini oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Etika tamoyillari qaysi sohada eng muhim hisoblanadi?",
+    "options": [
+      "Moliyaviy hisobotlar",
+      "Ta’lim va tarbiya jarayonida",
+      "Texnologik rivojlanishda",
+      "Faqat sog‘liqni saqlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarni etika va axloqiy mas’uliyatga qanday usul bilan o‘rgatish mumkin?",
+    "options": [
+      "Qattiq tartib o‘rnatish orqali",
+      "B) Misollar keltirish va shaxsiy tajribalarni o‘rtoqlashish orqali",
+      "Faqat tanqid qilish orqali",
+      "Reyting tizimidan foydalanish orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’limda axborot texnologiyalaridan foydalanishning asosiy maqsadi nimada?",
+    "options": [
+      "Faqat qog‘ozli darsliklarni almashtirish",
+      "O‘quvchilar uchun bilim olish jarayonini qulay va samarali qilish",
+      "Har doim kompyuterlar bilan ishlash",
+      "O‘qituvchilar uchun ish hajmini oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi vosita axborot texnologiyalari orqali interaktiv ta’limni amalga oshirishda qo‘llaniladi?",
+    "options": [
+      "Qog‘ozli materiallar",
+      "Interaktiv taxta va virtual laboratoriyalar",
+      "Faqat grafikalar",
+      "Yozma topshiriqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Axborot texnologiyalari ta’lim jarayoniga qanday hissa qo‘shadi?",
+    "options": [
+      "Faqat nazoratni kuchaytiradi",
+      "O‘quvchilar bilim olishini interaktiv va ijodiy qiladi",
+      "Faqat test o‘tkazishni osonlashtiradi",
+      "Tashqi ko‘rinishni o‘zgartiradi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muammoli ta’limning asosiy maqsadi nimada?",
+    "options": [
+      "Faqat baholash jarayonini tezlashtirish",
+      "O‘quvchilarda mustaqil fikrlash va muammolarni hal qilish qobiliyatini rivojlantirish",
+      "Faqat kitoblardan foydalangan holda o‘qitish",
+      "O‘quvchilarni jismoniy jihatdan rivojlantirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi metod muammoli vaziyatlar orqali o‘qitishni samarali qiladi?",
+    "options": [
+      "Reproduktiv metod",
+      "Analitik metod",
+      "Loyiha asosidagi o‘qitish",
+      "Yodlash metodi"
+    ],
+    "correct_index": 2
+  },
+  {
+    "question": "Muammoli o‘qitishda qaysi yondashuv o‘quvchilarning ijodiy fikrlashini kuchaytiradi?",
+    "options": [
+      "Faqat texnik topshiriqlar",
+      "Savol-javob va tahlil",
+      "Nazariy ma’lumotlar berish",
+      "Faqat mustaqil o‘qish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qituvchilarning kasbiy rivojlanishida asosiy omil qaysi?",
+    "options": [
+      "Faqat texnik ko‘nikmalarni oshirish",
+      "Malaka oshirish kurslari va kasbiy o‘z-o‘zini rivojlantirish",
+      "Faqat darsliklarni o‘qish",
+      "Qattiq tartib va intizom"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Malaka oshirish kurslari o‘qituvchilarga qanday yordam beradi?",
+    "options": [
+      "Faqat texnik vositalardan foydalanishni o‘rgatadi",
+      "Yangi pedagogik yondashuv va metodlarni o‘zlashtirishga yordam beradi",
+      "Faqat mehnat jadvalini yaxshilashga",
+      "Faqat nazorat qilish tizimida yordam beradi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘qituvchilarni kasbiy rivojlantirishda qanday yondashuv qo‘llaniladi?",
+    "options": [
+      "Jismoniy mashg‘ulotlar",
+      "Kurslar, seminarlar va amaliy treninglar",
+      "Faqat o‘zlashtirish darslari",
+      "Test sinovlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarning shaxsiy rivojlanishi uchun qanday yondashuv muhim hisoblanadi?",
+    "options": [
+      "Faqat baholash",
+      "Individual yondashuv va shaxsiy qobiliyatlarni rivojlantirish",
+      "Faqat jamoaviy mashqlar",
+      "Faqat o‘qituvchi nazorati"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi yondashuv o‘quvchilarning qobiliyatlarini aniqlash va rivojlantirishda qo‘llaniladi?",
+    "options": [
+      "Muammoli yondashuv",
+      "Individuallik va differensial yondashuv",
+      "Faqat klassik o‘qitish",
+      "Texnik yondashuv"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilar bilan ishlashda shaxsiy yondashuv qanday imkoniyat beradi?",
+    "options": [
+      "Faqat matematik ko‘nikmalarni rivojlantirish",
+      "Har bir o‘quvchining shaxsiy ehtiyoj va qobiliyatlariga moslashish",
+      "Faqat texnik bilimlarni oshirish",
+      "Baholash jarayonini tezlashtirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Psixologik bilimlarni ta’limda qo‘llashning asosiy maqsadi nimada?",
+    "options": [
+      "O‘quvchilarni baholash",
+      "B) Har bir o‘quvchining ruhiy va shaxsiy xususiyatlarini inobatga olish",
+      "Texnik ko‘nikmalarni rivojlantirish",
+      "Faqat yozma ishlarni kuzatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim jarayonida psixologik yondashuv qanday ahamiyatga ega?",
+    "options": [
+      "Faqat baholash jarayonini yaxshilaydi",
+      "O‘quvchilarni individual o‘zlashtirish darajasiga ko‘ra o‘qitish",
+      "Faqat nazorat qilish uchun",
+      "Faqat ko‘rgazmali materiallardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi psixologik metod o‘quvchilarning emotsional rivojlanishini o‘rgatadi?",
+    "options": [
+      "Jismoniy mashqlar",
+      "Refleksiya va empatiya mashg‘ulotlari",
+      "Faqat yozma mashqlar",
+      "Baholash va tekshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Zamonaviy o‘qitish metodlaridan qaysi biri o‘quvchilarning mustaqil fikrlash qobiliyatini rivojlantiradi?",
+    "options": [
+      "Faqat eslatma yozish",
+      "Muammoli o‘qitish va loyiha asosidagi o‘qitish",
+      "Faqat baholash",
+      "Faqat yodlash mashg‘ulotlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi pedagogik metod o‘quvchilarni faol muloqotga va fikr almashishga undaydi?",
+    "options": [
+      "Og‘zaki so‘zlashuvlar",
+      "“Munozara” va “debate” metodlari",
+      "Faqat o‘zlashtirish testlari",
+      "Faqat yozma ishlarni topshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi metod o‘quvchilarning amaliy ko‘nikmalarini oshirishda samarali?",
+    "options": [
+      "Matn yodlash",
+      "B) Amaliy laboratoriya ishlari va loyihalar",
+      "Faqat og‘zaki tushuntirish",
+      "Yozma ishlarni tayyorlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarda o‘z-o‘zini anglash qobiliyatini qanday rivojlantirish mumkin?",
+    "options": [
+      "Faqat yozma ishlarni kuzatish orqali",
+      "Reflektiv mashg‘ulotlar va shaxsiy kuzatishlar orqali",
+      "Faqat baholash",
+      "Faqat nazorat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘z-o‘zini rivojlantirish qaysi jarayon bilan bog‘liq?",
+    "options": [
+      "Baholash va sinov",
+      "Shaxsiy kamchiliklarni aniqlash va ularni yaxshilashga yo‘naltirish",
+      "Faqat jamoaviy ishlash",
+      "Faqat yodlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarni o‘z-o‘zini baholashga qanday yordam berish mumkin?",
+    "options": [
+      "Faqat texnik topshiriqlar berish",
+      "Refleksiya va shaxsiy kundaliklarni yuritish orqali",
+      "Faqat baholash jadvallarini ko‘rsatish orqali",
+      "Sinovlardan o‘tkazish orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi metod o‘quvchilarning ta’lim jarayonida faol ishtirokini ta’minlaydi?",
+    "options": [
+      "Faqat o‘qituvchi ma’ruza o‘qishi",
+      "Interfaol metodlar, masalan, “Munozara” va “Guruhda ishlash”",
+      "Faqat kitobdan o‘qish",
+      "Sinov ishlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "“Munozara” usuli qanday maqsadga xizmat qiladi?",
+    "options": [
+      "Faqat eslatmalar yozish",
+      "O‘quvchilarni muammoli vaziyatlarga yechim topishga o‘rgatish",
+      "Faqat yozma mashqlar bajarish",
+      "Faqat baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi interfaol metod o‘quvchilarning hamkorlikda ishlash qobiliyatini rivojlantiradi?",
+    "options": [
+      "Faqat individual topshiriqlar",
+      "Jamoaviy loyiha ishlari",
+      "Faqat og‘zaki topshiriqlar",
+      "Tashqi kuzatuv"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kommunikativ kompetensiya deganda nimani tushunasiz?",
+    "options": [
+      "Faqat yozma ko‘nikmalar",
+      "O‘quvchilarning samarali muloqot qilish qobiliyatini",
+      "Matnlarni yodlash qobiliyatini",
+      "Faqat texnik ko‘nikmalar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi metod kommunikativ kompetensiyani rivojlantirishda muhim?",
+    "options": [
+      "Reproduktiv metod",
+      "Muloqot va tahlil asosidagi mashg‘ulotlar",
+      "Faqat baholash",
+      "Texnik mashqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kommunikativ kompetensiyani shakllantirishning asosiy vositasi qaysi?",
+    "options": [
+      "Qattiq tartib va nazorat",
+      "Savollar berish va fikr almashish",
+      "Faqat reyting tizimi",
+      "Kitob o‘qish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarni ta’limga motivatsiyalashning samarali usuli qaysi?",
+    "options": [
+      "Faqat tanbeh berish",
+      "Ularni o‘z qiziqishlari va maqsadlari asosida rag‘batlantirish",
+      "Baholarni oshirish",
+      "Texnik topshiriqlar ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Motivatsiyani oshirish uchun qaysi usul samaraliroq?",
+    "options": [
+      "O‘quvchilarni ijodiy va tanqidiy fikrlashga jalb qilish",
+      "Reyting tizimidan foydalanish",
+      "Faqat jismoniy mashqlar",
+      "Nazoratni kuchaytirish"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "O‘quvchilarni muvaffaqiyatga erishishga qanday qilib motivatsiyalash mumkin?",
+    "options": [
+      "Faqat qiyin topshiriqlar berish orqali",
+      "Ularning o‘z yutuqlarini aniqlash va maqtash orqali",
+      "Faqat og‘zaki so‘zlashuv",
+      "Yozma ishlarni oshirish orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quv jarayonida vaqtni boshqarishning asosiy maqsadi nima?",
+    "options": [
+      "Faqat vaqtni tejash",
+      "Ta’lim jarayonini samarali tashkil qilish",
+      "O‘quvchilarni tezkor baholash",
+      "Har doim reyting tizimini ishlatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Vaqtni boshqarish uchun qanday vositalardan foydalanish samarali?",
+    "options": [
+      "Faqat jadval tuzish",
+      "Reja tuzish va ustuvor vazifalarni belgilash",
+      "Faqat darsliklarni o‘qish",
+      "Baholash jadvali tuzish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Resurslarni boshqarishda qanday yondashuv muhim?",
+    "options": [
+      "Faqat nazorat",
+      "Ustuvorlik va samaradorlikka e’tibor berish",
+      "Faqat reyting",
+      "Kitoblarni yodlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Innovatsion loyihalashning asosiy maqsadi nimada?",
+    "options": [
+      "O‘quvchilarni faqat baholash uchun tayyorlash",
+      "Ta’lim jarayonini ijodiy va yangicha yondashuvlar asosida tashkil etish",
+      "Faqat reyting tizimidan foydalanish",
+      "Yozma ishlar ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi usul loyihalashda ijodiy fikrlashni rivojlantiradi?",
+    "options": [
+      "Faqat texnik mashqlar",
+      "Muammoli vaziyat yaratish va yechim izlash",
+      "Reyting tizimini kuchaytirish",
+      "Sinovlardan o‘tkazish"
+    ],
+    "correct_index": null
+  },
+  {
+    "question": "Innovatsion loyihalash qanday yondashuvni talab qiladi?",
+    "options": [
+      "Faqat qiyin topshiriqlar berish",
+      "Yangi g‘oyalar va ijodiy fikrlashga ochiq bo‘lish",
+      "Faqat yozma mashg‘ulotlar",
+      "Reyting tizimiga asoslanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Raqamli vositalardan foydalanishning asosiy afzalligi nima?",
+    "options": [
+      "Har doim baholashni tezlashtirish",
+      "O‘quvchilar bilim olish jarayonini interaktiv va ko‘rgazmali qilish",
+      "Faqat texnik bilimlar o‘rgatish",
+      "Nazoratni kuchaytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Raqamli vositalardan foydalanishda qaysi omil muhim?",
+    "options": [
+      "Raqamli savodxonlik va texnologiyalar bilan tanishlik",
+      "Faqat yozma mashqlar",
+      "Har doim og‘zaki topshiriqlar",
+      "Matn yodlash"
+    ],
+    "correct_index": 0
+  },
+  {
+    "question": "Qaysi raqamli vosita ta’lim jarayonida hamkorlik va kommunikatsiyani yaxshilaydi?",
+    "options": [
+      "Faqat elektron kitoblar",
+      "Videokonferensiyalar va interaktiv taxtalar",
+      "Faqat yozma topshiriqlar",
+      "Sinov ishlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim sifatini oshirishning eng samarali usuli qaysi?",
+    "options": [
+      "Faqat baholash jarayonini kuchaytirish",
+      "Faoliyatga asoslangan va muammoli ta’limni joriy etish",
+      "Har doim reyting tizimidan foydalanish",
+      "Faqat o‘zlashtirish darajasini kuzatish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim sifatini oshirish uchun qanday yondashuv zarur?",
+    "options": [
+      "Faqat texnik bilimlarni o‘rgatish",
+      "Interfaol usullar va o‘quvchilarning qiziqishlarini hisobga olish",
+      "Faqat jismoniy tarbiya",
+      "Sinov natijalarini e’tiborga olish",
+      "Qattiq nazorat tamoyili",
+      "Individual yondashuv va differensial yondashuv",
+      "Reyting tizimiga e’tibor berish",
+      "O‘quv materiallari hajmini oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Refleksiya ta’lim jarayonida qanday maqsadga xizmat qiladi?",
+    "options": [
+      "Faqat baholash",
+      "O‘quvchilarning o‘z bilimlarini tahlil qilishi va o‘z-o‘zini baholashi uchun",
+      "Faqat og‘zaki so‘zlashuv",
+      "Yodlashni rivojlantirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Reflektiv yondashuv qaysi fazilatlarni rivojlantiradi?",
+    "options": [
+      "Faqat jismoniy kuch",
+      "Tanqidiy fikrlash va o‘z-o‘zini tahlil qilish",
+      "Faqat yozuv mashg‘ulotlari",
+      "Faqat texnik bilim"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarga o‘z-o‘zini baholashni o‘rgatishning samarali usuli qaysi?",
+    "options": [
+      "Faqat nazorat",
+      "Shaxsiy kundalik yuritish va o‘z yutuqlarini qayd etish",
+      "Faqat reyting tizimiga amal qilish",
+      "Sinovlarni ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Innovatsion strategiyalarni ta’lim jarayoniga joriy etishning asosiy maqsadi nimada?",
+    "options": [
+      "Faqat texnik bilimlarni oshirish",
+      "O‘quvchilarni ijodiy va samarali o‘qitish",
+      "Faqat reyting tizimida ishlash",
+      "Har doim baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi strategiya innovatsion ta’lim jarayoniga kiradi?",
+    "options": [
+      "Matn yodlash",
+      "Loyiha asosidagi o‘qitish va muammoli o‘qitish",
+      "Faqat nazorat qilish",
+      "Sinovlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Innovatsion strategiyalarni qo‘llashda qanday yondashuv talab qilinadi?",
+    "options": [
+      "Qattiq tartib",
+      "Moslashuvchanlik va ijodiy yondashuv",
+      "Faqat yozma topshiriqlar",
+      "Faqat baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim jarayonida ijtimoiylashuvning ahamiyati nimada?",
+    "options": [
+      "Faqat o‘quvchilarni o‘qitish",
+      "O‘quvchilarning jamiyatda muloqot qobiliyatini oshirish",
+      "Faqat texnik bilimlar o‘rgatish",
+      "Sinovlardan o‘tkazish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiylashuvni ta’minlash uchun qanday yondashuv qo‘llaniladi?",
+    "options": [
+      "Qattiq tartibga rioya qilish",
+      "Jamoaviy ishlash va guruh mashg‘ulotlari",
+      "Faqat yozma mashqlar",
+      "Faqat baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’limda moslashuvchan yondashuv qaysi jihatlarga asoslanadi?",
+    "options": [
+      "Faqat reyting tizimi",
+      "Har bir o‘quvchining individual ehtiyojlari va imkoniyatlariga moslashish",
+      "Yozma topshiriqlar berish",
+      "Matnlarni yodlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogik etika nima uchun muhim?",
+    "options": [
+      "Faqat baholash",
+      "O‘qituvchi va o‘quvchilar o‘rtasida hurmatli va ishonchli munosabatlarni saqlash",
+      "Faqat texnik ko‘nikmalarni oshirish",
+      "Reyting tizimini yaxshilash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Pedagogik etikaning asosiy tamoyillari nimadan iborat?",
+    "options": [
+      "Faqat nazorat va baholash",
+      "Adolat, hurmat va axloqiy mas’uliyat",
+      "Faqat reyting tizimi",
+      "Faqat jismoniy mashqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilar bilan ishlashda etik tamoyillar qanday saqlanishi kerak?",
+    "options": [
+      "Faqat tanbeh berish orqali",
+      "Hurmatli va teng munosabatlar asosida",
+      "Har doim baholarni oshirish orqali",
+      "Faqat sinovlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Texnologiyalardan foydalanish o‘quv jarayoniga qanday hissa qo‘shadi?",
+    "options": [
+      "Har doim baholarni oshiradi",
+      "Ta’limni interaktiv, qiziqarli va samarali qiladi",
+      "Faqat yozma topshiriqlar",
+      "Faqat sinov"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi texnologiya ta’lim jarayonini ko‘rgazmali va interaktiv qilishda yordam beradi?",
+    "options": [
+      "Faqat kitoblar",
+      "Interaktiv taxtalar va virtual laboratoriyalar",
+      "Faqat jismoniy mashqlar",
+      "Sinovlardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Texnologiyalardan foydalanishda qaysi omil asosiy hisoblanadi?",
+    "options": [
+      "Faqat nazorat qilish",
+      "Raqamli savodxonlik va zamonaviy vositalarni to‘g‘ri qo‘llash",
+      "Faqat baholash",
+      "Reyting tizimiga amal qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muammoli vaziyatlar ta’lim jarayonida qanday maqsadga xizmat qiladi?",
+    "options": [
+      "Faqat nazorat",
+      "O‘quvchilarni mustaqil fikrlash va muammolarni hal qilishga o‘rgatish",
+      "Faqat yodlash",
+      "Har doim baholarni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi metod muammoli vaziyatlar yaratishda samarali?",
+    "options": [
+      "Yozma topshiriqlar",
+      "Munozara va loyiha asosidagi o‘qitish",
+      "Reyting tizimi",
+      "Faqat nazorat"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Muammoli vaziyatlarni yaratishda qaysi yondashuv qo‘llaniladi?",
+    "options": [
+      "Faqat qattiq tartib",
+      "Tanqidiy tahlil va mantiqiy fikrlash",
+      "Faqat matnlarni yodlash",
+      "Reyting tizimi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’limda individual yondashuvning asosiy maqsadi nimada?",
+    "options": [
+      "Faqat texnik bilimlarni oshirish",
+      "Har bir o‘quvchining qobiliyat va ehtiyojlarini inobatga olish",
+      "Faqat reyting",
+      "Faqat baholashni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi yondashuv o‘quvchilarning individual ehtiyojlarini hisobga olishga imkon beradi?",
+    "options": [
+      "Faqat sinovlardan foydalanish",
+      "Differensial yondashuv",
+      "Faqat reyting tizimi",
+      "Texnik bilimlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Individual yondashuvni amalga oshirishda qanday omil muhim?",
+    "options": [
+      "Faqat matnlarni yodlash",
+      "O‘quvchilarning qiziqishlari va imkoniyatlarini hisobga olish",
+      "Faqat baholash tizimi",
+      "Reyting tizimiga e’tibor berish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim jarayonida maqsad qo‘yishning asosiy ahamiyati nimada?",
+    "options": [
+      "Har doim baholashni kuchaytirish",
+      "O‘quvchilarning o‘rganish jarayoniga aniq yo‘nalish berish",
+      "Faqat texnik topshiriqlar berish",
+      "Faqat sinovlardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Rejalashtirishda qanday omil muhim hisoblanadi?",
+    "options": [
+      "Qattiq nazorat o‘rnatish",
+      "Ta’lim maqsadlari va ularning amalga oshirish yo‘llarini belgilash",
+      "Faqat o‘qituvchining rejasiga amal qilish",
+      "Faqat sinovlardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’limda maqsadga erishishda qanday usul samarali?",
+    "options": [
+      "Faqat texnik ko‘nikmalarni rivojlantirish",
+      "Aniq va o‘lchab bo‘ladigan maqsadlar belgilash",
+      "Faqat baholash tizimiga amal qilish",
+      "Faqat sinov topshiriqlarini bajarish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘quvchilarda ijtimoiy faollikni qanday rivojlantirish mumkin?",
+    "options": [
+      "Faqat nazorat qilish orqali",
+      "Guruh ishlari va jamoaviy loyihalar orqali",
+      "Faqat matnlarni yodlash orqali",
+      "Faqat texnik topshiriqlar berish orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy faollikni oshirishning qanday foydasi bor?",
+    "options": [
+      "Faqat baholarni oshirish",
+      "O‘quvchilarni jamiyatda faol ishtirok etishga o‘rgatish",
+      "Faqat test topshiriqlarini ko‘paytirish",
+      "Faqat matn o‘qish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi metod ijtimoiy faollikni kuchaytirishga yordam beradi?",
+    "options": [
+      "Faqat eslatmalar yozish",
+      "Munozara va loyiha ishlari",
+      "Faqat yozma mashqlar",
+      "Reyting tizimi"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kreativ fikrlash deganda nimani tushunasiz?",
+    "options": [
+      "Faqat matn yodlash",
+      "Yangicha g‘oyalar va muammolarni original usullarda hal qilish",
+      "Faqat jismoniy mashg‘ulotlar",
+      "Faqat baholarni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Tanqidiy fikrlashni rivojlantirish uchun qanday metod samarali?",
+    "options": [
+      "Faqat yodlash",
+      "Muammoli masalalarni tahlil qilish va munozara usullari",
+      "Faqat texnik topshiriqlar",
+      "Sinovlardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Kreativ va tanqidiy fikrlash qanday ta’lim maqsadlariga xizmat qiladi?",
+    "options": [
+      "Faqat baholash",
+      "O‘quvchilarda ijodiy yondashuv va mustaqil tahlil qilish qobiliyatini rivojlantirish",
+      "Faqat yozma topshiriqlar",
+      "Faqat texnik bilimlarni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Madaniy tarbiyaning asosiy maqsadi nimada?",
+    "options": [
+      "Faqat baholash",
+      "O‘quvchilarda milliy qadriyatlar va madaniyatga hurmatni shakllantirish",
+      "Faqat texnik topshiriqlar",
+      "Reyting tizimidan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ma’naviy tarbiya qanday yo‘nalishga ega?",
+    "options": [
+      "Faqat yozma mashqlar",
+      "Axloqiy fazilatlarni rivojlantirish va ma’naviy qadriyatlarni mustahkamlash",
+      "Faqat matnlarni yodlash",
+      "Faqat texnik bilimlarni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Madaniy va ma’naviy tarbiyada qaysi yondashuv samaraliroq?",
+    "options": [
+      "Faqat nazorat qilish",
+      "Shaxsiy misollar va jamoaviy faoliyat orqali o‘rgatish",
+      "Faqat sinovdan o‘tkazish",
+      "Reyting tizimiga amal qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Baholashda adolat va shaffoflik qanday ahamiyatga ega?",
+    "options": [
+      "Har doim baholarni oshirish",
+      "O‘quvchilarga teng imkoniyatlar yaratish va ularga ob’ektiv yondashish",
+      "Faqat nazorat qilish",
+      "Sinov topshiriqlarini ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Adolatli baholash qanday metodlar orqali ta’minlanadi?",
+    "options": [
+      "Faqat sinovlar",
+      "Aniq va shaffof baholash mezonlari orqali",
+      "Faqat jismoniy mashqlar",
+      "Reyting tizimini kuchaytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Baholashda shaffoflikni oshirish uchun qanday choralar ko‘riladi?",
+    "options": [
+      "Faqat eslatmalar yozish",
+      "Baholash mezonlarini o‘quvchilarga ochiq tushuntirish va ularni baholash jarayoniga jalb qilish",
+      "Faqat reyting tizimiga e’tibor berish",
+      "Faqat test sinovlaridan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Individual ishlash o‘quvchilarga qanday foyda keltiradi?",
+    "options": [
+      "Faqat baholarni oshirish",
+      "Har bir o‘quvchining ehtiyoj va qobiliyatlariga mos ta’lim berish",
+      "Faqat reyting tizimini yaxshilash",
+      "Har doim nazorat qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Individual ishlashda qaysi yondashuv samaraliroq?",
+    "options": [
+      "Faqat qiyin topshiriqlar berish",
+      "Har bir o‘quvchi bilan alohida suhbatlar va ko‘nikmalarini rivojlantirish",
+      "Faqat baholarni kuzatish",
+      "Sinov topshiriqlarini ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qanday omillar individual ishlashni muvaffaqiyatli qiladi?",
+    "options": [
+      "Qattiq nazorat",
+      "O‘quvchilarning qiziqishlari va imkoniyatlarini inobatga olish",
+      "Faqat matnlarni yodlash",
+      "Reyting tizimiga amal qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Jamoaviy loyihalash qanday qobiliyatlarni rivojlantiradi?",
+    "options": [
+      "Faqat matn yodlash",
+      "Jamoaviy ishlash, hamkorlik va mas’uliyat",
+      "Faqat sinov ishlari",
+      "Faqat reyting tizimida baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Qaysi yondashuv jamoaviy loyihalarda muhim?",
+    "options": [
+      "Faqat shaxsiy ishlash",
+      "Muloqot, hamkorlik va fikr almashish",
+      "Faqat nazorat qilish",
+      "Faqat yozma topshiriqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Jamoaviy loyihalashning asosiy foydasi nimada?",
+    "options": [
+      "Reyting tizimida",
+      "O‘quvchilarning birgalikda ishlash ko‘nikmalarini oshirish va muammolarni jamoaviy hal qilish",
+      "Faqat yozma ishlarni bajarish",
+      "Sinov topshiriqlarini ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘z-o‘zini anglash nima uchun muhim?",
+    "options": [
+      "Faqat reyting tizimi",
+      "O‘quvchilarning o‘z imkoniyatlarini tushunishi va o‘z-o‘zini rivojlantirishga yo‘nalishi uchun",
+      "Faqat nazorat uchun",
+      "Faqat sinovlarni ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘ziga ishonchni rivojlantirishda qaysi usul samarali?",
+    "options": [
+      "Faqat baholash",
+      "O‘quvchilarga muvaffaqiyatga erishish imkoniyatini berish va ularni qo‘llab-quvvatlash",
+      "Faqat jismoniy mashg‘ulotlar",
+      "Reyting tizimini kuchaytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "O‘z-o‘zini anglashni rivojlantirish uchun qanday faoliyatlar foydali?",
+    "options": [
+      "Faqat matnlarni yodlash",
+      "Refleksiya, shaxsiy yutuqlarni qayd etish va o‘z-o‘zini baholash",
+      "Faqat test sinovlari",
+      "Faqat texnik topshiriqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy mas’uliyat nimani anglatadi?",
+    "options": [
+      "Faqat reyting tizimi",
+      "O‘quvchilarning jamiyatga foydali va mas’uliyatli a’zo bo‘lishi",
+      "Faqat nazoratni kuchaytirish",
+      "Faqat baholash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy mas’uliyatni rivojlantirishda qaysi faoliyat muhim?",
+    "options": [
+      "Faqat yozma ishlarni kuzatish",
+      "Jamoaviy loyihalar va ijtimoiy ishlarda qatnashish",
+      "Faqat matnlarni yodlash",
+      "Reyting tizimiga e’tibor berish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy mas’uliyatni oshirishning asosiy usuli nima?",
+    "options": [
+      "Har doim baholash",
+      "Shaxsiy misollar va jamiyatga xizmat qilish loyihalarida qatnashish",
+      "Faqat test sinovlari",
+      "Faqat texnik topshiriqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Axloqiy tarbiya qaysi yo‘nalishda o‘tkaziladi?",
+    "options": [
+      "Faqat baholash",
+      "Shaxsda ma’naviy va axloqiy fazilatlarni shakllantirish",
+      "Faqat reyting tizimi",
+      "Faqat jismoniy mashqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Xulq-atvorni shakllantirishda qaysi usul samarali?",
+    "options": [
+      "Faqat nazorat qilish",
+      "Misollar keltirish va axloqiy masalalarni muhokama qilish",
+      "Faqat matnlarni yodlash",
+      "Faqat sinov ishlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Axloqiy tarbiya qanday ko‘nikmalarni rivojlantiradi?",
+    "options": [
+      "Faqat texnik bilimlarni",
+      "Adolat, hurmat va mas’uliyat",
+      "Faqat jismoniy ko‘nikmalarni",
+      "Faqat baholarni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijodiy qobiliyatlar nimani anglatadi?",
+    "options": [
+      "Faqat matnlarni yodlash",
+      "O‘quvchilarning yangi g‘oyalarni yaratish va ijodiy yondashish qobiliyati",
+      "Faqat reyting tizimi",
+      "Faqat sinov ishlari"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijodiy qobiliyatlarni rivojlantirish uchun qanday usul samarali?",
+    "options": [
+      "Faqat baholash",
+      "Loyiha asosidagi o‘qitish va muammoli vaziyatlar yaratish",
+      "Faqat jismoniy mashg‘ulotlar",
+      "Faqat yozma topshiriqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijodiy fikrlashni rivojlantirishda qanday yondashuv muhim?",
+    "options": [
+      "Faqat qattiq tartib",
+      "Tanqidiy va kreativ fikrlashni qo‘llab-quvvatlash",
+      "Faqat texnik topshiriqlar",
+      "Sinovlardan o‘tkazish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Formativ baholash qanday maqsadga xizmat qiladi?",
+    "options": [
+      "Faqat sinov topshiriqlarini o‘tkazish",
+      "O‘quvchilarni o‘quv jarayonida muntazam kuzatish va o‘zlashtirish darajasini aniqlash",
+      "Faqat reyting tizimini yaxshilash",
+      "Faqat baholarni oshirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Summativ baholashning asosiy vazifasi nimada?",
+    "options": [
+      "Faqat yozma ishlarni kuzatish",
+      "O‘quvchilar bilimini yakuniy baholash",
+      "Har doim test sinovlarini o‘tkazish",
+      "Faqat jismoniy tayyorgarlik"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Diagnostik baholash qaysi vaqtda qo‘llaniladi?",
+    "options": [
+      "Faqat dars oxirida",
+      "O‘quvchilar bilim darajasini aniqlash uchun ta’lim jarayonining boshida",
+      "Faqat reyting tizimi",
+      "Faqat sinovlardan o‘tkazish uchun"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy kompetensiya nimani anglatadi?",
+    "options": [
+      "Faqat yozma topshiriqlar",
+      "Jamiyatda samarali muloqot qilish va jamoada ishlash qobiliyatini",
+      "Faqat texnik bilimlar",
+      "Reyting tizimidan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Fuqarolik kompetensiyasini shakllantirishning maqsadi nima?",
+    "options": [
+      "Faqat baholash",
+      "O‘quvchilarga fuqarolik huquqlari va burchlarini tushuntirish",
+      "Faqat matnlarni yodlash",
+      "Faqat jismoniy tarbiya"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ijtimoiy kompetensiyani rivojlantirish uchun qanday metod qo‘llaniladi?",
+    "options": [
+      "Faqat nazorat",
+      "Jamoaviy faoliyat va loyiha ishlari",
+      "Faqat yozma mashqlar",
+      "Faqat sinovlardan o‘tkazish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Axborot savodxonligi nimani anglatadi?",
+    "options": [
+      "Faqat texnik bilimlarni",
+      "Raqamli texnologiyalardan to‘g‘ri foydalanish va axborotni tahlil qilish qobiliyatini",
+      "Faqat matnlarni yodlash",
+      "Sinovlardan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Axborot savodxonligini rivojlantirish uchun qaysi vositalar qo‘llaniladi?",
+    "options": [
+      "Faqat kitoblar",
+      "Kompyuter va internet orqali o‘qitish",
+      "Faqat yozma mashqlar",
+      "Faqat texnik topshiriqlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Axborot texnologiyalari yordamida qanday kompetensiyalar rivojlanadi?",
+    "options": [
+      "Faqat jismoniy ko‘nikmalar",
+      "Tanqidiy fikrlash, muammoli masalalarni yechish va axborotni tahlil qilish",
+      "Faqat matnlarni yodlash",
+      "Faqat reyting tizimiga amal qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’limda sog‘lom muhit yaratishning asosiy maqsadi nimada?",
+    "options": [
+      "Faqat nazorat o‘rnatish",
+      "O‘quvchilarning ruhiy va jismoniy sog‘lig‘ini ta’minlash",
+      "Faqat yozma topshiriqlar",
+      "Faqat baholashni kuchaytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Sog‘lom muhitni yaratishda qanday yondashuv qo‘llaniladi?",
+    "options": [
+      "Faqat texnik topshiriqlar",
+      "O‘quvchilarni qo‘llab-quvvatlash va xavfsiz sharoit yaratish",
+      "Faqat baholarni kuzatish",
+      "Faqat reyting tizimiga amal qilish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ruhiy sog‘lom muhit yaratishda qanday omillar muhim?",
+    "options": [
+      "Faqat nazorat qilish",
+      "Samimiy va ishonchli munosabatlar, o‘zaro hurmat",
+      "Faqat yozma mashg‘ulotlar",
+      "Sinov topshiriqlarini ko‘paytirish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Mas’uliyatli yondashuv o‘quvchilarda qanday sifatlarni rivojlantiradi?",
+    "options": [
+      "Faqat jismoniy tayyorgarlik",
+      "Ishonch, javobgarlik va muammolarni mustaqil hal qilish qobiliyati",
+      "Faqat texnik ko‘nikmalar",
+      "Faqat matn yodlash"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Mas’uliyatli yondashuvni rivojlantirish uchun qanday yondashuv qo‘llaniladi?",
+    "options": [
+      "Faqat nazorat o‘rnatish",
+      "Qiyin vaziyatlarda o‘z-o‘zini boshqarish va mustaqil qarorlar qabul qilish",
+      "Faqat baholash",
+      "Reyting tizimi orqali"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Mas’uliyatli yondashuvni shakllantirishda qanday metodlar samarali?",
+    "options": [
+      "Faqat yozma topshiriqlar",
+      "Amaliy vazifalar, loyiha ishlari va o‘z-o‘zini baholash",
+      "Faqat test sinovlari",
+      "Faqat reyting tizimidan foydalanish"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Baholashning qaysi turi o‘quvchilarning rivojlanishini kuzatish uchun muhim?",
+    "options": [
+      "Har doim oxirgi sinov",
+      "Diagnostik va formativ baholash",
+      "Faqat yozma ishlar",
+      "Amaliy mashg‘ulotlar"
+    ],
+    "correct_index": 1
+  },
+  {
+    "question": "Ta’lim sifatini oshirishda qaysi tamoyil muhim?",
+    "options": [
+      "Qattiq nazorat tamoyili",
+      "Individual yondashuv va differensial yondashuv",
+      "Reyting tizimiga e’tibor berish",
+      "O‘quv materiallari hajmini oshirish"
+    ],
+    "correct_index": 1
+  }
+]
