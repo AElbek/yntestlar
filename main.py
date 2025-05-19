@@ -161,10 +161,11 @@ async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
         is_anonymous=False
     )
 
-    poll_data[msg.poll.id] = {
-        "question": question,
-        "chat_id": chat_id,
-        "user_id": user_id
+    poll_data[user_id] = {
+    "poll_id": msg.poll.id,
+    "question": question,
+    "chat_id": chat_id,
+    "user_id": user_id
     }
 
     delay = test_delays.get(state["selected_file"], 15)
@@ -191,9 +192,9 @@ async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE
     if poll_id not in poll_data:
         return
 
-    data = poll_data[poll_id]
-    if user_id != data["user_id"]:
-        return
+    data = poll_data.get(user_id)
+if not data or update.poll_answer.poll_id != data["poll_id"]:
+    return
 
     question = data["question"]
     if option_ids and option_ids[0] == question["correct_index"]:
