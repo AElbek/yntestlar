@@ -111,6 +111,40 @@ async def reload_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
     load_files()
     await update.message.reply_text("✅ Test va kechikish fayllari qayta yuklandi.")
 
+# ⬇⬇ SHU YERGA QO'SHING
+
+async def set_delay(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    if user_id not in ADMIN_IDS:
+        await update.message.reply_text("⛔ Siz admin emassiz.")
+        return
+
+    args = context.args
+    if len(args) != 2:
+        await update.message.reply_text("❗ Foydalanish: /setdelay <filename.json> <soniyada>")
+        return
+
+    filename, delay_str = args
+    if filename not in test_files:
+        await update.message.reply_text("❌ Fayl topilmadi.")
+        return
+
+    try:
+        delay = int(delay_str)
+    except ValueError:
+        await update.message.reply_text("❗ Delay son bo‘lishi kerak.")
+        return
+
+    test_delays[filename] = delay
+
+    # JSON faylga saqlash
+    with open("delays.json", "w", encoding="utf-8") as f:
+        json.dump(test_delays, f, ensure_ascii=False, indent=2)
+
+    await update.message.reply_text(f"✅ {filename} uchun delay {delay} soniyaga o‘rnatildi.")
+
+
+
 async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
@@ -227,6 +261,7 @@ def main():
     app.add_handler(CommandHandler("stop", stop))
     app.add_handler(CommandHandler("topics", topics))
     app.add_handler(CommandHandler("reload", reload_data))
+    app.add_handler(CommandHandler("setdelay", set_delay))
     app.add_handler(CommandHandler("stat", show_statistics))
     app.add_handler(PollAnswerHandler(receive_poll_answer))
     app.add_handler(CallbackQueryHandler(handle_callback))
