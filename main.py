@@ -56,7 +56,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return
 
     random.shuffle(all_questions)
-    delay = test_delays.get(selected_file, 15)
+    delay = test_delays.get(selected_file, 10)
     user_states[user_id] = {
         "active": True,
         "selected_file": selected_file,
