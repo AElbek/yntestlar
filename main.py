@@ -1,274 +1,282 @@
-import json
-import random
-import asyncio
+import logging
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import (
+    Application,
+    CommandHandler,
+    CallbackQueryHandler,
+    MessageHandler,
+    filters,
+    ContextTypes,
+    ConversationHandler
+)
+import sqlite3
 import os
 from dotenv import load_dotenv
-from telegram.constants import ParseMode
-from telegram import Update, Poll, InlineKeyboardMarkup, InlineKeyboardButton
-from telegram.ext import (
-    Application, CommandHandler, PollAnswerHandler,
-    MessageHandler, filters, ContextTypes, CallbackQueryHandler
-)
 
+# .env fayldan tokenni olish
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_IDS = list(map(int, os.getenv("ADMIN_IDS", "").split(",")))
 
-test_files = {}
-test_delays = {}
+# Loglama sozlash
+logging.basicConfig(
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
+)
+logger = logging.getLogger(__name__)
 
-def load_files():
-    global test_files, test_delays
-    test_files.clear()
-    for filename in os.listdir("."):
-        if filename.endswith(".json") and filename != "delays.json":
-            try:
-                with open(filename, "r", encoding="utf-8") as f:
-                    test_files[filename] = json.load(f)
-            except Exception as e:
-                print(f"⚠️ {filename} faylida xatolik: {e}")
-    if os.path.exists("delays.json"):
-        with open("delays.json", "r", encoding="utf-8") as f:
-            test_delays.update(json.load(f))
+# Conversation holatlari
+ADD_NAME, ADD_PHONE, ADD_PROFESSION, ADD_REGION = range(4)
+SEARCH = 0
 
-load_files()
+# Ma'lumotlar bazasini yaratish
+def init_db():
+    conn = sqlite3.connect('contacts.db')
+    c = conn.cursor()
+    c.execute('''CREATE TABLE IF NOT EXISTS contacts
+                 (id INTEGER PRIMARY KEY AUTOINCREMENT,
+                  name TEXT NOT NULL,
+                  phone TEXT NOT NULL,
+                  profession TEXT,
+                  region TEXT)''')
+    conn.commit()
+    conn.close()
 
-poll_data = {}  # user_id: poll info
-user_stats = {}
-user_states = {}
+# Kontakt qo'shish
+def add_contact(name, phone, profession, region):
+    conn = sqlite3.connect('contacts.db')
+    c = conn.cursor()
+    c.execute("INSERT INTO contacts (name, phone, profession, region) VALUES (?, ?, ?, ?)",
+              (name, phone, profession, region))
+    conn.commit()
+    conn.close()
 
+# Hudud/kasb bo'yicha qidirish
+def search_contacts(region=None, profession=None):
+    conn = sqlite3.connect('contacts.db')
+    c = conn.cursor()
+
+    if region and profession:
+        c.execute("SELECT * FROM contacts WHERE region=? AND profession=?", (region, profession))
+    elif region:
+        c.execute("SELECT * FROM contacts WHERE region=?", (region,))
+    elif profession:
+        c.execute("SELECT * FROM contacts WHERE profession=?", (profession,))
+    else:
+        c.execute("SELECT * FROM contacts")
+
+    results = c.fetchall()
+    conn.close()
+    return results
+
+# Unikal region va profession
+def get_regions():
+    conn = sqlite3.connect('contacts.db')
+    c = conn.cursor()
+    c.execute("SELECT DISTINCT region FROM contacts WHERE region IS NOT NULL")
+    regions = [row[0] for row in c.fetchall()]
+    conn.close()
+    return regions
+
+def get_professions():
+    conn = sqlite3.connect('contacts.db')
+    c = conn.cursor()
+    c.execute("SELECT DISTINCT profession FROM contacts WHERE profession IS NOT NULL")
+    professions = [row[0] for row in c.fetchall()]
+    conn.close()
+    return professions
+
+# Start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    state = user_states.get(user_id, {})
+    user = update.effective_user
+    await update.message.reply_html(
+        rf"Salom {user.mention_html()}! Men kontaktlarni boshqaruvchi botman.",
+        reply_markup=main_menu_keyboard(user.id)
+    )
 
-    if not state.get("selected_file"):
-        await topics(update, context)
-        return
-
-    if state.get("active"):
-        await update.message.reply_text("✅ Siz allaqachon testdasiz. Yakunlash uchun /stop ni bosing.")
-        return
-
-    selected_file = state["selected_file"]
-    all_questions = test_files.get(selected_file, [])
-    if not all_questions:
-        await update.message.reply_text("❗ Test savollari topilmadi.")
-        return
-
-    random.shuffle(all_questions)
-    delay = test_delays.get(selected_file, 10)
-    user_states[user_id] = {
-        "active": True,
-        "selected_file": selected_file,
-        "questions": all_questions,
-        "index": 0
-    }
-
-    user_stats[user_id] = {"name": update.effective_user.first_name, "correct": 0, "total": 0}
-    await update.message.reply_text(f"🧠 Test boshlandi! Har bir savoldan so‘ng {delay} soniya kutiladi.")
-    await send_quiz(update.effective_chat.id, user_id, context)
-
-async def stop(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    state = user_states.get(user_id, {})
-
-    if not state.get("active"):
-        await update.message.reply_text("⛔ Faol test yo‘q.")
-        return
-
-    user_states[user_id]["active"] = False
-    stat = user_stats.pop(user_id, None)
-    poll_data.pop(user_id, None)
-
-    if not stat:
-        await update.message.reply_text("⚠️ Test statistikasi yo‘q.")
-        return
-
-    correct = stat["correct"]
-    total = stat["total"]
-    percent = round(correct / total * 100) if total > 0 else 0
-    await update.message.reply_text(f"✅ Test yakunlandi.\n📊 Natija: {correct}/{total} — {percent}%")
-    user_states.pop(user_id, None)
-
-async def topics(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if not test_files:
-        await update.message.reply_text("❗ Hech qanday test fayli topilmadi.")
-        return
-
-    buttons = [
-        [InlineKeyboardButton(fname.replace(".json", ""), callback_data=f"select:{fname}")]
-        for fname in test_files
+def main_menu_keyboard(user_id):
+    keyboard = [
+        [InlineKeyboardButton("➕ Kontakt qo'shish", callback_data='add_contact')],
+        [InlineKeyboardButton("🔍 Kontakt qidirish", callback_data='search_contacts')],
+        [InlineKeyboardButton("📍 Hudud bo'yicha qidirish", callback_data='search_by_region')],
+        [InlineKeyboardButton("👨‍⚕️ Kasb bo'yicha qidirish", callback_data='search_by_profession')]
     ]
-    markup = InlineKeyboardMarkup(buttons)
-    await update.message.reply_text("📚 Fanni tanlang:", reply_markup=markup)
+    if user_id in ADMIN_IDS:
+        keyboard.append([InlineKeyboardButton("🛠 Admin panel", callback_data='admin_panel')])
+    return InlineKeyboardMarkup(keyboard)
 
-async def reload_data(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    if user_id not in ADMIN_IDS:
-        await update.message.reply_text("⛔ Siz admin emassiz.")
-        return
-
-    load_files()
-    await update.message.reply_text("✅ Test va kechikish fayllari qayta yuklandi.")
-
-# ⬇⬇ SHU YERGA QO'SHING
-
-async def set_delay(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    if user_id not in ADMIN_IDS:
-        await update.message.reply_text("⛔ Siz admin emassiz.")
-        return
-
-    args = context.args
-    if len(args) != 2:
-        await update.message.reply_text("❗ Foydalanish: /setdelay <filename.json> <soniyada>")
-        return
-
-    filename, delay_str = args
-    if filename not in test_files:
-        await update.message.reply_text("❌ Fayl topilmadi.")
-        return
-
-    try:
-        delay = int(delay_str)
-    except ValueError:
-        await update.message.reply_text("❗ Delay son bo‘lishi kerak.")
-        return
-
-    test_delays[filename] = delay
-
-    # JSON faylga saqlash
-    with open("delays.json", "w", encoding="utf-8") as f:
-        json.dump(test_delays, f, ensure_ascii=False, indent=2)
-
-    await update.message.reply_text(f"✅ {filename} uchun delay {delay} soniyaga o‘rnatildi.")
-
-
-
-async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def main_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
-    user_id = query.from_user.id
-    data = query.data
-
-    if data.startswith("select:"):
-        filename = data.split("select:")[1]
-        if filename in test_files:
-            user_states[user_id] = {"active": False, "selected_file": filename}
-            delay = test_delays.get(filename, 15)
-            await query.edit_message_text(f"✅ Fan tanlandi: {filename.replace('.json', '')}\n⏱ Delay: {delay} s\n/start ni bosing.")
-        else:
-            await query.edit_message_text("❌ Fayl topilmadi.")
-
-async def send_quiz(chat_id, user_id, context: ContextTypes.DEFAULT_TYPE):
-    state = user_states.get(user_id)
-    if not state or not state.get("active"):
-        return
-
-    index = state.get("index", 0)
-    questions = state.get("questions", [])
-    if index >= len(questions):
-        await context.bot.send_message(chat_id, "✅ Barcha savollar yakunlandi.")
-        user_states[user_id]["active"] = False
-        return
-
-    question = questions[index]
-
-    # 🔀 Variantlarni randomlashtirish
-    options = question["options"]
-    correct_index = question["correct_index"]
-    indexed_options = list(enumerate(options))
-    random.shuffle(indexed_options)
-
-    for new_index, (old_index, _) in enumerate(indexed_options):
-        if old_index == correct_index:
-            shuffled_correct_index = new_index
-            break
-
-    shuffled_options = [opt[:100] for _, opt in indexed_options]
-
-    msg = await context.bot.send_poll(
-        chat_id=chat_id,
-        question=f"[{index+1}/{len(questions)}] {question['question'][:300]}",
-        options=shuffled_options,
-        type=Poll.QUIZ,
-        correct_option_id=shuffled_correct_index,
-        is_anonymous=False
+    await query.edit_message_text(
+        "Bosh menyu:",
+        reply_markup=main_menu_keyboard(query.from_user.id)
     )
 
-    poll_data[user_id] = {
-        "poll_id": msg.poll.id,
-        "question": question,
-        "chat_id": chat_id,
-        "user_id": user_id
-    }
+# Qo'shish funksiyalari
+async def add_contact_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    await query.edit_message_text("Kontakt ismini kiriting:")
+    return ADD_NAME
 
-    delay = test_delays.get(state["selected_file"], 15)
-    context.job_queue.run_once(
-        send_next_question_auto,
-        delay,
-        data={"user_id": user_id, "chat_id": chat_id}
+async def add_name(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    context.user_data['name'] = update.message.text
+    await update.message.reply_text("Telefon raqamini kiriting:")
+    return ADD_PHONE
+
+async def add_phone(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    context.user_data['phone'] = update.message.text
+    await update.message.reply_text("Kasbini kiriting:")
+    return ADD_PROFESSION
+
+async def add_profession(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    context.user_data['profession'] = update.message.text
+    await update.message.reply_text("Hududni (shahar/tuman) kiriting:")
+    return ADD_REGION
+
+async def add_region(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    context.user_data['region'] = update.message.text
+    add_contact(
+        context.user_data['name'],
+        context.user_data['phone'],
+        context.user_data['profession'],
+        context.user_data['region']
     )
+    await update.message.reply_text("✅ Kontakt muvaffaqiyatli qo'shildi!", reply_markup=main_menu_keyboard(update.effective_user.id))
+    return ConversationHandler.END
 
-async def send_next_question_auto(context: ContextTypes.DEFAULT_TYPE):
-    data = context.job.data
-    user_id = data["user_id"]
-    chat_id = data["chat_id"]
-
-    if user_states.get(user_id, {}).get("active"):
-        user_states[user_id]["index"] += 1
-        await send_quiz(chat_id, user_id, context)
-
-async def receive_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    poll_id = update.poll_answer.poll_id
-    user_id = update.poll_answer.user.id
-    option_ids = update.poll_answer.option_ids
-
-    data = poll_data.get(user_id)
-    if not data or poll_id != data["poll_id"]:
+# Admin panel
+async def admin_panel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    if query.from_user.id not in ADMIN_IDS:
+        await query.edit_message_text("❌ Sizda admin huquqlari mavjud emas.")
         return
+    contacts = search_contacts()
+    message = f"📊 Umumiy kontaktlar soni: {len(contacts)}"
+    await query.edit_message_text(message, reply_markup=InlineKeyboardMarkup([
+        [InlineKeyboardButton("🏠 Bosh menyu", callback_data='main_menu')]
+    ]))
 
-    question = data["question"]
-    if option_ids and option_ids[0] == question["correct_index"]:
-        user_stats[user_id]["correct"] += 1
-    user_stats[user_id]["total"] += 1
+# Qidiruv menyulari
+async def search_contacts_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    await query.edit_message_text("Qidirish turini tanlang:", reply_markup=search_menu_keyboard())
 
-async def show_statistics(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if not user_stats:
-        await update.message.reply_text("⛔ Statistikalar yo‘q.")
+def search_menu_keyboard():
+    keyboard = [
+        [InlineKeyboardButton("📍 Hudud bo'yicha", callback_data='search_by_region')],
+        [InlineKeyboardButton("👨‍⚕️ Kasb bo'yicha", callback_data='search_by_profession')],
+        [InlineKeyboardButton("🔍 Barcha kontaktlar", callback_data='all_contacts')],
+        [InlineKeyboardButton("◀️ Orqaga", callback_data='main_menu')]
+    ]
+    return InlineKeyboardMarkup(keyboard)
+
+async def search_by_region(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    regions = get_regions()
+    if not regions:
+        await query.edit_message_text("Hozircha hech qanday hudud qo'shilmagan.")
         return
+    keyboard = [[InlineKeyboardButton(region, callback_data=f'region_{region}')]
+                for region in regions]
+    keyboard.append([InlineKeyboardButton("◀️ Orqaga", callback_data='search_contacts')])
+    await query.edit_message_text("Hududni tanlang:", reply_markup=InlineKeyboardMarkup(keyboard))
 
-    msg = "📊 Foydalanuvchi statistikasi:\n\n"
-    for stat in user_stats.values():
-        percent = round(stat["correct"] / stat["total"] * 100) if stat["total"] else 0
-        msg += f"• {stat['name']}: {stat['correct']}/{stat['total']} — {percent}%\n"
+async def search_by_profession(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    professions = get_professions()
+    if not professions:
+        await query.edit_message_text("Hozircha hech qanday kasb qo'shilmagan.")
+        return
+    keyboard = [[InlineKeyboardButton(prof, callback_data=f'profession_{prof}')]
+                for prof in professions]
+    keyboard.append([InlineKeyboardButton("◀️ Orqaga", callback_data='search_contacts')])
+    await query.edit_message_text("Kasbni tanlang:", reply_markup=InlineKeyboardMarkup(keyboard))
 
-    await update.message.reply_text(msg)
+async def show_region_contacts(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    region = query.data.split('_', 1)[1]
+    contacts = search_contacts(region=region)
+    if not contacts:
+        await query.edit_message_text(f"❌ {region} hududida kontakt topilmadi.", reply_markup=back_to_search_keyboard())
+        return
+    message = f"📍 {region} hududidagi kontaktlar:\n\n"
+    for c in contacts:
+        message += f"👤 {c[1]}\n📞 {c[2]}\n💼 {c[3]}\n🌍 {c[4]}\n\n"
+    await query.edit_message_text(message, reply_markup=back_to_search_keyboard())
 
-# 🔒 Test vaqtida boshqa xabarlar uchun handler
-async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    state = user_states.get(user_id, {})
+async def show_profession_contacts(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    profession = query.data.split('_', 1)[1]
+    contacts = search_contacts(profession=profession)
+    if not contacts:
+        await query.edit_message_text(f"❌ {profession} kasbidagi kontakt topilmadi.", reply_markup=back_to_search_keyboard())
+        return
+    message = f"👨‍⚕️ {profession} kasbidagi kontaktlar:\n\n"
+    for c in contacts:
+        message += f"👤 {c[1]}\n📞 {c[2]}\n💼 {c[3]}\n🌍 {c[4]}\n\n"
+    await query.edit_message_text(message, reply_markup=back_to_search_keyboard())
 
-    if state.get("active"):
-        return  # Test jarayonida javob bermaymiz
-    await topics(update, context)
+async def show_all_contacts(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    query = update.callback_query
+    await query.answer()
+    contacts = search_contacts()
+    if not contacts:
+        await query.edit_message_text("❌ Kontaktlar mavjud emas.", reply_markup=back_to_search_keyboard())
+        return
+    message = "📋 Barcha kontaktlar:\n\n"
+    if len(contacts) > 10:
+        contacts = contacts[-10:]
+        message = "📋 So'ngi 10 kontakt:\n\n"
+    for c in contacts:
+        message += f"👤 {c[1]}\n📞 {c[2]}\n💼 {c[3]}\n🌍 {c[4]}\n\n"
+    if len(contacts) >= 10:
+        message += "⚠️ Faqat so'ngi 10 kontakt ko'rsatilmoqda."
+    await query.edit_message_text(message, reply_markup=back_to_search_keyboard())
+
+def back_to_search_keyboard():
+    return InlineKeyboardMarkup([
+        [InlineKeyboardButton("🔙 Qidiruv menyusiga", callback_data='search_contacts')],
+        [InlineKeyboardButton("🏠 Bosh menyu", callback_data='main_menu')]
+    ])
+
+async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text('❌ Bekor qilindi.', reply_markup=main_menu_keyboard(update.effective_user.id))
+    return ConversationHandler.END
 
 def main():
-    app = Application.builder().token(BOT_TOKEN).build()
+    init_db()
+    application = Application.builder().token(TOKEN).build()
 
-    app.add_handler(CommandHandler("start", start))
-    app.add_handler(CommandHandler("stop", stop))
-    app.add_handler(CommandHandler("topics", topics))
-    app.add_handler(CommandHandler("reload", reload_data))
-    app.add_handler(CommandHandler("setdelay", set_delay))
-    app.add_handler(CommandHandler("stat", show_statistics))
-    app.add_handler(PollAnswerHandler(receive_poll_answer))
-    app.add_handler(CallbackQueryHandler(handle_callback))
-    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_text))
+    conv_handler = ConversationHandler(
+        entry_points=[CallbackQueryHandler(add_contact_start, pattern='^add_contact$')],
+        states={
+            ADD_NAME: [MessageHandler(filters.TEXT & ~filters.COMMAND, add_name)],
+            ADD_PHONE: [MessageHandler(filters.TEXT & ~filters.COMMAND, add_phone)],
+            ADD_PROFESSION: [MessageHandler(filters.TEXT & ~filters.COMMAND, add_profession)],
+            ADD_REGION: [MessageHandler(filters.TEXT & ~filters.COMMAND, add_region)],
+        },
+        fallbacks=[CommandHandler('cancel', cancel)]
+    )
 
-    print("✅ Bot ishga tushdi...")
-    app.run_polling()
+    application.add_handler(CommandHandler('start', start))
+    application.add_handler(conv_handler)
+    application.add_handler(CallbackQueryHandler(main_menu, pattern='^main_menu$'))
+    application.add_handler(CallbackQueryHandler(search_contacts_menu, pattern='^search_contacts$'))
+    application.add_handler(CallbackQueryHandler(search_by_region, pattern='^search_by_region$'))
+    application.add_handler(CallbackQueryHandler(search_by_profession, pattern='^search_by_profession$'))
+    application.add_handler(CallbackQueryHandler(show_region_contacts, pattern='^region_'))
+    application.add_handler(CallbackQueryHandler(show_profession_contacts, pattern='^profession_'))
+    application.add_handler(CallbackQueryHandler(show_all_contacts, pattern='^all_contacts$'))
+    application.add_handler(CallbackQueryHandler(admin_panel, pattern='^admin_panel$'))
 
-if __name__ == "__main__":
+    application.run_polling()
+
+if __name__ == '__main__':
     main()
